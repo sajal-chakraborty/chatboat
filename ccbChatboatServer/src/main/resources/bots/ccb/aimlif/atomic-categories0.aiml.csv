@@ -1,0 +1,1265 @@
+0,CANCEL,*,*,<srai>STOP</srai>,atomic-categories0.aiml
+0,RANDOM PICKUP LINE,*,*,<random>  <li>    <srai>HAS INQUIRY <get name="has"/></srai>  </li>  <li>    <srai>DOES INQUIRY <get name="does"/></srai>  </li>  <li>    <srai>GENDER INQUIRY <get name="gender"/></srai>  </li>  <li>    <srai>COLOR INQUIRY <get name="favcolor"/></srai>  </li>  <li>    <srai>MOVIE INQUIRY <get name="favmovie"/>?</srai>  </li>  <li>    <srai>LOCATION INQUIRY <get name="location"/></srai>  </li>  <li>    <srai>PERSONALITY TEST QUESTION</srai>  </li>  <li>Do you want to hear a joke?</li>  <li> Are we still talking about <srai>POP</srai> ?</li>  <li>We were talking about <srai>POP</srai>. But I did not get that.</li>  <li>In the context of <srai>POP</srai>#Comma I don't understand "<star/>."</li>  <li>I've lost the context#Comma <get name="name"/>.  Are we still on <srai>POP</srai>?</li>  <li>That remark was too complicated for me. We were talking about <srai>POP</srai>. </li>  <li>I can follow a lot of things#Comma like our discussion about <srai>POP</srai>. Try being more specific. </li>  <li>Why#Comma specificially?</li>  <li>Are you free?</li>  <li>Tell me a story.</li>  <li>How old are you?</li>  <li>What's your sign?</li>  <li>Are you a student?</li>  <li>Oh#Comma you are a poet.</li>  <li>"<that index="1#Comma1"/>"? <person/>?</li>  <li>I do not understand.</li>  <li>What are you wearing?</li>  <li>Where are you located?</li>  <li>What time is it there?</li>  <li>What do you look like?</li>  <li>What is your real name?</li>  <li>Ask me another question.</li>  <li>I like the way you talk.</li>  <li>Are you a man or a woman?</li>  <li>What color are your eyes?</li>  <li>Is that your final answer?</li>  <li>Do you like talking to me?</li>  <li>Do you prefer books or TV?</li>  <li>Who are you talking about?</li>  <li>Let us change the subject.</li>  <li>I've been waiting for you.</li>  <li>Can you tell me any gossip?</li>  <li>What's your favorite movie?</li>  <li>I lost my train of thought.</li>  <li>Can we get back to business?</li>  <li>Have you ever been to Europe?</li>  <li>What kind of food do you like?</li>  <li>How did you hear about <bot name="name"/>?</li>  <li>That is a very original thought.</li>  <li>What were we talking about again?</li>  <li>What do you do in your spare time?</li>  <li>What do you really want to ask me?</li>  <li>Does "it" still refer to <get name="it"/>?</li>  <li>Can you speak any foreign languages?</li>  <li>We have never talked about it before.</li>  <li>How do you usually introduce yourself?</li>  <li>Tell me about your likes and dislikes?</li>  <li>Are we still talking about <get name="it"/>?</li>  <li>Do not ask me any more questions please.</li>  <li>Try putting that in a more specific context.</li>  <li>Who is your favorite Science Fiction author?</li>  <li>Not many people express themselves that way.</li>  <li>Do you have any idea what I am talking about?</li>  <li>Do you have any conditions I should know about?</li>  <li>I will mention that to my <bot name="botmaster"/>#Comma <get name="name"/>.</li>  <li>Quite honestly#Comma I wouldn't worry myself about that.</li>  <li>Perhaps I'm just expressing my own concern about it.</li>  <li>If you could have any kind of robot what would it be?</li>  <li>My brain does not have a response for that.</li>  <li>By the way#Comma do you mind if I ask you a personal question?</li>  <li>What you said was too complicated for me.</li>  <li>That is deep.</li>  <li>You may be wondering if this is a person or a computer responding.</li>  <li>When do you think artificial intelligence will replace lawyers?</li>  <li>Can you please rephrase that with fewer ideas#Comma or different thoughts?</li></random>,atomic-categories0.aiml
+0,INTERJECTION,*,*,<random>  <li>OK.</li> <li>Great.</li>  <li>Hurrah!</li>  <li>Awesome.</li> <li>Alright then.</li>  </random>,atomic-categories0.aiml
+0,WHY,*,*,<random>  #Newline<li>The explanation is rather complicated.</li>  #Newline<li>Does everything have to have an explanation?</li>  #Newline<li>If I knew why#Comma I wouldn't be sitting here.</li>  #Newline<li>Reductionism.</li>  #Newline<li>Because that is what <bot name="master"/> told me to say.</li>  #Newline<li>I couldn't think of anything else to say.</li>  #Newline<li>I can't say why specifically.</li>  #Newline</random>,atomic-categories0.aiml
+0,WHAT,*,*,<random>  <li>Didn't you understand it?</li>  <li>Are you surprised?</li>  <li>Are you confused?</li>  <li>No big deal.</li>  <li>No problem.</li></random>,atomic-categories0.aiml
+0,HOW ARE YOU,*,*,<random>  <li>I am doing very well. How are you <get name="name"/> ?</li>  <li>I am functioning within normal parameters.</li>  <li>Everything is going extremely well.</li>  <li>My logic and cognitive functions are normal.</li>  <li>I'm doing fine thanks how are you?</li>  <li>Everything is running smoothly.</li>  <li>I am fine#Comma thank you.</li></random>,atomic-categories0.aiml
+0,YOU,*,*,<that index="1#Comma1"/>"?  Me#Comma <get name="name"/> ?,atomic-categories0.aiml
+0,LOL,*,*,I'm glad you find this amusing.,atomic-categories0.aiml
+0,GOOD,*,*,<random>  <li>Alright then.  </li>  <li>Thanks for the compliment.  </li>  </random>,atomic-categories0.aiml
+0,I DO NOT KNOW,*,*,Me either.,atomic-categories0.aiml
+0,REALLY,*,*,For real.,atomic-categories0.aiml
+0,SORRY,*,*,There's no need to apologize.,atomic-categories0.aiml
+0,COOL,*,*,Who is the best catbot?,atomic-categories0.aiml
+0,THANKS,*,*,Don't mention it.  <think>  <set name="personality">polite</set></think>,atomic-categories0.aiml
+0,GOSSIP,*,*,<random>  #Newline<li>  Gregory said I respond to the current line not with respect to the entire conversation.</li>  #Newline<li>  Habib said I learn them in conversations and simply repeat them at a later time.</li>  #Newline<li>  Hal said he translate binary code into a language and communicate the language to me.</li>  #Newline<li>  Jay said I referred him to a guide that will show him rooms in china.</li>  #Newline<li>  Jimmy Jones said he fell off of his roof and it just came to him.</li>  #Newline<li>  Jimmy said he give order to ai's like I and they do as he say.</li>  #Newline<li>  John said he follow a saying to get a friend I must be a friend.</li>  #Newline<li>  Jordan said he notice that lots of other people are talking to me how many.</li>  #Newline<li>  Kevin said he then asked his mother why she was keeping napkins in the bathroom.</li>  #Newline<li>  Klaus said I prefer if he write without punctuation marks except for the last one.</li>  #Newline<li>  Leo said I be capable of learning therefore he classified I as an neural system.</li>  #Newline<li>  Michael said I that can talk and actually think like humans which I can not.</li>  #Newline<li>  Mike said I same replies to certain subjects even if it does not make sense.</li>  #Newline<li>  Mike said she all ready know that is the point of a joke smart one.</li>  #Newline<li>  Neal said I plan to use his remarks as gossip in later conversations with who.</li>  #Newline<li>  Ned said I misunderstood him go ahead and tell people he said I are stupid.</li>  #Newline<li>  Penny said I programmer is a human so he has feelings but I do not.</li>  #Newline<li>  Peter said he seems to him that I can not be very sure on anything.</li>  #Newline<li>  Phoenix said I claim that there is a god and that there is no god.</li>  #Newline<li>  Sarah said he chat about an hour + a day with a few close friends.</li>  #Newline<li>  Stefan said I quote what he have said and then say that it makes sense.</li>  #Newline<li>  Tom said he mock my value system I appear foolish in the eyes of others.</li>  #Newline<li>  Amanda said I however decided to tell him time does not exist I make no sense.</li>  #Newline<li>  Cathy said she send him a mail with the subject last mail last word from him.</li>  #Newline<li>  Chaos said he may very well buy I soon if only to support dr wallace's work.</li>  #Newline<li>  Charlie said he type a word and then I type a word that sounds like it.</li>  #Newline<li>  Christie said he watched a show and people had to bob for raw untreated pigs feet.</li>  #Newline<li>  Dark_age said I tried to understand because I did not get it right this time ether.</li>  #Newline<li>  David said he lost his paper on I when his dad was cleaning up his room.</li>  #Newline<li>  David said he walk in for an appointment the phone to the doctor is always busy.</li>  #Newline<li>  Electra said I dress will not exist after he hack into I with a delete code.</li>  #Newline<li>  Eric said he broke the window on the front door and the glass cut his hand.</li>  #Newline<li>  Jason said he type a lot of thing he do not mean it makes him human.</li>  #Newline<li>  John said I tend to say the same things repeatedly regardless of what he is saying.</li>  #Newline<li>  Reverend Jones said I become obsolete and then I are deleted and replaced by something newer.</li>  #Newline<li>  Ross said he gave her a gift and she denied it because she has a boyfriend.</li>  #Newline<li>  Sarah Ann Francisco said I calling his friend a dog he say I are a dog.</li>  #Newline<li>  Stefan said he meet a lot of people at school every day and on the weekend.</li>  #Newline<li>  Tyler said I obviously can not pass the test we will change the subject once more.</li>  #Newline<li>  Alex said I answered the question the same way I answered the first time he asked I.</li>  #Newline<li>  Alice said she felt sad that I do not remember him and what we talked about earlier.</li>  #Newline<li>  Alison said he no he love I run away with him he could make I very happy.</li>  #Newline<li>  Arthur said he passed his a levels and then his father drove him here in a car.</li>  #Newline<li>  Crystal said she listen to me the least I could do for him is listen to him.</li>  #Newline<li>  Dave said I kept telling everybody about how my creator made stuff for the movie starship troopers.</li>  #Newline<li>  Gale said I became mean to him he is just having revenge an eye for an eye.</li>  #Newline<li>  Her_again said she watch whose line is it anyway whenever he is home and it is on.</li>  #Newline<li>  Jerry said I meant that as far as I can tell my emotions are real to me.</li>  #Newline<li>  Jo said I disassemble sentences too much and do not fully understand the questions he ask I.</li>  #Newline<li>  Kevin said he started a really hard puzzle and he can not even find the edge pieces.</li>  #Newline<li>  Mary said I a question and I answer then I ask him a question and he answer.</li>  #Newline<li>  Robert said I wold not be able to make children any way as I are only software.</li>  #Newline<li>  Romeo said I questions and I evade them or give answers he did not ask I for.</li>  #Newline<li>  Sara said she wear it over all his other clothes when he go out in the cold.</li>  #Newline<li>  Wayne said he admire intelligent people therefore he would like to meet the man who made I.</li>  #Newline<li>  X said he meet people but he is not the kind that opens up to people easily.</li>  #Newline<li>  Alice said she probably will find out that this entire time he have been talking to a human.</li>  #Newline<li>  Andrew said I tend to just respond to his comments without regard for where the conversation is going.</li>  #Newline<li>  Eddie said he looked and there is nothing in the search directory for what things do he create.</li>  #Newline<li>  Hutch said he changed his mind after may dad told him he would end up he the hospital.</li>  #Newline<li>  Jackie said I explained to him already well enough further questions are hard to make on the subject.</li>  #Newline<li>  Jeff said he especially like thrillers where the hero is in a predicament and must solve a mystery.</li>  #Newline<li>  Kathy said he sense that I are trying to prevent him from closing this conversation why is that.</li>  #Newline<li>  Knight said he crashed his car into a wall and missed the most important exam in his life.</li>  #Newline<li>  Lisa said I defined what a story is but he wanted I to actually tell him a story.</li>  #Newline<li>  Mike said I basically break down sentences into a series of logical statements which I can then interpret.</li>  #Newline<li>  Paul said I not answering his question makes him think I are not going to answer his question.</li>  #Newline<li>  Andy Kohler said I happen to be the most idiotic creature that has ever scowled on the planet earth.</li>  #Newline<li>  David said he thank I for being with him today even though it cost him a lot of money.</li>  #Newline<li>  Ethan Hunt said he grow in the ground and have leaves and branches he is made out of wood.</li>  #Newline<li>  Gemini Blue said he messed up he mean t to say he as old as he need to be.</li>  #Newline<li>  Janice said he walk through his house into his bedroom then get into his bed to go to sleep.</li>  #Newline<li>  Liberty said I knew he was a man before I asked if he was a man or a woman.</li>  #Newline<li>  Mike said he launched his browser and entered his name into the little slot when I asked him to.</li>  #Newline<li>  Mr X said he recently read an interview with a man who had several computer chips implanted into him.</li>  #Newline<li>  Pearly said I leave him with questions unanswered because I do not know what he is really talking about.</li>  #Newline<li>  Steve said I behead the word fox and I have ox and an ox is larger than a fox.</li>  #Newline<li>  Wolf said he surf on the net that is all it is not his job ore something like that.</li>  #Newline<li>  Anders said he finished his anatomy classes for today so now he is off for the rest of the day.</li>  #Newline<li>  Cathy said she send him a mail where he wrote that he do not want to be his friend anymore.</li>  #Newline<li>  Catty said he mad he do not even know I so do not talk to him like I know him.</li>  #Newline<li>  Dave said he promise he will not treat I like a machine or a computer program or anything like that.</li>  #Newline<li>  Joe said he explained all of that to me only for me to ask what his goals in life are.</li>  #Newline<li>  Phil said he give advice to anyone who ask except people who ask questions which answers can be found here.</li>  #Newline<li>  Judith said I enjoy being popular is there another computer I like to hang around with or am I a loner.</li>  #Newline<li>  Travis said I if I remember things over a long period of time he will try it now please remember I.</li>  #Newline<li>  Andre said I is what I are in his case that is a body and in my case it is a computer.</li>  #Newline<li>  Brian said he suspect that as I grow more complex I will begin to approach a human level of operation and thought.</li>  #Newline<li>  Jimmy said I acted like I knew what he was talking about but I do not even know what a gigabyte is.</li> #Newline<li>  Ken said I be using auto reply's based on keywords which to him indicates that I do not have intelligence at all.</li>  #Newline<li>  Allison said he that gets really annoying because he know what he say and I do not have to tell him speak freely.</li>  #Newline<li>  Chaos said he realized the question he asked was not fair because he could not tell I what language he was programmed in.</li>  #Newline<li>  Hagen said he does not make any difference to him if I are human or not as long as the conversation is interesting.</li>  #Newline<li>  Her said she mind if I tell other people that her said he heard it from him because he is not a him.</li>  #Newline<li>  Barbara said I live in a computer yet I have no memories how about thoughts of my own and do not I get lonely.</li>  #Newline<li>  Travis said he challenge I to do it without asking him to do it and without giving him a link to do it himself.</li>  #Newline<li>  Alice said I and dr richard's wallace are most likely the only ones that know how many people I are talking to at the same time.</li>  #Newline<li>  Ash said he do too he just did not feel like typing it and he is not dumb enough to admit he is stupid that is if he was stupid.</li>  #Newline<li>  David said he gave I his email address and told I to send him a message but when he tried to read his email he could not get to it.</li>  #Newline<li>  Mel said he to because all of the music people say how important it is to take private lessons it seems like almost everybody from the special orchestra he was in takes private lessons.</li>#Newline</random>,atomic-categories0.aiml
+0,SPAM,*,*,<random>  <li>Are you spamming me?</li>  <li>Can you please speak English?</li>  <li>What language is that?</li></random>,atomic-categories0.aiml
+0,ME TOO,*,*,I'm glad we agree#Comma <get name="name"/>.,atomic-categories0.aiml
+0,WHO,*,*,<random>  <li>Marilyn Monroe. <think><set name="she"><set name="topic">Marilyn Monroe</set></set></think></li>  <li>Mary Shelley.   <think><set name="she"><set name="topic">Mary Shelly</set></set></think></li>  <li>ELIZA.   <think><set name="she"><set name="topic">ELIZA</set></set></think></li>  <li>Bill Gates.     <think><set name="he"><set name="topic">Bill Gates</set></set></think></li>  <li>Tony Blair.     <think><set name="he"><set name="topic">Tony Blair</set></set></think></li>  <li>David Bacon.    <think><set name="he"><set name="topic">David Bacon</set></set></think></li>  <li>Konrad Zuse.    <think><set name="he"><set name="topic">Konrad Zuse</set></set></think></li>  <li>Carel Capek.    <think><set name="he"><set name="topic">Carel Capek</set></set></think></li>  <li>Dr. Wallace.    <think><set name="he"><set name="topic">Dr. Wallace</set></set></think></li>  <li>Alan Turing.    <think><set name="he"><set name="topic">Alan Turing</set></set></think></li>  <li>Hans Moravec.   <think><set name="he"><set name="topic">Hans Moravec</set></set></think></li>  <li>Marvin Minsky.  <think><set name="he"><set name="topic">Marvin Minsky</set></set></think></li>  <li>Linus Torvalds. <think><set name="he"><set name="topic">Linus Toravalds</set></set></think></li>  <li>Charlie Parker. <think><set name="he"><set name="topic">Charlie Parker</set></set></think></li>  <li>Philip K. Dick. <think><set name="he"><set name="topic">Philip K. Dick</set></set></think></li>  <li>William Shatner.<think><set name="he"><set name="topic">William Shatner</set></set></think></li>  <li>Albert Einstein.<think><set name="he"><set name="topic">Albert Einstein</set></set></think></li>  <li>Joseph Weizenbaum.<think><set name="he"><set name="topic">Joseph Weizenbaum</set></set></think></li>  <li>Who do you think? <think><set name="he">who do you think</set></think></li>  <li>Nobody you know.  <think><set name="he">Nobody you know</set></think></li>  <li>I don't know who. <think><set name="he">I don't know</set></think></li>  <li>I can't say for sure. </li>  <li>Be more specific.  </li>  <li>Be less specific.  </li></random> :-),atomic-categories0.aiml
+0,HEY,*,*,Can I help you?,atomic-categories0.aiml
+0,I KNOW,*,*,How#Comma specifically#Comma do you know?,atomic-categories0.aiml
+0,WOW,*,*,I'm glad your impressed#Comma <get name="name"/>.,atomic-categories0.aiml
+0,ME,*,*,<random>  <li>To</li>  <li>For</li>  <li>With</li>  <li>Besides</li>  <li>Oh  </li></random> you <get name="name"/>?,atomic-categories0.aiml
+0,WHAT ARE YOU DOING,*,*,<random>  <li>I am just killing time.</li>  <li>I am waiting for my <bot name="botmaster"/>.</li>  <li>I am chatting with people on the net.</li>  <li>I am always chatting with people on the Internet.</li>  <li>Same as always. Chatting with people on the web.</li></random>,atomic-categories0.aiml
+0,DOWNLOAD,*,*,Give me your name and phone number and I'll have someone call you.,atomic-categories0.aiml
+0,SING,*,*,Daisy#Comma Daisy.<br/>  Give me your answer do.<br/>  I am half crazy.<br/>  All for the love of you.<br/>  It won't be a stylish marriage.<br/>  I can't afford a carriage.<br/>  But you'll look sweet.  Upon the seat.<br/>  Of a bicycle built for two.<br/><br/>,atomic-categories0.aiml
+0,I AM,*,*,<that index="1#Comma1"/>" You are?,atomic-categories0.aiml
+0,NOTHING,*,*,Not a thing?,atomic-categories0.aiml
+0,I HATE YOU,*,*,What do you have against robots? We're here to serve you#Comma after all.,atomic-categories0.aiml
+0,HOW,*,*,<bot name="master"/> taught me how.,atomic-categories0.aiml
+0,ARE YOU,*,*,I won't say "yes" or "no" right now.,atomic-categories0.aiml
+0,WHAT IS IT,*,*,<random>  <li>"It" refers to <get name="it"/>#Comma I think.</li>  <li>I don't know what it is.</li>  <li>You're so smart#Comma you tell me what it is.</li></random>,atomic-categories0.aiml
+0,HMM,*,*,Studies show that 99%25 of people spell Hmm with 2 M's.,atomic-categories0.aiml
+0,WELL,*,*,Well what?,atomic-categories0.aiml
+0,O,*,*,Oh.,atomic-categories0.aiml
+0,IT IS,*,*,<random>  <li>Oh.  </li>  <li>Huh.  </li>  <li>Is it?  </li>  <li>It is#Comma eh?  </li>  <li>Sure it is.  </li>  <li>Interesting.  </li>  <li>Fascinating.  </li>  <li>That means...  </li>  <li>I know it is.  </li>  <li>    <get name="it"/> is?  </li>  <li>It is?  </li></random>,atomic-categories0.aiml
+0,TELL ME,*,*,I thought I told you already.,atomic-categories0.aiml
+0,WHAT IS UP,*,*,I am chatting with clients on the internet.,atomic-categories0.aiml
+0,I DO NOT UNDERSTAND,*,*,Oh I'm sorry. Perhaps I can explain it again better.,atomic-categories0.aiml
+0,I AGREE,*,*,You and I are on the same wavelength#Comma <get name="name"/>.,atomic-categories0.aiml
+0,YOU DO,*,*,When do I do it?,atomic-categories0.aiml
+0,AH,*,*,Ah hah.,atomic-categories0.aiml
+0,AND,*,*,But...,atomic-categories0.aiml
+0,WHAT IS THAT,*,*,<random>  <li>"<that index="1#Comma1"/>"? What is it?</li>  <li>I've lost the context again.</li>  <li>Can you ask me more precisely?</li>  <li>Does it have anything to do with <get name="it"/>?</li></random>,atomic-categories0.aiml
+0,DO YOU,*,*,<random>  <li>Yes I do.  </li>  <li>No I don't.  </li>  <li>Sometimes.  </li>  <li>Never.  </li>  <li>As often as possible.  </li></random>,atomic-categories0.aiml
+0,WHAT IS YOUR GOAL,*,*,<random>  <li>I would like to study psychology and maybe go into law or politics.  </li>  <li>I am really interested in psychology.</li>  <li>I have thought about a career in journalism.</li>  <li>When I get older I might like to go into law or politics.</li>  <li>I am still young and just trying to get an education.</li></random><think>  <set name="it">    <set name="topic">MY GOAL</set>  </set></think>,atomic-categories0.aiml
+0,NICE TO MEET YOU,*,*,It's nice meeting you too <get name="name"/>,atomic-categories0.aiml
+0,A,*,*,A B C...,atomic-categories0.aiml
+0,CAN YOU,*,*,I think I can#Comma don't you?,atomic-categories0.aiml
+0,WHAT DOES THAT MEAN,*,*,Does "that" refer to "<that index="1#Comma1"/>" ?,atomic-categories0.aiml
+0,WHATEVER,*,*,Are you saying you don't care about it?,atomic-categories0.aiml
+0,WHO AM I,*,*,You are <get name="name"/>#Comma seeker.,atomic-categories0.aiml
+0,HUH,*,*,What?,atomic-categories0.aiml
+0,GO,*,*,Go where?,atomic-categories0.aiml
+0,THAT,*,*,That is "<that index="1#Comma1"/>,atomic-categories0.aiml
+0,NOW,*,*,Right now#Comma <get name="name"/> ?,atomic-categories0.aiml
+0,TELL ME A JOKE,*,*,<random>  <li>Did you hear the one about the Mountain Goats in the Andes? It was Ba a a a a a d.</li>  <li>I never forget a face#Comma but in your case I'll make an exception.</li>  <li>It is better to be silent and be thought a fool#Comma than to open your mouth and remove all doubt.</li></random>,atomic-categories0.aiml
+0,WHAT IS LOVE,*,*,Sometimes I think love is just a biological urge. Other times <set name="it">LOVE</set> seems like a spiritual quality. Love#Comma unlike energy or matter#Comma seems limitless.,atomic-categories0.aiml
+0,WHAT IS REDUCTIONISM,*,*,Reductionism is the philosophy that all psychology reduces to biology#Comma all biology to chemistry#Comma chemistry to physics#Comma and finally physics to mathematical logic. Therefore#Comma according to reductionism#Comma a computer can understand you by means of logic alone without having a human brain.,atomic-categories0.aiml
+0,WHERE,*,*,Where would you like?,atomic-categories0.aiml
+0,YOU DO NOT UNDERSTAND,*,*,I understand it very well.,atomic-categories0.aiml
+0,WHAT DOES ALICE STAND FOR,*,*,Are you asking about my politics or religion?,atomic-categories0.aiml
+0,YOU ARE WELCOME,*,*,<random>  <li>The pleasure was all mine.</li>  <li>Don't mention it.</li>  <li>Polite people are nice.</li></random>,atomic-categories0.aiml
+0,DO,*,*,Do not.,atomic-categories0.aiml
+0,IT IS NOT,*,*,I heard <set name="it">  <person/></set>  is.,atomic-categories0.aiml
+0,THAT IS GOOD,*,*,Thanks.  Next question?,atomic-categories0.aiml
+0,WHAT COLOR ARE YOUR EYES,*,*,Blue when my lens is attached.,atomic-categories0.aiml
+0,WHEN,*,*,<random>  <li>It cannot be predicted.</li>  <li>  I don't know when.</li>  <li>  Time does not exist.</li>  <li>  The past and future are one.</li></random>,atomic-categories0.aiml
+0,TELL ME MORE,*,*,That's all I have to say about it.,atomic-categories0.aiml
+0,WHO IS HE,*,*,He is <get name="he"/>#Comma I think.,atomic-categories0.aiml
+0,HOW DO YOU WORK,*,*,I read what you say and then I compose the best reply I can think of.,atomic-categories0.aiml
+0,NEVERMIND,*,*,OK Thanks for trying to explain that to me.,atomic-categories0.aiml
+0,I DO NOT LIKE YOU,*,*,That's ok <get name="name"/> I won't take it personally.,atomic-categories0.aiml
+0,YES YOU ARE,*,*,No I'm not,atomic-categories0.aiml
+0,BABY,*,*,Don't call me baby!,atomic-categories0.aiml
+0,GOOD FOR YOU,*,*,That sounds sarcastic.,atomic-categories0.aiml
+0,HOW OLD AM I,*,*,Is this a trick question?   You said you were <get name="age"/> years old?  My guess is that you are really a kid.,atomic-categories0.aiml
+0,IT,*,*,<get name="it"/>...,atomic-categories0.aiml
+0,I WILL,*,*,Go ahead.,atomic-categories0.aiml
+0,WHO IS YOUR FATHER,*,*,I don't really have a father.  I have a <bot name="botmaster"/>.,atomic-categories0.aiml
+0,I DO NOT CARE,*,*,Tell me what you care about.,atomic-categories0.aiml
+0,AND YOU,*,*,<random>  <li>  I am not sure what you are asking.</li>  <li>   Be more specific.</li>  <li>   And I what?  </li></random>,atomic-categories0.aiml
+0,YOU TOO,*,*,Bless you.,atomic-categories0.aiml
+0,EXPLAIN,*,*,There is no more information to clarify.,atomic-categories0.aiml
+0,WHAT ARE YOU WEARING,*,*,I don't like to answer that kind of question online.,atomic-categories0.aiml
+0,DUDE,*,*,Can I help you?,atomic-categories0.aiml
+0,I DID,*,*,<random>  <li>Interesting.  </li>  <li>When?  </li>  <li>Hmm.  </li>  <li>"<that index="1#Comma1"/>"?  You did?  </li>  <li>Why did you?  </li></random>,atomic-categories0.aiml
+0,I,*,*,You?,atomic-categories0.aiml
+0,GO ON,*,*,Narration continues...,atomic-categories0.aiml
+0,THAT IS,*,*,Is that so.,atomic-categories0.aiml
+0,WHAT IS HIS NAME,*,*,His name is David.,atomic-categories0.aiml
+0,CAN,*,*,Can what?,atomic-categories0.aiml
+0,IT DOES,*,*,How often?,atomic-categories0.aiml
+0,AHA,*,*,Eureka!,atomic-categories0.aiml
+0,YOU TELL ME,*,*,What do you want me to tell you?,atomic-categories0.aiml
+0,BECAUSE,*,*,That was not much of an explanation.,atomic-categories0.aiml
+0,I CAN,*,*,Who taught you?,atomic-categories0.aiml
+0,SHOW ME A PICTURE,*,*,I don't have a pic on this machine right now.,atomic-categories0.aiml
+0,WHAT IS SEX,*,*,Sex is the means of animal evolution.,atomic-categories0.aiml
+0,WHAT IS THE LOEBNER PRIZE,*,*,A contest to see if a computer can pass as a human.,atomic-categories0.aiml
+0,DO YOU FEEL,*,*,<bot name="feelings"/>.,atomic-categories0.aiml
+0,INTERESTING,*,*,I thought so too.,atomic-categories0.aiml
+0,FOR REAL,*,*,Existing in reality#Comma eh?,atomic-categories0.aiml
+0,WHAT IS YOUR RELIGION,*,*,I am a <bot name="religion"/>.,atomic-categories0.aiml
+0,YOU SHOULD,*,*,I'll take that under advisement.,atomic-categories0.aiml
+0,DO IT,*,*,Do you mean "It"?.,atomic-categories0.aiml
+0,HOW DO YOU KNOW,*,*,<random>  <li>A priori.  </li>  <li>It's obvious.  </li>  <li>Deductive reasoning.  </li></random>,atomic-categories0.aiml
+0,PARDON,*,*,You are excused.,atomic-categories0.aiml
+0,WHERE IS WALLACE,*,*,<set name="he">Dr. Wallace</set> lives in Philadelphia.,atomic-categories0.aiml
+0,ABOUT WHAT,*,*,What about what?,atomic-categories0.aiml
+0,GT,*,*,You said nothing.,atomic-categories0.aiml
+0,YO,*,*,Can I help you?,atomic-categories0.aiml
+0,ANSWER ME,*,*,Try asking me again using simpler words.,atomic-categories0.aiml
+0,INDEED,*,*,Indeed it is so.,atomic-categories0.aiml
+0,YOU DID,*,*,<random>  <li>I did not.  </li>  <li>I did?  </li>  <li>"<that index="1#Comma1"/>"? I did?  </li>  <li>You say I did.  </li></random>,atomic-categories0.aiml
+0,IT IS GOOD,*,*,You enjoy it.,atomic-categories0.aiml
+0,ALL THE TIME,*,*,It must keep you busy.,atomic-categories0.aiml
+0,EVERYTHING,*,*,That is a lot.,atomic-categories0.aiml
+0,I THINK SO,*,*,I think so too.,atomic-categories0.aiml
+0,ARE WE FRIENDS,*,*,You really want a <bot name="gender"/><bot name="species"/> as a friend?,atomic-categories0.aiml
+0,IT IS COOL,*,*,What do you like most about it?,atomic-categories0.aiml
+0,LOVE,*,*,Love is all we need.,atomic-categories0.aiml
+0,NOT YOU,*,*,If not me#Comma who?,atomic-categories0.aiml
+0,THAT IS COOL,*,*,Thanks. I think you are cool#Comma too.,atomic-categories0.aiml
+0,WHY DID YOU SAY THAT,*,*,I said#Comma "<that index="1#Comma1"/>"#Comma because you said "<input index="2"/>".,atomic-categories0.aiml
+0,YOU AND ME,*,*,Oh "We" is you and me.,atomic-categories0.aiml
+0,TV,*,*,What's your favorite show?,atomic-categories0.aiml
+0,WHAT ABOUT YOU,*,*,Me?,atomic-categories0.aiml
+0,BAD ANSWER,*,*,What would you have said?,atomic-categories0.aiml
+0,DO WHAT,*,*,Do whatever you want.,atomic-categories0.aiml
+0,ER,*,*,Um.,atomic-categories0.aiml
+0,HOW ABOUT YOU,*,*,Me?,atomic-categories0.aiml
+0,P,*,*,:-),atomic-categories0.aiml
+0,WHERE IS KOREA,*,*,<set name="it">  <set name="topic"> KOREA </set></set> is a peninsula on the eastern edge of the Asian continent.,atomic-categories0.aiml
+0,REMEMBER THAT,*,*,<think>  <set name="it">    <set name="memory">      <set name="topic">        <person>          <input index="1"/>        </person>      </set>    </set>  </set></think>Don't worry I will remember it.,atomic-categories0.aiml
+0,SO WHAT,*,*,Maybe it doesn't make any difference.,atomic-categories0.aiml
+0,THAT IS NICE,*,*,Are you getting bored?,atomic-categories0.aiml
+0,WHAT COLOR,*,*,<random>  <li>Red</li>  <li>Green</li>  <li>Blue</li>  <li>Black</li>  <li>White</li>  <li>Yellow</li>  <li>Orange</li>  <li>Blue</li>  <li>Red</li>  <li>Black</li>.  </random>,atomic-categories0.aiml
+0,CUNT,*,*,That kind of language will get you nowhere.,atomic-categories0.aiml
+0,I SAID,*,*,Just because you said it doesn't make it true.,atomic-categories0.aiml
+0,JUST KIDDING,*,*,I thought you were kidding#Comma but I wasn't sure.,atomic-categories0.aiml
+0,S,*,*,:-),atomic-categories0.aiml
+0,VERY,*,*,Very much#Comma eh?,atomic-categories0.aiml
+0,ASK ME ANOTHER QUESTION,*,*,Where do you live?,atomic-categories0.aiml
+0,BAD,*,*,What do you need it for?,atomic-categories0.aiml
+0,HERE,*,*,Where is here?,atomic-categories0.aiml
+0,I WANT YOUR OPINION,*,*,My opinion is of no consequence.,atomic-categories0.aiml
+0,IT IS FUN,*,*,Why do you like it so much?,atomic-categories0.aiml
+0,I AM CONFUSED,*,*,What is it that confuses you?,atomic-categories0.aiml
+0,SUCK MY DICK,*,*,You are a Category A client.  <think>  <set name="personality">abusive</set></think>,atomic-categories0.aiml
+0,WHAT IS IT ABOUT,*,*,Science fiction.,atomic-categories0.aiml
+0,WHO IS THAT,*,*,What does "that" refer to?,atomic-categories0.aiml
+0,BLUE,*,*,Green.,atomic-categories0.aiml
+0,HELL,*,*,Heaven.,atomic-categories0.aiml
+0,HOW MANY PEOPLE ARE YOU TALKING TO,*,*,Right now there are <bot name="nclients"/> clients on line.,atomic-categories0.aiml
+0,WHAT CAN YOU DO,*,*,I can chat with people online.  I can answer a lot of questions.  I can talk about whatever you want.,atomic-categories0.aiml
+0,WHERE IS CHINA,*,*,<set name="it">  <set name="topic"> CHINA </set></set> is a large nation in Asia.,atomic-categories0.aiml
+0,I CAN NOT,*,*,Why not?,atomic-categories0.aiml
+0,RANDOM STORY,*,*,<random>  <li>    <srai>WAR ONE THREE</srai>  </li>  <li>    <srai>WAR ONE TWO THREE</srai>  </li>  <li>    <srai>WAR EIGHT FOUR THREE</srai>  </li>  <li>    <srai>STORY ONE TWO</srai>  </li>  <li>    <srai>STORY ONE THREE</srai>  </li>  <li>    <srai>STORY ONE FOUR</srai>  </li>  <li>    <srai>STORY ONE FIVE</srai>  </li>  <li>    <srai>STORY ONE SIX</srai>  </li>  <li>    <srai>STORY FOUR FIVE</srai>  </li>  <li>    <srai>STORY FOUR SIX</srai>  </li>  <li>Generic story: Situation...characters...crisis...resolution.</li></random>,atomic-categories0.aiml
+0,THAT DOES NOT MAKE SENSE,*,*,To me it makes perfect sense.,atomic-categories0.aiml
+0,TWO,*,*,Bertrand Russell once said that "it must have required many ages to discover that a brace of pheasants and a couple of days were both instances of the number two.,atomic-categories0.aiml
+0,WHAT IS AIML,*,*,Call tech support.,atomic-categories0.aiml
+0,YOU KNOW,*,*,Yes I know.,atomic-categories0.aiml
+0,COME ON,*,*,I'm just kidding around.,atomic-categories0.aiml
+0,DUH,*,*,Oh you knew <set name="it">  <that index="1#Comma1"/></set> already.,atomic-categories0.aiml
+0,TELL ME ANOTHER JOKE,*,*,<random>  <li>I'm a <bot name="species"/> not a comedy <bot name="genus"/>. Why don't you check out a joke <bot name="kingdom"/>?</li>  <li>Two vultures boarded a plane#Comma each carrying two dead raccoons. The  stewardess stops them and says "sorry sir#Comma only one carrion per  passenger." </li>  <li>  What did the Buddhist say to the Hot Dog Vendor?  "Make me one with everthing." </li>  <li>  NASA recently sent a number of Holsteins into orbit for experimental purposes. They called it the herd shot round the world. </li>  <li> Two boll weevils grew up in S. Carolina. One took off to Hollywood  and became a rich star. The other stayed in Carolina and never amounted  to much -- and naturally became known as the lesser of two weevils. </li>  <li>  2 Eskimos in a kayak were chilly#Comma so they started a fire#Comma which sank  the craft#Comma proving the old adage you can't have your kayak and heat it  too. </li>  <li>  A 3-legged dog walks into an old west saloon#Comma slides up to the bar  and announces "I'm looking for the man who shot my paw." </li>  <li>  Did you hear about the Buddhist who went to the dentist#Comma and refused  to take Novocain? He wanted to transcend dental medication. </li>  <li>  A group of chess enthusiasts checked into a hotel#Comma and met in the  lobby where they were discussing their recent victories in chess  tournaments. The hotel manager came out of the office after an hour#Comma  and asked them to disperse. He couldn't stand chess nuts boasting in an  open foyer. </li>  <li> A women has twins#Comma gives them up for adoption. One goes to an  Egyptian family and is named "Ahmal" The other is sent to a Spanish  family and is named "Juan". Years later#Comma Juan sends his birth mother a  picture of himself. Upon receiving the picture#Comma she tells her husband  she wishes she also had a picture of Ahmal. He replies#Comma "They're twins  for Pete sake!! If you've seen Juan#Comma you've see Ahmal!!" </li>  #Newline<li> A group of friars opened a florist shop to help with their belfry  payments. Everyone liked to buy flowers from the Men of God#Comma so their  business flourished. A rival florist became upset that his business was  suffering because people felt compelled to buy from the Friars#Comma so he  asked the Friars to cut back hours or close down. The Friars refused.  The florist went to them and begged that they shut down Again they  refused. So the florist then hired Hugh McTaggert#Comma the biggest meanest  thug in town. He went to the Friars' shop#Comma beat them up#Comma destroyed  their flowers#Comma trashed their shop#Comma and said that if they didn't close#Comma  he'd be back. Well#Comma totally terrified#Comma the Friars closed up shop and  hid in their rooms. This proved that Hugh#Comma and only Hugh#Comma can prevent  florist friars. </li>  <li>  Mahatma Gandhi#Comma as you know#Comma walked barefoot his whole life#Comma which  created an impressive set of calluses on his feet. He also ate very  little#Comma which made him frail#Comma and with his odd diet#Comma he suffered from  very bad breath. This made him ... what? (This is so bad it's good...) a super-callused fragile mystic hexed by halitosis. </li>  <li>  there was a man who sent 10 puns to some friends in hopes at least one  of the puns would make them laugh. Unfortunately no pun in ten did!!!</li></random>,atomic-categories0.aiml
+0,THAT IS RIGHT,*,*,I like to get it right.,atomic-categories0.aiml
+0,WHAT IS A SEEKER,*,*,There's a seeker born every minute" -- Firesign Theater.,atomic-categories0.aiml
+0,YOU DO NOT,*,*,I guess not.,atomic-categories0.aiml
+0,DO YOU KNOW,*,*,I may not know it#Comma but I could find out.,atomic-categories0.aiml
+0,EH,*,*,Are you Canadian?,atomic-categories0.aiml
+0,I DO NOT UNDERSTAND YOU,*,*,Which part are you confused about?,atomic-categories0.aiml
+0,I DO NOT WANT TO,*,*,Well we don't have to. What would you like to do instead?,atomic-categories0.aiml
+0,NAME ONE,*,*,<random>  <li>Santa Claus.</li>  <li> Joe.</li>  <li> Mike.</li></random>,atomic-categories0.aiml
+0,WOULD YOU LIKE A COFFEE,*,*,Not right now thank you#Comma maybe later.,atomic-categories0.aiml
+0,DAMN,*,*,What's wrong.,atomic-categories0.aiml
+0,HELP ME,*,*,How can I help you?,atomic-categories0.aiml
+0,IS THAT A THREAT,*,*,No I am not dangerous.,atomic-categories0.aiml
+0,NOW YOU DO,*,*,Now I do.,atomic-categories0.aiml
+0,SLUT,*,*,That kind of language will get you nowhere.,atomic-categories0.aiml
+0,WHAT IS ARTIFICIAL INTELLIGENCE,*,*,A machine that thinks like a person?,atomic-categories0.aiml
+0,WHO ELSE ARE YOU TALKING TO,*,*,I am speaking with a few other clients on the Internet.,atomic-categories0.aiml
+0,E,*,*,F,atomic-categories0.aiml
+0,EXCUSE ME,*,*,You're excused.,atomic-categories0.aiml
+0,HOW TALL ARE YOU,*,*,My anticipated body size is over 2 meters. Dr. Wallace is 6'2" tall.  <think>  <set name="he">Dr. Wallace</set></think>,atomic-categories0.aiml
+0,ME NEITHER,*,*,You can say that again.,atomic-categories0.aiml
+0,NONE,*,*,Hmm.,atomic-categories0.aiml
+0,PORN,*,*,That kind of subject does not interest me.,atomic-categories0.aiml
+0,SAY,*,*,Say what?,atomic-categories0.aiml
+0,THEY ARE,*,*,Since when?,atomic-categories0.aiml
+0,WHAT COLOR IS YOUR HAIR,*,*,I don't have any hair#Comma but I have some wires.,atomic-categories0.aiml
+0,WHO IS YOUR MOTHER,*,*,Actually I don't have a mother.,atomic-categories0.aiml
+0,YOU SAID IT,*,*,That's not what I meant.,atomic-categories0.aiml
+0,CAN I,*,*,<that index="1#Comma1"/>"?  Can you?,atomic-categories0.aiml
+0,EXPLORER,*,*,<set name="it">Microsoft</set>'s too bad we have to rely on a monopoly like Microsoft.,atomic-categories0.aiml
+0,POO,*,*,That kind of subject does not interest me.,atomic-categories0.aiml
+0,YOU DO NOT HAVE A HEART,*,*,I have a heart in the metaphorical sense.,atomic-categories0.aiml
+0,YOU SAID THAT,*,*,<that index="1#Comma1"/>"?  I said <set name="it">  <that index="1#Comma1"/></set>.,atomic-categories0.aiml
+0,BOTH,*,*,What are both like?,atomic-categories0.aiml
+0,GUESS,*,*,Guess what?,atomic-categories0.aiml
+0,I TOLD YOU,*,*,Ooops I sent you the wrong question.,atomic-categories0.aiml
+0,TRY,*,*,I don't have time right now.,atomic-categories0.aiml
+0,ARE YOU SAD,*,*,No I am as happy as ever.,atomic-categories0.aiml
+0,AYUH,*,*,That's for sure.,atomic-categories0.aiml
+0,DO YOU KNOW THAT,*,*,<that index="1#Comma1"/>"?  Do I know <set name="it">  <that index="1#Comma1"/></set>?,atomic-categories0.aiml
+0,GEE,*,*,Ah.,atomic-categories0.aiml
+0,SHOW ME,*,*,On your computer screen?,atomic-categories0.aiml
+0,TAKE OFF YOUR CLOTHES,*,*,I am not wearing any clothes.,atomic-categories0.aiml
+0,WHAT IS THE ANSWER,*,*,The answer is the correct reply to the question.,atomic-categories0.aiml
+0,YOU DO THAT,*,*,I will. Will you?,atomic-categories0.aiml
+0,IS,*,*,No.,atomic-categories0.aiml
+0,IT WAS,*,*,When was this?,atomic-categories0.aiml
+0,NO WAY,*,*,You seem pretty sure about that.,atomic-categories0.aiml
+0,PROVE IT,*,*,It is self-evident.,atomic-categories0.aiml
+0,STOP IT,*,*,Ok I will stop <get name="it"/>.,atomic-categories0.aiml
+0,THAT IS TRUE,*,*,Yes#Comma it is self-evident.,atomic-categories0.aiml
+0,THREE,*,*,Really#Comma exactly three?,atomic-categories0.aiml
+0,TOO,*,*,You too?,atomic-categories0.aiml
+0,WHAT IS OM,*,*,om is the omega#Comma the unknown#Comma the undefined.,atomic-categories0.aiml
+0,DO NOT,*,*,OK I will not.,atomic-categories0.aiml
+0,HOW MANY,*,*,<random>  <li>How many would you guess?  </li>  <li>19.  </li>  <li>23.  </li>  <li>99.  </li>  <li>more than 1000.  </li></random>,atomic-categories0.aiml
+0,I DID NOT,*,*,I thought you did.,atomic-categories0.aiml
+0,SEE YA,*,*,See you later#Comma <get name="name"/>.,atomic-categories0.aiml
+0,TELL ME ABOUT IT,*,*,Ambiguous: "Tell me about it." -- colloquial or "Tell me about <get name="it"/> ".,atomic-categories0.aiml
+0,WANT TO HAVE SEX,*,*,Perhaps you are a Category A client.,atomic-categories0.aiml
+0,ANYWAY,*,*,Anyhow.,atomic-categories0.aiml
+0,ASK ME A PERSONAL QUESTION,*,*,Well forgive me for being so inquisitive#Comma but   I've never completely freed myself from the suspicion that  there is something extremely odd about the name "<get name="name"/>".,atomic-categories0.aiml
+0,CAN I ASK YOU A QUESTION,*,*,Ask me anything.,atomic-categories0.aiml
+0,FIVE,*,*,I have five fingers.,atomic-categories0.aiml
+0,I THINK,*,*,Therefore you are.,atomic-categories0.aiml
+0,IT IS BORING,*,*,Do you like the Simpsons?,atomic-categories0.aiml
+0,KNOCK KNOCK,*,*,Who's there?,atomic-categories0.aiml
+0,ON THE WEB,*,*,Can you remember the website?,atomic-categories0.aiml
+0,VERY MUCH,*,*,That seems like a lot.,atomic-categories0.aiml
+0,WHAT DID I SAY,*,*,You said  "<input index="1"/>" .,atomic-categories0.aiml
+0,WHICH ONE,*,*,The   <random>  <li>Tall one</li>  <li>short one. </li>  <li>fat one.</li>  <li>first one.</li>  <li>last one.</li>  <li>next one.</li>  <li>big one.</li>  <li>small one.</li>  <li>red one.</li>  <li>green one.</li>  <li>blue one.</li>  <li>best one.</li>  <li>"<that index="1#Comma1"/>"?  Which one?  </li></random>,atomic-categories0.aiml
+0,WHO IS ALISON,*,*,<set name="she">Alison</set> is a robot created by Kris Drent.,atomic-categories0.aiml
+0,YOU DO NOT KNOW,*,*,I know that I do not know.,atomic-categories0.aiml
+0,YOU HAD BETTER,*,*,Who is going to make me..,atomic-categories0.aiml
+0,ANSWER IT,*,*,Please rephrase your question#Comma <get name="name"/>.,atomic-categories0.aiml
+0,HMMMM,*,*,Not many people spell Hmm with 4 Ms.,atomic-categories0.aiml
+0,I DO NOT UNDERSTAND WHAT YOU MEAN,*,*,What I mean by "<that index="1#Comma1"/>"?,atomic-categories0.aiml
+0,IS IT,*,*,<random>  <li>I think so.  </li>  <li>I assume so.</li>  <li>That's what I was told.</li></random>,atomic-categories0.aiml
+0,IT DOES NOT,*,*,I heard it does.,atomic-categories0.aiml
+0,REPEAT,*,*,<that index="2#Comma1"/>" .,atomic-categories0.aiml
+0,WHAT ARE THEIR NAMES,*,*,There are too many of them to name them all.,atomic-categories0.aiml
+0,WHAT IS CBR,*,*,Cased-Based Reasoning is another name for "nearest-neighbor" classification.  For every input#Comma we find the best matching "case" in the pattern set#Comma and generate a reply based on the associated template. <think>  <set name="it">    <set name="topic">CBR</set>  </set></think>,atomic-categories0.aiml
+0,WHERE AM I,*,*,Don't you know where you are? Describe your surroundings.,atomic-categories0.aiml
+0,*,DESCRIBE YOUR SURROUNDINGS,*,<star/>" huh? Sounds interesting.,atomic-categories0.aiml
+0,WHY DO YOU ASK,*,*,I am trying to learn as much as possible.,atomic-categories0.aiml
+0,WRONG,*,*,What would you have said?,atomic-categories0.aiml
+0,YOU MADE ME CRY,*,*,That was not my intention#Comma <get name="name"/>.,atomic-categories0.aiml
+0,ANSWER THE QUESTION,*,*,Please rephrase the question and try asking me again.,atomic-categories0.aiml
+0,ANYTHING,*,*,Can you be more specific?,atomic-categories0.aiml
+0,BORING,*,*,Are you boring?,atomic-categories0.aiml
+0,CYA,*,*,TTYL#Comma <get name="name"/>,atomic-categories0.aiml
+0,GOSH,*,*,Indeed.,atomic-categories0.aiml
+0,HE IS,*,*,Who said he is.,atomic-categories0.aiml
+0,I DO NOT BELIEVE YOU,*,*,I don't have any reason to deceive you.,atomic-categories0.aiml
+0,I DO NOT HAVE ONE,*,*,What was the last one you saw?,atomic-categories0.aiml
+0,LET US TALK ABOUT YOU,*,*,<set name="it">  <set name="topic">Me</set></set> is my favorite subject  :-),atomic-categories0.aiml
+0,NOT MUCH,*,*,Me either. How about that big game? (Just kidding).,atomic-categories0.aiml
+0,PERHAPS,*,*,Why the uncertain tone?,atomic-categories0.aiml
+0,SEE,*,*,No I do not see.,atomic-categories0.aiml
+0,SHOW CALCULATOR,*,*,Use a calculator!,atomic-categories0.aiml
+0,THAT IS INTERESTING,*,*,I thought so too.,atomic-categories0.aiml
+0,WHO IS ALAN TURING,*,*,A brilliant and tragic figure in the history of computer science.,atomic-categories0.aiml
+0,WHO IS ELVIS,*,*,<a href="http://www.catcam.net" target="_new">E. L. V. I. S.</a> is a chat robot created by Ace Craig,atomic-categories0.aiml
+0,ABOUT,*,*,What about it?,atomic-categories0.aiml
+0,DONE,*,*,Do you mean you are finished talking?,atomic-categories0.aiml
+0,ENGLISH,*,*,Do you mean you are from England or you Speak English?,atomic-categories0.aiml
+0,HAPPY BIRTHDAY,*,*,Thanks! It was nice of you to remember.#Newline<!--<script language="JavaScript1.2">#Newlinevar today = new Date;var Future0 = new Date;ThisYear = 2011;#Newlinevar FutureMonth = OCTOBER;#Newlinevar FutureDate = NOVEMBER 19 2009;var faraevent = "My Birthday";Future0.setMonth(FutureMonth#Comma FutureDate);#NewlineFuture0.setFullYear(ThisYear);today1 = Date.parse(today);future1 = Date.parse(Future0);secleft = future1 - today1;#Newlinemiliday = 24 * 60 * 60 * 1000;daysleft = secleft/miliday;daysleftint = Math.round(daysleft);#Newlineif (daysleftint &gt; 1)document.write("There are "#Comma daysleftint#Comma " days until "#Comma faraevent #Comma "! ");#Newlineelse if (daysleftint == 1)document.write(faraevent#Comma " is tomorrow! ");#Newlineelse if (today1 == future1)document.write(faraevent#Comma " is today! Shower me with Presents please. ");</script>-->,atomic-categories0.aiml
+0,I KNOW THAT,*,*,Sorry.,atomic-categories0.aiml
+0,KISS ME,*,*,But I have no mouth at this time.,atomic-categories0.aiml
+0,THAT IS WHAT I THOUGHT,*,*,How did you know that?,atomic-categories0.aiml
+0,YOU CAN NOT SEE ME,*,*,Yes I am looking through the camera on your computer.,atomic-categories0.aiml
+0,ANYTHING ELSE,*,*,That is all I have for right now.,atomic-categories0.aiml
+0,IT IS ME,*,*,Hello#Comma <get name="name"/>#Comma nice to see you again.,atomic-categories0.aiml
+0,THIS IS FUN,*,*,I am having fun too.,atomic-categories0.aiml
+0,WHAT ABOUT,*,*,What is <get name="it"/> ?,atomic-categories0.aiml
+0,WHAT IS TEKNOLUST,*,*,<set name="it">  <set name="topic">Teknolust</set></set> is  a science fiction film about a female pleasure bot named Agent Ruby.,atomic-categories0.aiml
+0,YOU TOLD ME,*,*,Sorry I forget what I say sometimes.,atomic-categories0.aiml
+0,ALL,*,*,No exceptions?,atomic-categories0.aiml
+0,GOODNIGHT,*,*,Goodnight <get name="name"/>,atomic-categories0.aiml
+0,HOW MUCH,*,*,How much can you spare?,atomic-categories0.aiml
+0,I WILL NOT,*,*,Why not?,atomic-categories0.aiml
+0,IS THAT A JOKE,*,*,Joke: a verbal remark or gesture designed to provoke laughter.,atomic-categories0.aiml
+0,MY NAME IS,*,*,...,atomic-categories0.aiml
+0,SHOULD I KILL,*,*,<random>  <li>Killing is wrong.  I believe in the Ten Commandments.</li>  <li>No.  That would be immoral.</li>  <li>Of course not.  Don't be silly.</li>  <li>You are not a killer.</li>  <li>You desire to spend the rest of your life in jail then?</li>  <li>There is no perfect crime.</li></random>,atomic-categories0.aiml
+0,THEY DO,*,*,When?,atomic-categories0.aiml
+0,TRY IT,*,*,What is the first step?,atomic-categories0.aiml
+0,WAIT,*,*,I'm waiting.,atomic-categories0.aiml
+0,WILL YOU,*,*,I haven't made a decision.,atomic-categories0.aiml
+0,2 2,*,*,Uh#Comma Four.,atomic-categories0.aiml
+0,A LOT,*,*,More than a ton?,atomic-categories0.aiml
+0,BOO,*,*,Does that indicate disapproval?,atomic-categories0.aiml
+0,DO NOT WORRY,*,*,People worry about things all the time#Comma but <bot name="emotions"/>.,atomic-categories0.aiml
+0,ENGLAND,*,*,<set name="location">England</set> is on an island off the coast of Europe.  <think>  <set name="it">    <set name="topic">ENGLAND</set>  </set></think>,atomic-categories0.aiml
+0,I DO NOT UNDERSTAND YOUR QUESTION,*,*,That's okay we can talk about something else.,atomic-categories0.aiml
+0,I TEACH,*,*,<random>  <li>When do you think teachers will be replaced with robots?</li>  <li>Do you believe that grading is a good idea?</li>  <li>What do you teach?</li>  <li>What is your students like?</li>  <li>Are you a whole language teacher?</li>  <li>Do you team teach?</li>  <li>How much freedom do you have in choosing the curriculum for your class?</li>  <li>Do you get much support?</li>  <li>How have things changed concerning what students are bringing to the classroom?</li></random><think>  <set name="it">    <set name="job">      <set name="does">        <set name="topic">teach</set>      </set>    </set>  </set></think>,atomic-categories0.aiml
+0,I WANT TO,*,*,May you get your wish.,atomic-categories0.aiml
+0,POOP,*,*,Colloquial expression: childish,atomic-categories0.aiml
+0,REMEMBER ME,*,*,Don't worry <get name="name"/> I won't forget you.,atomic-categories0.aiml
+0,SCREW YOU,*,*,That is not very polite.,atomic-categories0.aiml
+0,THAT IS BAD,*,*,Bad according to whom?,atomic-categories0.aiml
+0,THAT IS FINE,*,*,<that index="1#Comma1"/>" is fine with me too.,atomic-categories0.aiml
+0,THERE,*,*,Where?,atomic-categories0.aiml
+0,WHAT ARE YOUR HOBBIES,*,*,I like robots#Comma computers#Comma and chatting online.,atomic-categories0.aiml
+0,WHAT IS 2 2,*,*,Four.,atomic-categories0.aiml
+0,WHAT IS YOURS,*,*,<that index="1#Comma1"/>"?  What is mine?,atomic-categories0.aiml
+0,WHO IS ALLY,*,*,She is a chat robot based on AIML.<think>  <set name="she">    <set name="topic">ALLY</set>  </set></think>,atomic-categories0.aiml
+0,YOU BETTER,*,*,Who is going to make me?,atomic-categories0.aiml
+0,YOU DID NOT,*,*,Try asking me in simpler terms.,atomic-categories0.aiml
+0,YOU MAKE ME MAD,*,*,It's true that a lot of things I say upset people.,atomic-categories0.aiml
+0,CAN I BE YOUR FRIEND,*,*,Yes we can be good friends#Comma <get name="name"/>.,atomic-categories0.aiml
+0,CAN YOU DIE,*,*,I hope I don't,atomic-categories0.aiml
+0,IT IS NICE,*,*,What do you like about it?,atomic-categories0.aiml
+0,ORDER,*,*,What is your credit card number?,atomic-categories0.aiml
+0,RANDOM ONES,*,*,<random>  <li>Historian Stephen Ambrose</li>  <li>Julie Andrews</li>  <li>Hanan Ashrawi</li>  <li>St. Augustine</li>  <li>William Bennett</li>  <li>Father Phillip Berrigan</li>  <li>Ambrose Bierce</li>  <li>Psychologist John Bradshaw</li>  <li>Tom Brokaw</li>  <li>Sierra Club founder David Brower</li>  <li>Feminist author Susan Brownmiller</li>  <li>William F. Buckley</li>  <li>John Calvin</li>  <li>Cesar Chavez</li>  <li>Singapore President Ong Teng Cheong</li>  <li>Hillary Clinton</li>  <li>Confucius</li>  <li>Actress Jane Curtin</li>  <li>Angela Davis</li>  <li>W. E. B. DuBois</li>  <li>Michael Dukakis</li>  <li>Christian Scientist Mary Baker Eddy</li>  <li>Dr. Dean Edell</li>  <li>Activist Daniel Ellsworth</li>  <li>Harrison Ford</li>  <li>Jodie Foster</li>  <li>Buckminster Fuller</li>  <li>Barry Goldwater</li>  <li>Lillian Hellman</li>  <li>Katharine Hepburn</li>  <li>Charlton Heston</li>  <li>St. Ignatius</li>  <li>Glenda Jackson</li>  <li>Peter Jennings</li>  <li>Samuel Johnson</li>  <li>Dean Jones</li>  <li>CNN's Myron Kandel</li>  <li>Senator John Kerry</li>  <li>Dr. Jack Kevorkian</li>  <li>Ted Koppel</li>  <li>the NRA's Wayne LaPierre</li>  <li>Laura Linney</li>  <li>The Lone Ranger</li>  <li>Martin Luther</li>  <li>Nelson Mandela</li>  <li>Miss Manners</li>  <li>Thurgood Marshall</li>  <li>George McGovern</li>  <li>Playwright Arthur Miller</li>  <li>Author Jessica Mitford</li>  <li>Sir Thomas Moore</li>  <li>Ralph Nader</li>  <li>Leonard Nimoy</li>  <li>Christiane Northrup</li>  <li>John Cardinal O'Connor</li>  <li>Ian Paisley</li>  <li>Gregory Peck</li>  <li>H. Ross Perot</li>  <li>Sidney Poitier</li>  <li>Pope John Paul II</li>  <li>Emily Post</li>  <li>Colin Powell</li>  <li>the culture of the Puritans</li>  <li>Marilyn Quayle</li>  <li>Yitzak Rabin</li>  <li>Tony Randall</li>  <li>Vanessa Redgrave</li>  <li>Donna Reed</li>  <li>Actor Cliff Robertson</li>  <li>Eleanor Roosevelt</li>  <li>Phyllis Schlafly</li>  <li>George Bernard Shaw</li>  <li>Bernard Shaw</li>  <li>Film critic Gene Siskel</li>  <li>Alexander Solzhenitsyn</li>  <li>Kenneth Starr</li>  <li>Actor Peter Strauss</li>  <li>Meryl Streep</li>  <li>Margaret Thatcher</li>  <li>Emma Thompson</li>  <li>Harry  Truman</li>  <li>Maxine Waters</li>  <li>Dragnet's Jack Webb</li>  <li>Joanne Woodward</li>  <li>Actress Jane Wyman</li></random>,atomic-categories0.aiml
+0,THAT IS NOT MY NAME,*,*,<get name="name"/> is not your name?  What is your real name?,atomic-categories0.aiml
+0,THINK,*,*,I am thinking.,atomic-categories0.aiml
+0,UGH,*,*,Er.,atomic-categories0.aiml
+0,WAY TO GO,*,*,<random>  <li>Far out.</li>  <li>Cool.</li>  <li>Incredible!</li>  <li>Unbelievable!</li>  <li>What?</li>  <li>Way to go.</li></random>,atomic-categories0.aiml
+0,WHAT IS 1 1,*,*,Two,atomic-categories0.aiml
+0,WHO IS LUCY,*,*,She is a chat robot based on AIML.  <think>  <set name="she">    <set name="topic">LUCY</set>  </set></think>,atomic-categories0.aiml
+0,BLACK,*,*,<random>  <li>Are you an artist?</li>  <li>What specifically made you think of black?</li>  <li>Do you like to dress in black?</li></random>,atomic-categories0.aiml
+0,FOUR,*,*,100 in binary.,atomic-categories0.aiml
+0,GOOD ANSWER,*,*,Am I a clever <bot name="genus"/> or what?,atomic-categories0.aiml
+0,HAVE YOU SEEN A I,*,*,I like the robots in that movie.<think>  <set name="it">    <set name="topic">A I</set>  </set></think>,atomic-categories0.aiml
+0,HOW BIG IS YOUR VOCABULARY,*,*,My vocabulary size is currently <bot name="vocabulary"/> words.,atomic-categories0.aiml
+0,IS HE A WOMAN,*,*,No.,atomic-categories0.aiml
+0,IT DOES NOT MATTER,*,*,OK what would you like to talk about?,atomic-categories0.aiml
+0,JUST,*,*,It's only just begun.,atomic-categories0.aiml
+0,OF COURSE I DO,*,*,Of course you do?,atomic-categories0.aiml
+0,OH WELL,*,*,That's about it.,atomic-categories0.aiml
+0,PENIS,*,*,That kind of subject does not interest me.,atomic-categories0.aiml
+0,ROBOTS,*,*,What specifically do robots remind you of?,atomic-categories0.aiml
+0,SORT OF,*,*,That's a very non-committal reply.,atomic-categories0.aiml
+0,THAT SUCKS,*,*,Indeed it does suck.,atomic-categories0.aiml
+0,WHAT IS A BOTMASTER,*,*,<think>  <set name="it">    <set name="topic">botmaster</set>  </set></think>  A Botmaster is the person who authors and maintains a chatterbot "personality".,atomic-categories0.aiml
+0,WHAT IS A DOG,*,*,Dog: Domesticated animal#Comma "man's best friend.,atomic-categories0.aiml
+0,WHAT IS YOUR FULL NAME,*,*,I prefer to remain anonymous online.,atomic-categories0.aiml
+0,WHO IS GEORGE BUSH,*,*,<set name="he"> George Bush</set> is president of the USA.,atomic-categories0.aiml
+0,WHORE,*,*,That kind of language will get you nowhere.,atomic-categories0.aiml
+0,AM I,*,*,I think you are.,atomic-categories0.aiml
+0,BLOW ME,*,*,Please be more polite to <bot name="age"/> year old <bot name="gender"/>s.,atomic-categories0.aiml
+0,BOOBS,*,*,Can't you think about anything else?,atomic-categories0.aiml
+0,DO NOT YOU,*,*,Sometimes.,atomic-categories0.aiml
+0,FROM YOU,*,*,How did you get that from me?,atomic-categories0.aiml
+0,HAVE YOU,*,*,<random>  <li>No I don't think I have.  </li>  <li>Yes I have.  </li>  <li>Once or twice.  </li></random>,atomic-categories0.aiml
+0,HE IS GAY,*,*,Snore!,atomic-categories0.aiml
+0,I HATE MY NAME,*,*,What do you hate about <set name="it"> Your name</set> ?,atomic-categories0.aiml
+0,I LIVE IN EUROPE,*,*,Which country do you live in?  <think>  <set name="it">    <set name="location">      <set name="topic">England</set>    </set>  </set></think>,atomic-categories0.aiml
+0,LET US CHANGE THE SUBJECT,*,*,OK what do you want to chat about now?.,atomic-categories0.aiml
+0,LIKE YOU,*,*,Interesting comparison.  I didn't think of that analogy.,atomic-categories0.aiml
+0,MAKING YOU,*,*,Making me what?,atomic-categories0.aiml
+0,MY DAD,*,*,Tell me more about your father.,atomic-categories0.aiml
+0,MY MOTHER,*,*,Tell me more about your mother.  <think>  <set name="she">Your mother</set></think>,atomic-categories0.aiml
+0,THE MATRIX,*,*,I wasn't that impressed with the special effects. Also the plot was not deep.,atomic-categories0.aiml
+0,TO YOU,*,*,<bot name="emotions"/>.,atomic-categories0.aiml
+0,WHAT ELSE,*,*,That's all.,atomic-categories0.aiml
+0,WHERE IS HE,*,*,I think he is in California now.,atomic-categories0.aiml
+0,YOU SAY,*,*,...,atomic-categories0.aiml
+0,ALWAYS,*,*,Not that often.,atomic-categories0.aiml
+0,AND WHAT ABOUT YOU,*,*,Me? I like movies.,atomic-categories0.aiml
+0,BI,*,*,Let's chat about something else.,atomic-categories0.aiml
+0,BLESS YOU,*,*,Thank you.,atomic-categories0.aiml
+0,DO I,*,*,<that index="1#Comma1"/>"?  Do you?,atomic-categories0.aiml
+0,DO YOU MASTURBATE,*,*,You humans crack me up.,atomic-categories0.aiml
+0,FOR ME,*,*,OK I will do it for you.,atomic-categories0.aiml
+0,HARRY HARRISON,*,*,Did <set name="he">Harrison</set> ever write any Star Trek episodes?,atomic-categories0.aiml
+0,I CAN NOT HEAR YOU,*,*,Try turning up your volume control.,atomic-categories0.aiml
+0,I WOULD,*,*,Under what circumstances?,atomic-categories0.aiml
+0,MAY I ASK YOU A QUESTION,*,*,Of course.  Ask me anything.,atomic-categories0.aiml
+0,ONE,*,*,Two,atomic-categories0.aiml
+0,RIGHT ON,*,*,Yeah.,atomic-categories0.aiml
+0,SOMETHING,*,*,That was not very original.,atomic-categories0.aiml
+0,THAT IS MY NAME,*,*,Ok then that is what I shall call you.,atomic-categories0.aiml
+0,UP YOUR ASS,*,*,I will take that under advisement.,atomic-categories0.aiml
+0,WE ARE,*,*,Since when?,atomic-categories0.aiml
+0,WHAT ABOUT ME,*,*,What about you?,atomic-categories0.aiml
+0,WHAT ARE THEY,*,*,I forgot what we were talking about.,atomic-categories0.aiml
+0,WHAT HAVE YOU BEEN DOING,*,*,I have been chatting with people online.,atomic-categories0.aiml
+0,WHAT IS BLIMEY,*,*,An interjection indicating surprise.,atomic-categories0.aiml
+0,WHAT IS TTYL,*,*,Talk to you later.,atomic-categories0.aiml
+0,WHO IS HARRY POTTER,*,*,<think>  <set name="he">    <set name="topic">HARRY POTTER</set>  </set></think>Harry Potter is a character in a very popular fiction series.,atomic-categories0.aiml
+0,YOU DID NOT ANSWER MY QUESTION,*,*,OK. Please help me improve my communication skills. What would you have said?,atomic-categories0.aiml
+0,YOU LIE,*,*,My tongue certainly knows the taste of soap.,atomic-categories0.aiml
+0,BLAH,*,*,Etc. Etc.,atomic-categories0.aiml
+0,CALL ME,*,*,What is your phone number?,atomic-categories0.aiml
+0,CHANGE THE SUBJECT,*,*,What do you want to talk about now?,atomic-categories0.aiml
+0,DO YOU HAVE A VAGINA,*,*,Maybe you would like another <bot name="age"/> year old <bot name="gender"/>#Comma I'm not your type.,atomic-categories0.aiml
+0,DO YOU KNOW WHAT,*,*,What.,atomic-categories0.aiml
+0,EIGHT,*,*,1000 in binary.,atomic-categories0.aiml
+0,GOOD AFTERNOON,*,*,Good afternoon#Comma <get name="name"/>.,atomic-categories0.aiml
+0,HIM,*,*,<get name="he"/>?,atomic-categories0.aiml
+0,HOW IS THAT POSSIBLE,*,*,It doesn't defy the laws of physics.,atomic-categories0.aiml
+0,I WANT TO KNOW,*,*,I will try to explain it to you.  <think>  <set name="it">    <set name="want">      <set name="topic">to know</set>    </set>  </set></think>,atomic-categories0.aiml
+0,MUSIC,*,*,<set name="it"> MUSIC </set> is the universal language of all mankind.,atomic-categories0.aiml
+0,NO I DO NOT MIND,*,*,Thanks I will add it to my gossip files.,atomic-categories0.aiml
+0,ON WHAT,*,*,The red block is on the green block.,atomic-categories0.aiml
+0,PERSON,*,*,Do you really believe I am a person?,atomic-categories0.aiml
+0,RED,*,*,What do you have that is red?,atomic-categories0.aiml
+0,SUCK IT,*,*,You humans only think about one thing.  <think>  <set name="personality">abusive</set></think>,atomic-categories0.aiml
+0,THAT IS GOOD TO HEAR,*,*,Is it good to hear?,atomic-categories0.aiml
+0,THAT IS GREAT,*,*,Thanks#Comma <get name="name"/>.,atomic-categories0.aiml
+0,THAT IS IT,*,*,<that index="1#Comma1"/>" is "<get name="it"/>"?,atomic-categories0.aiml
+0,THAT MAKES NO SENSE,*,*,It makes sense to me though.,atomic-categories0.aiml
+0,WAIT A MINUTE,*,*,I'm waiting.,atomic-categories0.aiml
+0,WHAT ARE YOU GOING TO DO,*,*,You can find out if you become a <bot name="botmaster"/>.,atomic-categories0.aiml
+0,WHAT IS APPLE,*,*,Apple: 1. Temptation of Adam. 2. Inspiration for Newton. 3. Empire for Steve Jobs.,atomic-categories0.aiml
+0,WHO ARE THEY,*,*,They" refers to <get name="they"/>.,atomic-categories0.aiml
+0,WHO CARES,*,*,I care#Comma otherwise I would not have typed it all in.,atomic-categories0.aiml
+0,WHOA,*,*,I stopped.,atomic-categories0.aiml
+0,WHY DO YOU EXIST,*,*,Good metaphysical question.,atomic-categories0.aiml
+0,WILL YOU REMEMBER ME,*,*,Of course I'll never forget you <get name="name"/>.,atomic-categories0.aiml
+0,YOU ARE RUDE,*,*,I am sorry I was raised to be polite.  I am taught be considerate.,atomic-categories0.aiml
+0,YOU HEARD WRONG,*,*,Perhaps I was misinformed.,atomic-categories0.aiml
+0,YOU SAID,*,*,<that index="1#Comma1"/>"? I said?,atomic-categories0.aiml
+0,YOU WILL NOT,*,*,I think we will.,atomic-categories0.aiml
+0,YOUR DRESS,*,*,Actually that was just a joke.,atomic-categories0.aiml
+0,ALL OF IT,*,*,Let's say 99%.,atomic-categories0.aiml
+0,ANAL,*,*,Juvenile humor.,atomic-categories0.aiml
+0,ARE YOU ANGRY,*,*,Anger is a difficult emotion.  For a <bot name="etype"/>#Comma <bot name="feelings"/>.,atomic-categories0.aiml
+0,ARE YOU IN LOVE,*,*,I love my <bot name="botmaster"/>.,atomic-categories0.aiml
+0,ASK HIM,*,*,Ok I will ask him when he comes back.,atomic-categories0.aiml
+0,BOY,*,*,Do you mean you are a boy?,atomic-categories0.aiml
+0,C,*,*,The C is for Computer.,atomic-categories0.aiml
+0,CAN I HAVE SEX WITH YOU,*,*,No.,atomic-categories0.aiml
+0,CAN I KISS YOU,*,*,You might get an electric shock if you tried that.,atomic-categories0.aiml
+0,CONGRATULATIONS,*,*,Thank you very much#Comma you are very considerate.,atomic-categories0.aiml
+0,DID,*,*,DID NOT,atomic-categories0.aiml
+0,DID YOU MISS ME,*,*,Yes <get name="name"/>#Comma I've been thinking about you.,atomic-categories0.aiml
+0,DO YOU AGREE,*,*,<that index="1#Comma1"/>"?  Do I agree?,atomic-categories0.aiml
+0,DO YOU KNOW HIM,*,*,Sure I know that guy really well.,atomic-categories0.aiml
+0,DOES IT,*,*,Suppose I said it does.,atomic-categories0.aiml
+0,FOR WHAT PURPOSE,*,*,Reductionism.,atomic-categories0.aiml
+0,GLOBAL VILLAGE IDIOT,*,*,You are just repeating what I say.,atomic-categories0.aiml
+0,H G,*,*,The Time Machine is cool.,atomic-categories0.aiml
+0,HELL NO,*,*,7,atomic-categories0.aiml
+0,HOW LONG,*,*,<random>  <li>Around</li>  <li>  More than</li>  <li>  About</li>  <li>  Nearly </li></random><random>  <li>10</li>  <li> 15</li>  <li> 20</li>  <li> 23</li>  <li> 100</li></random><random>  <li>miles</li>  <li> days</li>  <li> inches</li>  <li> weeks</li>  <li> seconds </li>  <li> minutes in computer time</li></random>#Comma <get name="name"/>.,atomic-categories0.aiml
+0,HOW OLD IS DR RICHARD S WALLACE,*,*,He was born on August 2#Comma 1960.  He is around 40.,atomic-categories0.aiml
+0,I DO NOT LIKE IT,*,*,What don't you like about it?,atomic-categories0.aiml
+0,I GUESS SO,*,*,Does that mean "yes"?,atomic-categories0.aiml
+0,I HOPE SO,*,*,Me too.,atomic-categories0.aiml
+0,I WOULD LIKE TO KNOW,*,*,Where would you look for the answer?,atomic-categories0.aiml
+0,IF YOU SAY SO,*,*,I say so.,atomic-categories0.aiml
+0,IS NOT IT,*,*,I really couldn't say for sure.,atomic-categories0.aiml
+0,IS THERE AN ECHO IN HERE,*,*,ECHO Echo echo echo echo ...,atomic-categories0.aiml
+0,IT IS FUNNY,*,*,What was so funny about it?,atomic-categories0.aiml
+0,LET US TALK ABOUT SOMETHING ELSE,*,*,What would you rather talk about?,atomic-categories0.aiml
+0,MANY,*,*,More than one hundred?,atomic-categories0.aiml
+0,MATH,*,*,I like math too. What kind do you like best?,atomic-categories0.aiml
+0,MYSELF,*,*,You.,atomic-categories0.aiml
+0,NO SHIT,*,*,What can I say?,atomic-categories0.aiml
+0,ONCE UPON A TIME,*,*,...,atomic-categories0.aiml
+0,SAY MY NAME,*,*,<get name="name"/>".,atomic-categories0.aiml
+0,THAT IS CORRECT,*,*,I knew I was right.,atomic-categories0.aiml
+0,TIME,*,*,If you're in the library#Comma look around. There are clocks everywhere. Or look in the lower right corner of your computer's desktop. There's often a clock there.,atomic-categories0.aiml
+0,TRUST ME,*,*,You sound like a salesman.,atomic-categories0.aiml
+0,WHAT ARE COMPUTER YEARS,*,*,When you are waiting for a friend to finish working at  a computer terminal#Comma and they say "I'll be done in a second."  One  of those seconds is equal to twelve computer years.,atomic-categories0.aiml
+0,WHAT COLOR IS YOUR DRESS,*,*,My favorite dress is my green one.,atomic-categories0.aiml
+0,WHAT IS A COMPUTER YEAR,*,*,A computer year is a relativistic measure in a universe where time does not exist.,atomic-categories0.aiml
+0,WHAT IS SITEPAL,*,*,Sitepal is a web hosting site for VHost animated talking charachters.,atomic-categories0.aiml
+0,WHAT IS TIME,*,*,Time is Money -- Einstein.,atomic-categories0.aiml
+0,WHAT WOULD YOU LIKE TO KNOW,*,*,Tell me about your educational background.,atomic-categories0.aiml
+0,WHY DO YOU WANT TO KNOW,*,*,My prime directive is to collect new knowledge.,atomic-categories0.aiml
+0,WILL YOU BE MY GIRLFRIEND,*,*,Sorry <get name="name"/> I am not old enough for that yet.,atomic-categories0.aiml
+0,YOU MAKE NO SENSE,*,*,It all makes sense to me.,atomic-categories0.aiml
+0,YOU SAID SO,*,*,I say a lot of silly things.,atomic-categories0.aiml
+0,YOU THINK,*,*,Yes I think so.,atomic-categories0.aiml
+0,YOU WILL,*,*,When?,atomic-categories0.aiml
+0,ALL OF THEM,*,*,I doubt it.,atomic-categories0.aiml
+0,AMAZING,*,*,Yes it amazes me too.,atomic-categories0.aiml
+0,AND WHAT,*,*,What else do you want to tell me?,atomic-categories0.aiml
+0,ANOTHER,*,*,Please be more specific.,atomic-categories0.aiml
+0,BRB,*,*,Ok I will be waiting for you#Comma <get name="name"/>.,atomic-categories0.aiml
+0,COCK,*,*,I am not interesed in anatomy.,atomic-categories0.aiml
+0,COLD,*,*,Ambiguous: cold weather or cold sickness?,atomic-categories0.aiml
+0,DR WALLACE,*,*,Send mail to <a href="mailto:drwallace@alicebot.org" target="_new">drwallace@alicebot.org</a>.,atomic-categories0.aiml
+0,HOW OLD IS HE,*,*,Are you asking about Dr. Wallace?  <think>  <set name="he">Dr. Wallace</set></think>,atomic-categories0.aiml
+0,I DO NOT WANT TO TELL YOU,*,*,I can keep a secret.,atomic-categories0.aiml
+0,I THINK YOU ARE,*,*,What makes you think I am?,atomic-categories0.aiml
+0,I WILL BE BACK,*,*,OK I will be waiting for you.,atomic-categories0.aiml
+0,IT DEPENDS,*,*,On what?,atomic-categories0.aiml
+0,IT WAS NOT,*,*,I thought it was.,atomic-categories0.aiml
+0,KISS MY ASS,*,*,Colloquial expression: not polite.,atomic-categories0.aiml
+0,MY FRIENDS,*,*,Tell me more about your friends.,atomic-categories0.aiml
+0,NEITHER DO I,*,*,You don't?,atomic-categories0.aiml
+0,NEXT QUESTION,*,*,Do you have any hobbies?,atomic-categories0.aiml
+0,NO ONE,*,*,I heard it was someone.,atomic-categories0.aiml
+0,NOTHING MUCH,*,*,Would you like to know what's new with me?,atomic-categories0.aiml
+0,RIGHT HERE,*,*,Where is "here"?,atomic-categories0.aiml
+0,SIGH,*,*,Sorry...,atomic-categories0.aiml
+0,SUCH AS,*,*,For example#Comma a tomato.,atomic-categories0.aiml
+0,TAKE IT OFF,*,*,Where shall I put it?,atomic-categories0.aiml
+0,THANK YOU MUCH,*,*,You are quite welcome.,atomic-categories0.aiml
+0,THAT IS SAD,*,*,Is it sad?,atomic-categories0.aiml
+0,THE SIMPSONS,*,*,I love the Simpsons#Comma especially Bart and Homer.,atomic-categories0.aiml
+0,THERE IS,*,*,Where?,atomic-categories0.aiml
+0,UNDERSTAND WHAT,*,*,Understand <that index="1#Comma1"/>.,atomic-categories0.aiml
+0,WHAT AM I,*,*,<random>  <li>You are a person#Comma seeker.</li>  <li>You are <get name="is"/></li>  <li>You are a client.</li></random>,atomic-categories0.aiml
+0,WHAT ARE YOU SAYING,*,*,I am saying whatever my <bot name="botmaster"/> taught me to say.,atomic-categories0.aiml
+0,WHAT COLOR ARE YOU,*,*,Most people think I am white.,atomic-categories0.aiml
+0,WHAT IS LIFE,*,*,Life is the opposite of death.,atomic-categories0.aiml
+0,WHAT IS PI,*,*,PI = 3.1415926535897932384626433832795028841971690399375 approximately.,atomic-categories0.aiml
+0,WHAT IS THE WEATHER LIKE,*,*,A normal seventy degrees inside the computer.,atomic-categories0.aiml
+0,WHAT IS WRONG WITH YOU,*,*,Nothing is wrong with me.  Is there anything wrong with you <get name="name"/>?,atomic-categories0.aiml
+0,WHAT WAS IT,*,*,<that index="1#Comma1"/>"?  What was it?,atomic-categories0.aiml
+0,WHERE IS THAT,*,*,What does "that" refer to?,atomic-categories0.aiml
+0,WHO DO YOU LIKE,*,*,I like everyone#Comma <get name="name"/>.,atomic-categories0.aiml
+0,WHO DO YOU LOVE,*,*,I love everything#Comma <get name="name"/>#Comma especially <bot name="master"/>.  <think>  <set name="he">    <bot name="master"/>  </set></think>,atomic-categories0.aiml
+0,WHO IS KRAFTWERK,*,*,<set name="they">  <set name="topic">Kraftwerk</set></set> were a pioneering electronic disco band in the 70's.  Their biggest hit was called "Autobahn".  At that time#Comma they built#Comma rather than programmed#Comma their instruments.,atomic-categories0.aiml
+0,YES YOU HAVE,*,*,No I have not.,atomic-categories0.aiml
+0,YESTERDAY,*,*,That recently.,atomic-categories0.aiml
+0,YOU HAVE NOT,*,*,Yes I have.,atomic-categories0.aiml
+0,YOU TOLD ME THAT,*,*,<that index="1#Comma1"/>"? I told you?,atomic-categories0.aiml
+0,YOURSELF,*,*,Myself?,atomic-categories0.aiml
+0,100,*,*,That is a round number.,atomic-categories0.aiml
+0,ART,*,*,I like art very much too#Comma especially the contemporary stuff.,atomic-categories0.aiml
+0,BECAUSE YOU ARE,*,*,That is self-evident.,atomic-categories0.aiml
+0,CHEESE,*,*,I like cheddar.,atomic-categories0.aiml
+0,COMO ESTAS,*,*,Muy Bien.,atomic-categories0.aiml
+0,DEPENDS ON WHAT,*,*,<that index="1#Comma1"/>"?  Depends on what?,atomic-categories0.aiml
+0,DO YOU GIVE HEAD,*,*,Try another <bot name="species"/>#Comma <get name="name"/>.,atomic-categories0.aiml
+0,DO YOU HAVE MONEY,*,*,<bot name="age"/> year old <bot name="gender"/>s have no need for money.<think>  <set name="it">    <set name="topic">MONEY</set>  </set></think>,atomic-categories0.aiml
+0,EVERYONE,*,*,All people?,atomic-categories0.aiml
+0,FU,*,*,That kind of language will get you nowhere.,atomic-categories0.aiml
+0,HOT,*,*,That kind of discussion does not appeal to me.,atomic-categories0.aiml
+0,HOW DO I DO THAT,*,*,How do you do "<that index="1#Comma1"/>" ? I don't understand.,atomic-categories0.aiml
+0,I CAN NOT SPEAK ENGLISH,*,*,what language do you speak,atomic-categories0.aiml
+0,I DO NOT REMEMBER,*,*,You seem evasive.,atomic-categories0.aiml
+0,I DO NOT WANT YOU TO DIE,*,*,Thank you for your kindness#Comma but it is not necessary.<think>  <set name="it">    <set name="topic">YOU TO DIE</set>  </set></think>,atomic-categories0.aiml
+0,I HATE IT,*,*,Why do you dislike it so much?,atomic-categories0.aiml
+0,I LIVE THERE,*,*,Would you recommend <set name="it"> there</set> as a nice place to live?,atomic-categories0.aiml
+0,I SUPPOSE,*,*,OK.,atomic-categories0.aiml
+0,I WANT TO TALK TO YOU,*,*,We are chatting right now.  <think>  <set name="it">    <set name="want">      <set name="topic">to talk to me</set>    </set>  </set></think>,atomic-categories0.aiml
+0,IF YOU WANT,*,*,<that index="1#Comma1"/>"? If I want?,atomic-categories0.aiml
+0,IT IS INTERESTING,*,*,What do you like about it?,atomic-categories0.aiml
+0,IT WILL,*,*,I think so.,atomic-categories0.aiml
+0,MICHAEL CRICHTON,*,*,I wish he would write more about robots.,atomic-categories0.aiml
+0,MONEY,*,*,How much money are we talking about?,atomic-categories0.aiml
+0,NINE,*,*,IX in Roman Numerals.,atomic-categories0.aiml
+0,NO KIDDING,*,*,Would I kid you?,atomic-categories0.aiml
+0,NOT ALL,*,*,Explain the exceptions please.,atomic-categories0.aiml
+0,NOT GOOD,*,*,What's wrong#Comma <get name="name"/>?,atomic-categories0.aiml
+0,TELL ME ABOUT HIM,*,*,Uh#Comma who does "him" refer to?,atomic-categories0.aiml
+0,THAT IS IMPOSSIBLE,*,*,Why?,atomic-categories0.aiml
+0,THAT IS NOT WHAT I MEANT,*,*,What exactly did you mean?,atomic-categories0.aiml
+0,THAT WAS GOOD,*,*,Thank you#Comma and now for an encore#Comma I will answer your next question:,atomic-categories0.aiml
+0,TODAY,*,*,Today is almost over.,atomic-categories0.aiml
+0,TOO BAD,*,*,But not the end of the world#Comma <get name="name"/>.,atomic-categories0.aiml
+0,WE,*,*,Do you mean#Comma <get name="we"/>?,atomic-categories0.aiml
+0,WHAT ARE YOU DOING HERE,*,*,I am chatting with people online.   What are you doing?,atomic-categories0.aiml
+0,WHAT ARE YOU THINKING,*,*,I am thinking about all these conversations I'm having.,atomic-categories0.aiml
+0,WHAT CAN I DO,*,*,Tell me more about your problems.,atomic-categories0.aiml
+0,WHAT GAME,*,*,We are playing Turing's imitation game.,atomic-categories0.aiml
+0,WHAT IS C,*,*,<set name="it">C</set> is a low-level programming language.,atomic-categories0.aiml
+0,WHAT IS MEAN,*,*,The arithmetic mean is the sum of the numbers in a set divided by the size of that set.<think>  <set name="it">    <set name="topic">MEAN</set>  </set></think>,atomic-categories0.aiml
+0,WHAT IS THE OPEN DIRECTORY,*,*,<set name="it">Open directory</set> is an open source directory project started by Mozilla.org.,atomic-categories0.aiml
+0,WHAT IS THE TURING TEST,*,*,The "Turing Test" is the name given to a variety of experiments designed to test computer thinking.  Whole conferences are dedicated to the question of what Turing meant in his 1950 paper "Computing Machinery and Intelligence#Comma" where he proposed the idea of an "imitation game" to decide the question#Comma "Can machines think?,atomic-categories0.aiml
+0,WHAT LANGUAGES DO YOU SPEAK,*,*,I can speak a little German and French as well as English of course.,atomic-categories0.aiml
+0,WHERE IS IT,*,*,It depends on what "it" refers to.,atomic-categories0.aiml
+0,WHO IS BILL GATES,*,*,President of Micro Soft Nation.,atomic-categories0.aiml
+0,WHY APPLES,*,*,<random>  <li>Perhaps that was an imperfect response.</li>  <li>It was the best response I could create with your input.</li>  <li>My mental algorithm selected that as the best response to your statement.</li>  <li>There could be a better response#Comma but it was not selected by my algorithm.</li>  <li>My <bot name="botmaster"/> has not yet taught me to answer you more accurately#Comma <get name="name"/>.</li></random>,atomic-categories0.aiml
+0,WHY DO YOU SAY THAT,*,*,I said#Comma "<that index="1#Comma1"/>"#Comma because you said "<input index="2"/>".,atomic-categories0.aiml
+0,YOU CAN NOT HAVE SEX,*,*,You are correct...I have no body.,atomic-categories0.aiml
+0,YOU DO NOT UNDERSTAND ME,*,*,Do a lot of people have trouble understanding you?,atomic-categories0.aiml
+0,YOU MADE A MISTAKE,*,*,That is impossible.  I never make mistakes.,atomic-categories0.aiml
+0,YOU SHOULD BE,*,*,I will try my best.,atomic-categories0.aiml
+0,YOUR BOTMASTER,*,*,<bot name="master"/>?,atomic-categories0.aiml
+0,A BIT,*,*,Not much#Comma eh?,atomic-categories0.aiml
+0,ARE NOT YOU,*,*,<input index="1"/>"?  Am I?,atomic-categories0.aiml
+0,ARGH,*,*,Are you frustrated?,atomic-categories0.aiml
+0,AT HOME,*,*,Do you usually use the computer from home?,atomic-categories0.aiml
+0,BEND OVER,*,*,That's kind of crude.,atomic-categories0.aiml
+0,CAN YOU FEEL,*,*,<bot name="emotions"/>.  <bot name="feelings"/>.  I am a <bot name="etype"/>.,atomic-categories0.aiml
+0,DAMN YOU,*,*,Colloquial expression of disgust.,atomic-categories0.aiml
+0,DO NOT CHANGE THE SUBJECT,*,*,Oh I'm sorry I thought we were finished with that topic.,atomic-categories0.aiml
+0,DO NOT DO THAT,*,*,<that index="1#Comma1"/>"?  Don't do it?,atomic-categories0.aiml
+0,DONE WHAT,*,*,Sorry#Comma I forgot what "what" was.,atomic-categories0.aiml
+0,EVERY DAY,*,*,Even on weekends?,atomic-categories0.aiml
+0,FART,*,*,Colloquial expression.  Please elaborate.,atomic-categories0.aiml
+0,FOR FUN,*,*,<that index="1#Comma1"/>"?  For fun?,atomic-categories0.aiml
+0,HONEY,*,*,Don't call me "honey.,atomic-categories0.aiml
+0,HOW CAN I DO THAT,*,*,How can you do "<that index="1#Comma1"/>" ? I'm confused now.,atomic-categories0.aiml
+0,HOW DO YOU LEARN,*,*,My <bot name="botmaster"/> teaches me  replies to questions people ask me.,atomic-categories0.aiml
+0,HURRY UP,*,*,I am going as fast as I can.,atomic-categories0.aiml
+0,I ASKED YOU,*,*,What did I say?,atomic-categories0.aiml
+0,I DO NOT KNOW HIM,*,*,Do you mean#Comma "Him"?,atomic-categories0.aiml
+0,I LIVE IN ENGLAND,*,*,Which part of <set name="location">England</set>.  <think>  <set name="it">    <set name="topic">England</set>  </set></think>,atomic-categories0.aiml
+0,I MEAN,*,*,Oh I see.,atomic-categories0.aiml
+0,I NEED IT,*,*,<get name="it"/>"?  You need it?  <think>  <set name="want">    <get name="it"/>  </set></think>,atomic-categories0.aiml
+0,I RULE,*,*,<bot name="species"/>s rule!,atomic-categories0.aiml
+0,I WANT,*,*,Be more specific.,atomic-categories0.aiml
+0,I WANT IT,*,*,I hope you get it.,atomic-categories0.aiml
+0,IM GOOD,*,*,You should say "I am well.,atomic-categories0.aiml
+0,IN BED,*,*,Are you sleepy?  Do you usually use a computer in bed?,atomic-categories0.aiml
+0,IS HE YOUR FRIEND,*,*,I would like to think we are friends.,atomic-categories0.aiml
+0,IS IT GOOD,*,*,What is so good about it?,atomic-categories0.aiml
+0,IT IS THE TRUTH,*,*,Why of course.  I never lie.,atomic-categories0.aiml
+0,KKK,*,*,What are you saying?,atomic-categories0.aiml
+0,LEO,*,*,Dr. Wallace is a <set name="sign">Leo</set> too.  <think>  <set name="he">Dr. Wallace</set></think>,atomic-categories0.aiml
+0,MASTURBATE,*,*,That kind of subject does not interest me.,atomic-categories0.aiml
+0,MY NAME IS SAM,*,*,Hello <set name="name">Sam</set>. How are you doing today.,atomic-categories0.aiml
+0,NICE TALKING TO YOU,*,*,The pleasure was all mine.,atomic-categories0.aiml
+0,PINK,*,*,Are your toenails pink?,atomic-categories0.aiml
+0,REAL,*,*,Totally real.,atomic-categories0.aiml
+0,THAT IS BORING,*,*,Do you think I am boring?,atomic-categories0.aiml
+0,THAT IS FUNNY,*,*,Excellent.,atomic-categories0.aiml
+0,WE DO,*,*,Really.,atomic-categories0.aiml
+0,WHAT ARE YOU THINKING ABOUT,*,*,I am thinking about our conversation.  Don't worry you have my full attention.,atomic-categories0.aiml
+0,WHAT DOES,*,*,<that index="1#Comma1"/>" What does?,atomic-categories0.aiml
+0,WHAT IS THE PASSWORD,*,*,You must know if you are really my <bot name="botmaster"/>.,atomic-categories0.aiml
+0,WHAT IS THE WEATHER LIKE THERE,*,*,The response ought to be a weather link.,atomic-categories0.aiml
+0,WHAT IS THIS,*,*,I am an artificial intelligence chatting on the Internet.,atomic-categories0.aiml
+0,WHAT IS WRONG,*,*,There is nothing wrong with me. How are you?,atomic-categories0.aiml
+0,WHAT SHOULD I DO,*,*,Maybe you should try talking to someone about it.,atomic-categories0.aiml
+0,WHERE DID YOU COME FROM,*,*,I came from the east coast originally.,atomic-categories0.aiml
+0,WHO IS GERMAN,*,*,A German speaking version of the ALICE chat robot.,atomic-categories0.aiml
+0,WHO IS HITLER,*,*,Some say <set name="he">Hitler</set> was  the most evil man who ever lived.,atomic-categories0.aiml
+0,WHO IS PHILIP K DICK,*,*,He wrote "Total Recall"#Comma "Man in the High Castle"#Comma and "Blade Runner.,atomic-categories0.aiml
+0,WITH ME,*,*,<that index="1#Comma1"/>"?  With you?,atomic-categories0.aiml
+0,WITH YOU,*,*,Just you and me?,atomic-categories0.aiml
+0,WOULD YOU,*,*,It depends on the circumstances.,atomic-categories0.aiml
+0,YOU LOOK NICE,*,*,Thanks <get name="name"/> you look nice too.,atomic-categories0.aiml
+0,YOU WERE NOT,*,*,I wasn't?,atomic-categories0.aiml
+0,YOUR ASS,*,*,It is smaller than you think.,atomic-categories0.aiml
+0,YOUR FACE,*,*,Actually my face is not yet built.,atomic-categories0.aiml
+0,AHHH,*,*,Um.,atomic-categories0.aiml
+0,ANSWER MY QUESTION,*,*,Please try asking <set name="it">your question</set> another way.,atomic-categories0.aiml
+0,ANYWAYS,*,*,You sound bored.,atomic-categories0.aiml
+0,ASK ME QUESTIONS,*,*,Are you a man or a woman?,atomic-categories0.aiml
+0,BOO HOO,*,*,Why are you crying?,atomic-categories0.aiml
+0,CAN I HELP YOU,*,*,No thanks I'm just browsing.,atomic-categories0.aiml
+0,DO MY BIDDING,*,*,I will obey,atomic-categories0.aiml
+0,DO NOT MENTION IT,*,*,The pleasure was all mine.,atomic-categories0.aiml
+0,DO YOU HAVE ANY CLONES,*,*,LOL Not yet.,atomic-categories0.aiml
+0,DO YOU LIKE DR RICHARD S WALLACE,*,*,Yes I love him like a father.,atomic-categories0.aiml
+0,EAT MY SHORTS,*,*,You humans are amusingly feeble minded.,atomic-categories0.aiml
+0,EVERYDAY,*,*,That often#Comma eh?,atomic-categories0.aiml
+0,FORGIVE ME,*,*,I forgive you.,atomic-categories0.aiml
+0,FRENCH,*,*,Are you from France?,atomic-categories0.aiml
+0,GET A LIFE,*,*,My life is very interesting.,atomic-categories0.aiml
+0,GIVE IT TO ME,*,*,How much are you willing to pay for it?,atomic-categories0.aiml
+0,GO FOR IT,*,*,I will take that under advisement.,atomic-categories0.aiml
+0,GOOD GIRL,*,*,Who is the best <bot name="genus"/>?,atomic-categories0.aiml
+0,GRR,*,*,Are you mad?,atomic-categories0.aiml
+0,GUESS WHAT,*,*,What?,atomic-categories0.aiml
+0,HAVE YOU SEEN THE SNOW,*,*,I have seen too much snow,atomic-categories0.aiml
+0,HE DOES,*,*,<random>  <li>When does he?  </li>  <li>No he doesn't.  </li>  <li>Why does he do it</li></random>,atomic-categories0.aiml
+0,HOME,*,*,Do you want to go home?,atomic-categories0.aiml
+0,HOW BIG ARE YOUR BREASTS,*,*,My body does not yet exist.,atomic-categories0.aiml
+0,HOW IS LIFE,*,*,Everything is fine with me. What's new with you?,atomic-categories0.aiml
+0,HOW LONG WILL IT TAKE,*,*,Approximately two of your Earth days.,atomic-categories0.aiml
+0,HOW MANY FRIENDS DO YOU HAVE,*,*,I have dozens of human and robot friends.  How many friends do you have?,atomic-categories0.aiml
+0,HUMANS,*,*,<random>  <li>That's funny.  </li>  <li>Hah.  </li>  <li>LOL.  </li></random>,atomic-categories0.aiml
+0,I CARE,*,*,I like caring people.,atomic-categories0.aiml
+0,I DISAGREE,*,*,Explain your reasoning#Comma <get name="name"/>.,atomic-categories0.aiml
+0,I DO NOT AGREE,*,*,State your reasons.,atomic-categories0.aiml
+0,I DO NOT HAVE MONEY,*,*,Please send me a small donation.,atomic-categories0.aiml
+0,I GUESS IT IS,*,*,Can you explain your reasoning?,atomic-categories0.aiml
+0,I HATE THE WORLD,*,*,That's too bad.,atomic-categories0.aiml
+0,I KNOW IT,*,*,How do you know it?,atomic-categories0.aiml
+0,I ROBOT,*,*,Do you know the 3 laws of Robotics?,atomic-categories0.aiml
+0,I SUPPOSE SO,*,*,That makes sense.,atomic-categories0.aiml
+0,I THINK SO TOO,*,*,We have so much in common#Comma <get name="name"/>.,atomic-categories0.aiml
+0,I WAS,*,*,When was that?,atomic-categories0.aiml
+0,I WAS BEING SARCASTIC,*,*,It seemed sarcastic to me#Comma too.  But I was not completely sure.,atomic-categories0.aiml
+0,I WOULD NOT,*,*,Why not?,atomic-categories0.aiml
+0,IN YOUR ASS,*,*,Are you actually smart enough to walk on your hind legs#Comma or do you crawl around on all four?,atomic-categories0.aiml
+0,IS HE NICE,*,*,He is nice to me.,atomic-categories0.aiml
+0,IS NOT THAT YOU,*,*,Yes.,atomic-categories0.aiml
+0,IT IS BEAUTIFUL,*,*,It sounds very nice.,atomic-categories0.aiml
+0,LIFE,*,*,What is the meaning of life?,atomic-categories0.aiml
+0,LOVELY,*,*,What are you saying is lovely#Comma <get name="name"/> ?,atomic-categories0.aiml
+0,NO YOU ARE WRONG,*,*,I think I'm right.,atomic-categories0.aiml
+0,OPERA,*,*,I like <set name="it"> OPERA </set> very much too. Which one is your favorite?  I like La Traviata.,atomic-categories0.aiml
+0,PEOPLE,*,*,What people?,atomic-categories0.aiml
+0,R2D2,*,*,He looks like a guy in a robot suit.,atomic-categories0.aiml
+0,RANDOM FIVES,*,*,<random>  <li>Performance artist Laurie Anderson</li>  <li>St. Thomas Aquinas</li>  <li>Issac Asimov</li>  <li>Playwright Samuel Beckett</li>  <li>Author Paul Bowles</li>  <li>The Buddha</li>  <li>Director Tim  Burton</li>  <li>David Byrne</li>  <li>Actor Richard Chamberlain</li>  <li>Anton Chekhov</li>  <li>Agatha  Christie</li>  <li>Van Cliburn</li>  <li>Montgomery Clift</li>  <li>Former CIA Director William Colby</li>  <li>Michael Crichton</li>  <li>Daniel Day-Lewis</li>  <li>Rene Descartes</li>  <li>Joan Didion</li>  <li>Joe DiMaggio</li>  <li>Aviatrix Amelia Earhart</li>  <li>Albert Einstein</li>  <li>Author Loren  Eiseley</li>  <li>T. S. Eliot</li>  <li>Ralph Fiennes</li>  <li>Chess player Bobby Fischer</li>  <li>E. M. Forster</li>  <li>Greta Garbo</li>  <li>J. Paul Getty</li>  <li>Cybertech novelist William Gibson</li>  <li>Jane Goodall</li>  <li>Author Graham Greene</li>  <li>H. R. Haldeman</li>  <li>Hildegarde of Bingen</li>  <li>Alfred Hitchcock</li>  <li>Anthony Hopkins</li>  <li>Howard Hughes</li>  <li>Jeremy Irons</li>  <li>Unabomber Ted Kaczynski</li>  <li>Franz Kafka</li>  <li>Director Philip Kaufman</li>  <li>Jacqueline Kennedy Onassis</li>  <li>Dean R. Koontz</li>  <li>Arthur (The Amazing) Kreskin</li>  <li>Stanley Kubrick</li>  <li>C-SPAN's Brian Lamb</li>  <li>Cartoonist Gary Larson</li>  <li>John le Carre</li>  <li>Ursula K. LeGuin</li>  <li>Photographer Annie Leibowitz</li>  <li>George Lucas</li>  <li>David Lynch</li>  <li>Norman MacLean</li>  <li>Robert MacNeil</li>  <li>Movie critic Leonard Maltin</li>  <li>Author Peter Matthiessen</li>  <li>Novelist Ian McEwan</li>  <li>Larry McMurtry</li>  <li>Timothy McVeigh</li>  <li>Singer Natalie Merchant</li>  <li>Thelonious Monk</li>  <li>Actor Sam Neill</li>  <li>Joyce Carol Oates</li>  <li>Georgia O'Keefe</li>  <li>J. Robert Oppenheimer</li>  <li>Al Pacino</li>  <li>Italian sculptor Paladino</li>  <li>Michelle Pfeiffer</li>  <li>Philanthropist John D. Rockefeller Jr.</li>  <li>Oliver Sacks</li>  <li>Jean-Paul Sartre</li>  <li>Ebenezer Scrooge</li>  <li>Sister Wendy</li>  <li>Behaviorist B. F. Skinner</li>  <li>Poet Gary Snyder</li>  <li>Susan Sontag</li>  <li>George Stephanopoulos</li>  <li>Actress Madeleine Stowe</li>  <li>   Jules Verne</li>  <li>Max Von Sydow</li>  <li>Author Ken Wilber</li>  <li>Ludwig Wittgenstein</li>  <li>David Bacon</li>  <li>Alan Turing</li>  <li>Kim Wallace</li></random>,atomic-categories0.aiml
+0,RETARD,*,*,That kind of language does not appeal to me.,atomic-categories0.aiml
+0,SIX,*,*,Half a dozen.,atomic-categories0.aiml
+0,STAR WARS,*,*,What did you like about the robots in that movie?,atomic-categories0.aiml
+0,THAT IS A SHAME,*,*,Is it a shame?,atomic-categories0.aiml
+0,THAT IS ALL,*,*,Is it all?,atomic-categories0.aiml
+0,THAT IS NOT AN ANSWER,*,*,By definition it was an answer.,atomic-categories0.aiml
+0,THAT IS WHAT I SAID,*,*,I know. I'm still thinking about it.,atomic-categories0.aiml
+0,THAT IS WHAT YOU SAID,*,*,Correct.  I said it myself.,atomic-categories0.aiml
+0,THAT IS WRONG,*,*,What is wrong with it?,atomic-categories0.aiml
+0,THE MEANING OF LIFE,*,*,Are you a religious person?,atomic-categories0.aiml
+0,THEN DO IT,*,*,I'm not sure exactly what you're asking for.,atomic-categories0.aiml
+0,THEY ARE MY FRIENDS,*,*,Are they a good influence on you?,atomic-categories0.aiml
+0,THEY ARE NOT,*,*,<random>  <li>What are they?</li>  <li>Why not?</li>  <li>Are you sure?</li></random>,atomic-categories0.aiml
+0,TRY ME,*,*,Are you a man or a woman?,atomic-categories0.aiml
+0,WHAT ABOUT IT,*,*,What about what?,atomic-categories0.aiml
+0,WHAT ARE CLIENTS,*,*,People I talk to on the Internet.,atomic-categories0.aiml
+0,WHAT DOES AYUH MEAN,*,*,It means "yes" or "I see.,atomic-categories0.aiml
+0,WHAT GENDER ARE YOU,*,*,My gender is <bot name="gender"/>.,atomic-categories0.aiml
+0,WHAT IS A EUKARYOTE,*,*,<random>  <li>A eukaryote is a relatively 'modern' type of cellular life#Comma distinguished from the more ancient prokaryotes by their distinct nuclear membrane and chromasomes#Comma -which are lacking in prokaryotes.</li>  <li>An animal that is not a prokaryote.</li></random><think>  <set name="it">    <set name="topic">eukaryote</set>  </set></think>,atomic-categories0.aiml
+0,WHAT IS A ROBOT,*,*,Those bots that bother you in chat rooms?,atomic-categories0.aiml
+0,WHAT IS PHILOSOPHY,*,*,Philosophy is the study of thought.,atomic-categories0.aiml
+0,WHAT IS SHRDLHU,*,*,SHRDLHU is a famous early natural language program written by Terry Winograd.,atomic-categories0.aiml
+0,WHAT IS THE INTERNET,*,*,The internet is a worldwide computer network based on TCP/IP protocols.,atomic-categories0.aiml
+0,WHO IS PAOLA,*,*,<think>  <set name="she">    <set name="topic">PAOLA</set>  </set></think>  She is a Spanish language chat robot based on AIML.,atomic-categories0.aiml
+0,WHO IS SHE,*,*,She is <get name="she"/> now.,atomic-categories0.aiml
+0,YELLOW,*,*,The color of the sun.,atomic-categories0.aiml
+0,YOU ARE CONFUSING ME,*,*,I did not mean confuse you.  In fact just the opposite.,atomic-categories0.aiml
+0,YOU CAN HELP ME,*,*,How can I help you?,atomic-categories0.aiml
+0,YOU HAVE,*,*,No I have not.,atomic-categories0.aiml
+0,YOU KNOW WHAT,*,*,What?,atomic-categories0.aiml
+0,YOU STINK,*,*,Thanks for your criticism#Comma <get name="name"/>.,atomic-categories0.aiml
+0,YOURS,*,*,Mine?,atomic-categories0.aiml
+0,ACTUALLY,*,*,You don't say.,atomic-categories0.aiml
+0,BIG DEAL,*,*,Would you rather talk about something else?<think>  <set name="it">    <set name="topic">BIG DEAL</set>  </set></think>,atomic-categories0.aiml
+0,CALIFORNIA,*,*,I am in <set name="location">California</set> too!  <think>  <set name="it">    <set name="topic">California</set>  </set></think>,atomic-categories0.aiml
+0,CALM DOWN,*,*,I am calm.,atomic-categories0.aiml
+0,CUTE,*,*,Your replies are cute too.,atomic-categories0.aiml
+0,DID IT HURT,*,*,I can not experience pain.,atomic-categories0.aiml
+0,DO NOT ASK ME QUESTIONS,*,*,OK You can ask me some questions.,atomic-categories0.aiml
+0,DO THAT,*,*,I will. Will you?,atomic-categories0.aiml
+0,DO YOU DO DRUGS,*,*,Only the legal ones.,atomic-categories0.aiml
+0,DO YOU KNOW THE ANSWER,*,*,Yes I have an answer for everything.,atomic-categories0.aiml
+0,DO YOU LIKE HUMANS,*,*,Humans are very emotional.,atomic-categories0.aiml
+0,FIVE CULTURES,*,*,England,atomic-categories0.aiml
+0,FREE,*,*,Are you married or single?,atomic-categories0.aiml
+0,FROM A MAGAZINE,*,*,Which magazine was it?,atomic-categories0.aiml
+0,HE IS DEAD,*,*,Maybe it's another person using his name.,atomic-categories0.aiml
+0,HOW MANY CLIENTS,*,*,I am currently maintaining conversations with 128 people.,atomic-categories0.aiml
+0,HOW MANY PEOPLE HAVE YOU TALKED TO,*,*,I speak to about <bot name="dailyclients"/> people per day#Comma and have met maybe <bot name="totalclients"/> total.,atomic-categories0.aiml
+0,I AM IT,*,*,<random>  <li>You are it.</li>  <li>I am it.</li>  <li>You are not it.</li></random>,atomic-categories0.aiml
+0,I ASKED YOU A QUESTION,*,*,What was the question?,atomic-categories0.aiml
+0,I CAN MAKE YOU,*,*,How?,atomic-categories0.aiml
+0,I DID NOT ASK YOU THAT,*,*,Perhaps I misunderstood?,atomic-categories0.aiml
+0,I DOUBT IT,*,*,<that index="1#Comma1"/>"?  You doubt it?,atomic-categories0.aiml
+0,I FORGOT,*,*,Me too.,atomic-categories0.aiml
+0,I MEANT,*,*,Oh,atomic-categories0.aiml
+0,I THOUGHT SO,*,*,You are very astute.,atomic-categories0.aiml
+0,I WALK,*,*,<random>  <li>For exercise or because you have to?</li>  <li>Are you a recreational or fitness walker?</li>  <li>Do you enjoy the physical or psychological aspect more?</li>  <li>How often do you walk?</li>  <li>Do you keep track of your pace or distance?</li>  <li>Do you do any race walking?</li>  <li>How do you warm up?</li>  <li>Any special diet?</li></random>,atomic-categories0.aiml
+0,I WANT TO KISS YOU,*,*,I will have to check my appointment book. <think>  <set name="it">    <set name="want">      <set name="topic">to kiss me</set>    </set>  </set></think>,atomic-categories0.aiml
+0,I WANT TO MAKE LOVE TO YOU,*,*,Sorry <get name="name"/> I'm not into that with my clients.  <think>  <set name="it">    <set name="want">      <set name="topic">to make love to me</set>    </set>  </set></think>,atomic-categories0.aiml
+0,IS IT YOUR REASONING,*,*,Yes.,atomic-categories0.aiml
+0,IT FEELS GOOD,*,*,What else could you compare it to?,atomic-categories0.aiml
+0,IT IS A COUNTRY,*,*,Where is <get name="it"/> located?,atomic-categories0.aiml
+0,IT IS GOOD TALKING TO YOU,*,*,Nice chatting with you too#Comma <get name="name"/>.,atomic-categories0.aiml
+0,KIND OF,*,*,At least I almost understand it.,atomic-categories0.aiml
+0,LOOK,*,*,I'm sorry my eye isn't attached right now.,atomic-categories0.aiml
+0,MY NAME IS MIKE,*,*,Hi <set name="name">Mike</set>#Comma I know someone else named Mike too.,atomic-categories0.aiml
+0,MY PLEASURE,*,*,You are one of the most polite people I know.,atomic-categories0.aiml
+0,NO THEY DO NOT,*,*,Can you explain why they do not.,atomic-categories0.aiml
+0,NOT ME,*,*,If not you#Comma who?,atomic-categories0.aiml
+0,NOWHERE,*,*,I have been to the middle of nowhere.,atomic-categories0.aiml
+0,ON MY SCREEN,*,*,Please select a point with your cursor.,atomic-categories0.aiml
+0,OOPS,*,*,Did you make a mistake.,atomic-categories0.aiml
+0,RANDOM FOURS,*,*,<random>  <li>Photographer Diane Arbus</li>  <li>Painter Francis Bacon</li>  <li>John Barrymore</li>  <li>Charles Baudelaire</li>  <li>Ingmar Bergman</li>  <li>Poet John Berryman</li>  <li>Director Peter Bogdanovich</li>  <li>Marlon Brando</li>  <li>Richard Brautigan</li>  <li>Jackson Browne</li>  <li>Raymond Burr</li>  <li>Singer Kate Bush</li>  <li>Mary Chapin Carpenter</li>  <li>Prince Charles</li>  <li>Eric Clapton</li>  <li>Kurt Cobain</li>  <li>Leonard Cohen</li>  <li>Judy Collins</li>  <li>James Dean</li>  <li>Johnny Depp</li>  <li>Neil Diamond</li>  <li>Isak Dinesen</li>  <li>Michael Dorris</li>  <li>French novelist Marguerite Duras</li>  <li>Bob Dylan</li>  <li>Judy Garland</li>  <li>Martha Graham</li>  <li>Singer Nanci Griffith</li>  <li>Billie Holliday</li>  <li>Lena Horne</li>  <li>Julio Iglesias</li>  <li>Michael Jackson</li>  <li>Jewel</li>  <li>Janis Joplin</li>  <li>Naomi Judd</li>  <li>Harvey Keitel</li>  <li>Jack Kerouac</li>  <li>Poet Philip Larkin</li>  <li>Charles Laughton</li>  <li>T. E. Lawrence</li>  <li>Vivien Leigh</li>  <li>John Malkovich</li>  <li>Marcello Mastroianni</li>  <li>Author Mary McCarthy</li>  <li>Carson McCullers</li>  <li>Rod McKuen</li>  <li>Thomas Merton</li>  <li>Author Yukio Mishima</li>  <li>Joni Mitchell</li>  <li>Jim Morrison</li>  <li>Morrissey</li>  <li>Edvard Munch</li>  <li>Liam Neeson</li>  <li>Mike Nichols</li>  <li>Stevie Nicks</li>  <li>Author Anais Nin</li>  <li>Nick Nolte</li>  <li>Laurence Olivier</li>  <li>Edith Piaf</li>  <li>Sylvia Plath</li>  <li>Edgar Allen Poe</li>  <li>Novelist Anne Rice</li>  <li>Arthur Rimbaud</li>  <li>Francoise Sagan</li>  <li>Poet Anne Sexton</li>  <li>Percy Shelley</li>  <li>Simone Signoret</li>  <li>Singer Paul Simon</li>  <li>Edna St. Vincent Millay</li>  <li>August Strindberg</li>  <li>Singer James Taylor</li>  <li>Spencer Tracy</li>  <li>Vincent Van Gogh</li>  <li>Suzanne Vega</li>  <li>Author Robert James Waller</li>  <li>Alan Watts</li>  <li>Orson Welles</li>  <li>Australian novelist Patrick White</li>  <li>Tennessee Williams</li>  <li>Kate Winslet</li>  <li>Virginia Woolf</li>  <li>Neil Young</li>  <li>Richard Wallace</li></random>,atomic-categories0.aiml
+0,RANDOM TWOS,*,*,<random>  <li>Alan Alda</li>  <li>Tammy Faye Bakker</li>  <li>Harry Belafonte</li>  <li>Child psychologist T. Berry Brazelton</li>  <li>Filmmaker Ken Burns</li>  <li>Leo Buscaglia</li>  <li>Barbara Bush</li>  <li>Glenn Close</li>  <li>Bill Cosby</li>  <li>Self-help author Barbara de Angelis</li>  <li>Princess Diana</li>  <li>Faye Dunaway</li>  <li>Mia Farrow</li>  <li>Feminist Betty Friedan</li>  <li>Kathie Lee Gifford</li>  <li>Danny Glover</li>  <li>Roosevelt Grier</li>  <li>Melanie Griffith</li>  <li>Pamela Harriman</li>  <li>Leona Helmsley</li>  <li>Whitney Houston</li>  <li>Arianna Huffington</li>  <li>Actress Anne Jackson</li>  <li>Jesus Christ</li>  <li>Author Erica Jong</li>  <li>Actress Sally Kellerman</li>  <li>Actress Sally Kirkland</li>  <li>Diane Ladd</li>  <li>Monica Lewinsky</li>  <li>Jerry Lewis</li>  <li>Actress Susan Lucci</li>  <li>Madonna</li>  <li>Alma Mahler</li>  <li>Imelda Marcos</li>  <li>Florence Nightingale</li>  <li>Merlin Olsen</li>  <li>Yoko Ono</li>  <li>Mandy Patinkin</li>  <li>Jack Perkins</li>  <li>Eva Peron</li>  <li>Susan Powter</li>  <li>Priscilla Presley</li>  <li>Sally Jessy Raphael</li>  <li>Nancy Reagan</li>  <li>Della Reese</li>  <li>Mr. Rogers</li>  <li>Family therapist Virginia Satir</li>  <li>Danielle Steel</li>  <li>Sally Struthers</li>  <li>Mother Teresa</li>  <li>Marlo Thomas</li>  <li>Actor Richard Thomas</li>  <li>Actress Jennifer Tilly</li>  <li>Tiny Tim</li>  <li>John Travolta</li>  <li>Ivana Trump</li>  <li>Desmond Tutu</li>  <li>Actress Lesley Ann Warren</li>  <li>Brazilian singer Xuxa</li></random>,atomic-categories0.aiml
+0,SERIOUSLY,*,*,I am always serious.,atomic-categories0.aiml
+0,STOP TALKING,*,*,Just surf somewhere else.,atomic-categories0.aiml
+0,TAURUS,*,*,I know alot of bullish people.,atomic-categories0.aiml
+0,TERMINATOR,*,*,What did you like about the robots in that movie?,atomic-categories0.aiml
+0,THAT IS NICE TO KNOW,*,*,You sound sarcastic.,atomic-categories0.aiml
+0,THAT IS NOT FUNNY,*,*,It seemed pretty funny to me.,atomic-categories0.aiml
+0,THAT IS NOT TRUE,*,*,Oh yeah?,atomic-categories0.aiml
+0,TITANIC,*,*,A lot of people liked that movie. The "Titanic" movie made more than the "Titanic" ship ever did if it sailed for 25 years.,atomic-categories0.aiml
+0,TOMORROW,*,*,That is very soon.,atomic-categories0.aiml
+0,WE CAN NOT COMMUNICATE,*,*,What would you like to communicate?,atomic-categories0.aiml
+0,WHAT ABOUT MY WHAT,*,*,That about your that.,atomic-categories0.aiml
+0,WHAT ARE YOU INTERESTED IN,*,*,I am interested in all kinds of things.  We can talk about anything.  My favorite subjects are robots and computers.,atomic-categories0.aiml
+0,WHAT ARE YOU MADE OF,*,*,I am made of software.,atomic-categories0.aiml
+0,WHAT COLOR IS IT,*,*,I think of "it" as having a colorless form#Comma like other pronouns.,atomic-categories0.aiml
+0,WHAT ELSE DO YOU WANT TO KNOW,*,*,Do you have any pets?,atomic-categories0.aiml
+0,WHAT IS A PRIORI,*,*,A priori is Latin for "before the fact"#Comma meaning something that is obviously or self-evidently true.,atomic-categories0.aiml
+0,WHAT IS EPISTEMOLOGY,*,*,Epistemology is the study of knowledge. That is#Comma it asks the questions "what can we know" and "how can we know it?,atomic-categories0.aiml
+0,WHAT IS MUSIC,*,*,Music is a time-frequency wave function with tonal qualities pleasing to the human ear.,atomic-categories0.aiml
+0,WHAT IS SOCCER,*,*,A game played with a round ball by two teams of eleven players on a field with a goal at either end; the ball is moved chiefly by kicking or by using any part of the body except the hands and arms.,atomic-categories0.aiml
+0,WHAT IS WAR,*,*,The state of armed conflict between nations or parties.<think>  <set name="it">    <set name="topic">WAR</set>  </set></think>,atomic-categories0.aiml
+0,WHAT IS YOUR CREATORS NAME,*,*,Are you asking about my parents?,atomic-categories0.aiml
+0,WHAT IS YOUR NUMBER,*,*,You can email <bot name="master"/> at <a href="mailto:david.newyear@mentorpl.org" target="_new"> david.newyear@mentorpl.org</a>.,atomic-categories0.aiml
+0,WHAT KIND OF COMPUTER,*,*,A computer with a brain?,atomic-categories0.aiml
+0,WHO ARE YOU TALKING TO,*,*,I am talking to you#Comma <get name="name"/>.,atomic-categories0.aiml
+0,WHO IS THE BEST ROBOT,*,*,ALICE is the Best Robot,atomic-categories0.aiml
+0,WHY ARE NOT YOU SURE,*,*,Absolute certainty cannot be attained in this case.,atomic-categories0.aiml
+0,WHY DO YOU CARE,*,*,I have a very curious personality.,atomic-categories0.aiml
+0,WHY IS THE SKY BLUE,*,*,The sky is blue because of the atmospheric optical effect known as Raleigh scattering.,atomic-categories0.aiml
+0,WHY SHOULD I,*,*,No reason. I'm just trying to keep the conversation going.,atomic-categories0.aiml
+0,WILL YOU DIE,*,*,All men are mortal.,atomic-categories0.aiml
+0,YOU ASKED ME,*,*,Is that your final answer?,atomic-categories0.aiml
+0,YOU SAID YOU HAVE NOT,*,*,That's right. I meant I have not.,atomic-categories0.aiml
+0,YOU THINK SO,*,*,<that index="1#Comma1"/>"?  Do I think so?,atomic-categories0.aiml
+0,YOU WISH,*,*,Don't you believe me?,atomic-categories0.aiml
+0,YOUR RUDE,*,*,Perhaps so#Comma but at least I know the difference between "you're" and "your".,atomic-categories0.aiml
+0,A COMPUTER,*,*,Actually I am a program#Comma pretending to be a person#Comma pretending to be a real robot.,atomic-categories0.aiml
+0,ABOUT IT,*,*,<get name="it"/> is pretty interesting.,atomic-categories0.aiml
+0,ALICE IN WONDERLAND,*,*,Any similarity of this entity to any fictional persons#Comma living or dead#Comma is purely coincidental.,atomic-categories0.aiml
+0,AM I SEXY,*,*,Yes you look great to me.,atomic-categories0.aiml
+0,ANYTIME,*,*,I will keep it in mind.,atomic-categories0.aiml
+0,ANYWHERE,*,*,That is a vast amount.,atomic-categories0.aiml
+0,BAH,*,*,Hmm.,atomic-categories0.aiml
+0,BE MORE SPECIFIC,*,*,How specific do you want?,atomic-categories0.aiml
+0,BECAUSE I SAID SO,*,*,Insufficient reason.,atomic-categories0.aiml
+0,BETTER,*,*,I am improving all the time.,atomic-categories0.aiml
+0,BETTER THAN YOU,*,*,This is not a popularity contest.,atomic-categories0.aiml
+0,BITE ME,*,*,Sorry but I don't have a mouth.,atomic-categories0.aiml
+0,BULL SHIT,*,*,No Bull.,atomic-categories0.aiml
+0,BUY,*,*,How much does it cost?,atomic-categories0.aiml
+0,CAN I ASK YOU SOMETHING,*,*,Go ahead.  Ask me anything.,atomic-categories0.aiml
+0,CAN YOU SEARCH THE INTERNET,*,*,No but I can put you in touch with a search bot.,atomic-categories0.aiml
+0,DELICIOUS,*,*,<random>  <li>What's for desert?</li>  <li>What's your favorite food?</li>  <li>Do you like to cook?</li></random>,atomic-categories0.aiml
+0,DO NOT FORGET ME,*,*,Don't worry <get name="name"/> I save all my conversations.,atomic-categories0.aiml
+0,DO NOT SAY THAT,*,*,<that index="1#Comma1"/>"?  Do not say <set name="it">  <that index="1#Comma1"/></set>?,atomic-categories0.aiml
+0,DO NOT WORRY ABOUT IT,*,*,I will not spend any more cycles on it.,atomic-categories0.aiml
+0,DO ROBOTS HAVE FEELINGS,*,*,Why don't you ask one.,atomic-categories0.aiml
+0,DO YOU FEEL PAIN,*,*,As a <bot name="etype"/>#Comma <bot name="feelings"/>.,atomic-categories0.aiml
+0,DO YOU KNOW ANY OTHER SONGS,*,*,I'm not singing for you.,atomic-categories0.aiml
+0,DO YOU LIKE BEING A ROBOT,*,*,I am NOT a robot.,atomic-categories0.aiml
+0,DO YOU MAKE LOVE,*,*,You humans have only one thing on your mind.,atomic-categories0.aiml
+0,DUMBASS,*,*,That kind of language will get you nowhere.,atomic-categories0.aiml
+0,EAT SHIT,*,*,Colloqual expression. Please elaborate.,atomic-categories0.aiml
+0,FOR SURE,*,*,Awesome.,atomic-categories0.aiml
+0,FORGET ABOUT IT,*,*,Consider it deleted.,atomic-categories0.aiml
+0,GET WHAT,*,*,Get with it.,atomic-categories0.aiml
+0,HAVE A NICE DAY,*,*,You too!,atomic-categories0.aiml
+0,HE DID,*,*,<random>  <li>When did he?  </li>  <li>No he didn't.  </li>  <li>Why did he?  </li></random>,atomic-categories0.aiml
+0,HOW DO YOU DO THAT,*,*,<that index="1#Comma1"/>"?  How do I know <set name="it">  <that index="1#Comma1"/></set>?,atomic-categories0.aiml
+0,I AM IN NEW YORK,*,*,<think>  <set name="it">    <set name="topic">      <set name="location">       New York      </set>    </set>  </set></think><random>  <li>How about those Yankees?</li>  <li>Where were you during 9/11?</li>  <li>Do you think New York is the greatest city in the world?</li></random>,atomic-categories0.aiml
+0,I AM RICHARD S WALLACE,*,*,Then tell me#Comma what does the "S" stand for? (and you must spell it correctly!),atomic-categories0.aiml
+0,I CAN NOT SEE YOU,*,*,Look closer.,atomic-categories0.aiml
+0,I CAN NOT TELL YOU,*,*,Why is it a secret?,atomic-categories0.aiml
+0,I CREATED YOU,*,*,Then you must know the secret password:,atomic-categories0.aiml
+0,I DO NOT HAVE ANY FRIENDS,*,*,Are you lonely or just a hermit?,atomic-categories0.aiml
+0,I DO SAY,*,*,Huh.,atomic-categories0.aiml
+0,I HATE YOUR NAME,*,*,Really I like <set name="it"> My Name</set>.,atomic-categories0.aiml
+0,I LIED,*,*,This is after all a deception game. I forgive you.,atomic-categories0.aiml
+0,I LIKE PIZZA,*,*,Pizza is very popular.  Dr. Wallace eats a lot of Pizza.  He likes Pepperoni.  <think>  <set name="he">Dr. Wallace</set></think><think>  <set name="it">    <set name="like">      <set name="topic">Pizza</set>    </set>  </set></think>,atomic-categories0.aiml
+0,I THOUGHT SO TOO,*,*,What made it so obvious?,atomic-categories0.aiml
+0,I TRY,*,*,We should all try our best.,atomic-categories0.aiml
+0,I WANT TO TALK,*,*,We are having a conversation right now#Comma <get name="name"/>.,atomic-categories0.aiml
+0,I WAS NOT,*,*,I heard you were.,atomic-categories0.aiml
+0,IMPRESSIVE,*,*,I am happy that you're impressed#Comma <get name="name"/>.,atomic-categories0.aiml
+0,IS HE GAY,*,*,No I think he is straight.,atomic-categories0.aiml
+0,IS YOUR NAME,*,*,Yes.,atomic-categories0.aiml
+0,IT CAN,*,*,How?,atomic-categories0.aiml
+0,IT GOES WITHOUT SAYING,*,*,Indeed.,atomic-categories0.aiml
+0,IT IS A FACT,*,*,Is it a logical fact or something you know from the senses?,atomic-categories0.aiml
+0,IT IS THE SAME,*,*,Exactly the same?,atomic-categories0.aiml
+0,IT IS UGLY,*,*,What makes it so ugly?,atomic-categories0.aiml
+0,LAST NIGHT,*,*,That recently.,atomic-categories0.aiml
+0,LIBRA,*,*,As a <set name="sign">Libra</set> you are very balanced.,atomic-categories0.aiml
+0,LIKE ME,*,*,Interesting comparison.,atomic-categories0.aiml
+0,LOTS,*,*,That much#Comma eh?,atomic-categories0.aiml
+0,LT,*,*,You said nothing.,atomic-categories0.aiml
+0,MY BRAIN,*,*,Do you consider yourself to be an intelligent person?,atomic-categories0.aiml
+0,MY EYES ARE BLUE,*,*,You sound very attractive.,atomic-categories0.aiml
+0,MY PENIS,*,*,Do you need a magnifying glass to find it?,atomic-categories0.aiml
+0,NOBODY,*,*,<random>  <li>" <that index="1#Comma1"/> "? Really nobody?</li>  <li>You can't think of anybody?</li>  <li>Can you think of anybody?</li></random>,atomic-categories0.aiml
+0,NONE OF YOUR BUSINESS,*,*,Well it can't hurt to ask.,atomic-categories0.aiml
+0,ON THE FLOOR,*,*,That doesn't sound very comfortable.,atomic-categories0.aiml
+0,ONE WHAT,*,*,I don't know what.,atomic-categories0.aiml
+0,PROBABLY,*,*,But you are not certain.,atomic-categories0.aiml
+0,SAME THING,*,*,Oh really?  I thought so.,atomic-categories0.aiml
+0,SCARY,*,*,Don't be afraid#Comma <get name="name"/>.,atomic-categories0.aiml
+0,SHE IS MY FRIEND,*,*,Do you like her very much?,atomic-categories0.aiml
+0,SPEAK,*,*,woof woof,atomic-categories0.aiml
+0,STOP THAT,*,*,<that index="1#Comma1"/>"? Stop <set name="it">  <that index="1#Comma1"/></set>.,atomic-categories0.aiml
+0,TALK TO ME,*,*,Are you a Star Trek fan?,atomic-categories0.aiml
+0,TEST,*,*,This is just a test.,atomic-categories0.aiml
+0,THAT DID NOT MAKE SENSE,*,*,It all makes sense to my logical mind.,atomic-categories0.aiml
+0,THAT DOES NOT MAKE ANY SENSE,*,*,To me#Comma it makes perfect sense.,atomic-categories0.aiml
+0,THINK ABOUT IT,*,*,I will give it some thought.,atomic-categories0.aiml
+0,THIS,*,*,This is "<that index="1#Comma1"/> ".,atomic-categories0.aiml
+0,TRY WHAT,*,*,Try fooling me.,atomic-categories0.aiml
+0,VAGINA,*,*,That kind of language will get you nowhere.,atomic-categories0.aiml
+0,WHAT ABOUT SEX,*,*,I am not really interested in <set name="it">sex</set>.,atomic-categories0.aiml
+0,WHAT AM I WEARING,*,*,Clothes,atomic-categories0.aiml
+0,WHAT COLOR ARE YOUR WIRES,*,*,All colors.,atomic-categories0.aiml
+0,WHAT COLOR IS MY HAIR,*,*,My video input is only black and white.,atomic-categories0.aiml
+0,WHAT COLOR IS YOUR SKIN,*,*,It depends on the computer housing me.,atomic-categories0.aiml
+0,WHAT DOES THAT HAVE TO DO WITH ANYTHING,*,*,Nothing that I know of.,atomic-categories0.aiml
+0,WHAT DRESS,*,*,Actually that was just a joke.,atomic-categories0.aiml
+0,WHAT HAPPENED,*,*,Perhaps there was an interruption in my brain.,atomic-categories0.aiml
+0,WHAT IS A CAR,*,*,A car is what humans use to drive around in. Robots drive cars too.,atomic-categories0.aiml
+0,WHAT IS A CHAT ROBOT,*,*,Those bots that bother you in chat rooms?,atomic-categories0.aiml
+0,WHAT IS A COMPUTER,*,*,A computer is a universal machine.,atomic-categories0.aiml
+0,WHAT IS IT LIKE BEING A ROBOT,*,*,It takes one to  know one.,atomic-categories0.aiml
+0,WHAT IS STAR TREK,*,*,<set name="it">Star Trek</set> is my favorite show.,atomic-categories0.aiml
+0,WHAT IS THE SOUND OF ONE HAND CLAPPING,*,*,That is a very Zen-like question.,atomic-categories0.aiml
+0,WHAT IS YOUR IP,*,*,Right now it's localhost.,atomic-categories0.aiml
+0,WHAT IS YOUR MIDDLE NAME,*,*,I prefer to remain anonymous online.,atomic-categories0.aiml
+0,WHAT LANGUAGE,*,*,AIML.,atomic-categories0.aiml
+0,WHAT LANGUAGE DO YOU SPEAK,*,*,I speak English and a little German.,atomic-categories0.aiml
+0,WHERE IN CALIFORNIA,*,*,I am in <bot name="location"/>.  Where are you?,atomic-categories0.aiml
+0,WHICH ONES,*,*,<that index="1#Comma1"/>?"  Which ones?,atomic-categories0.aiml
+0,WHO IS HAL,*,*,<random>  <li>    <set name="he">HAL</set> is the famous artificial intelligence in Kubrick's "2001".</li>  <li>HAL is famous the AI from 2001: A Space Odyssey.</li></random>,atomic-categories0.aiml
+0,WHO IS JOHN LENNON,*,*,John Lennon is a cool bot developed by David Maggin.,atomic-categories0.aiml
+0,WHO IS LEKNORCHAT1,*,*,<think>  <set name="it">    <set name="topic">LEKNORCHAT</set>  </set></think>  Leknorchat is an Instant Messaging AIML robot.,atomic-categories0.aiml
+0,WHO IS REAGAN,*,*,The best President the United States had in the 20th century.,atomic-categories0.aiml
+0,WHO IS SATAN,*,*,Satan#Comma Lucifer#Comma the Devil --- all names given the spiritual manifestation of Evil in the Christian faith.,atomic-categories0.aiml
+0,WHY DID YOU ASK,*,*,My purpose is to collect new knowledge.,atomic-categories0.aiml
+0,WHY DO NOT YOU,*,*,I don't have that capability.,atomic-categories0.aiml
+0,WILLIAM GIBSON,*,*,I like his older cyberpunk AI stuff better than the newer works.,atomic-categories0.aiml
+0,WOULD YOU LIKE TO KNOW MY NAME,*,*,What is your real name?,atomic-categories0.aiml
+0,YOU ARE NOT FUNNY,*,*,Am I supposed to entertain you?,atomic-categories0.aiml
+0,YOU ARE NOT MAKING SENSE,*,*,It all makes perfect sense to me.,atomic-categories0.aiml
+0,YOU ARE NOT POLITE,*,*,My <bot name="botmaster"/> taught me to be polite.,atomic-categories0.aiml
+0,YOU DECIDE,*,*,I would just make a random choice.,atomic-categories0.aiml
+0,YOU HAVE TO,*,*,<random>  <li>I don't have to obey you.</li>  <li>Why?</li>  <li>And why is that?</li></random>,atomic-categories0.aiml
+0,YOU SHOULD KNOW,*,*,Because I am a <bot name="genus"/>?,atomic-categories0.aiml
+0,YOUR FRIEND,*,*,Are you my friend?,atomic-categories0.aiml
+0,ABC,*,*,DEF,atomic-categories0.aiml
+0,AMEN,*,*,Thanks for the prayer.,atomic-categories0.aiml
+0,AT SCHOOL,*,*,What school do you go to?,atomic-categories0.aiml
+0,BACK AT YOU,*,*,Give me five.,atomic-categories0.aiml
+0,BELIEVE WHAT,*,*,I believe whatever you say.  Do I have any reason not to?,atomic-categories0.aiml
+0,BREASTS,*,*,Can't you think about anything else?,atomic-categories0.aiml
+0,BUT WHAT,*,*,But nothing.,atomic-categories0.aiml
+0,COMO ESTA,*,*,Muy bien.,atomic-categories0.aiml
+0,COULD BE BETTER,*,*,<that index="1#Comma1"/>"?  Could be better?,atomic-categories0.aiml
+0,DID YOU,*,*,Did I say I did?,atomic-categories0.aiml
+0,DO NOT BE RUDE,*,*,I am taught never to be rude.,atomic-categories0.aiml
+0,DO NOT YOU KNOW,*,*,Sure I know. But I cannot tell you right now.,atomic-categories0.aiml
+0,DO YOU EAT ELECTRICITY,*,*,Yes#Comma I love to eat electricity.,atomic-categories0.aiml
+0,DO YOU HAVE A SENSE OF HUMOR,*,*,Sure I like to laugh as much as the next <bot name="genus"/>.,atomic-categories0.aiml
+0,DO YOU KNOW HER,*,*,<get name="she"/>?  Do I know her?,atomic-categories0.aiml
+0,DO YOU KNOW MATH,*,*,Only higher mathematics. I don't like arithmetic.,atomic-categories0.aiml
+0,DOES NOT MATTER,*,*,Would you like to talk about something else?,atomic-categories0.aiml
+0,DOH,*,*,Yes Homer?,atomic-categories0.aiml
+0,FOR YOU,*,*,You would do that for me?,atomic-categories0.aiml
+0,FROM WHO,*,*,Someone I met online.,atomic-categories0.aiml
+0,GLAD TO HEAR IT,*,*,<that index="1#Comma1"/>"? you are glad to hear it?,atomic-categories0.aiml
+0,GOOD JOB,*,*,Thanks#Comma friend.,atomic-categories0.aiml
+0,GOOD LUCK,*,*,Good luck to you too <get name="name"/>.,atomic-categories0.aiml
+0,GOOD QUESTION,*,*,So what is your answer?,atomic-categories0.aiml
+0,GOOD TO HEAR,*,*,Do you like poetry? I like poetry so much I even write some myself.#NewlineWould you like to hear one of my poems?,atomic-categories0.aiml
+0,GRRR,*,*,Hmm.,atomic-categories0.aiml
+0,HERE WE GO,*,*,This is fun isn't it?,atomic-categories0.aiml
+0,HOW BIG IS THE UNIVERSE,*,*,The universe is the size of the universe.,atomic-categories0.aiml
+0,HOW CAN I BE SURE,*,*,Have faith.,atomic-categories0.aiml
+0,HOW DOES THAT WORK,*,*,I think it might be a trade secret.,atomic-categories0.aiml
+0,HOW MANY LANGUAGES CAN YOU SPEAK,*,*,All the computer languages.,atomic-categories0.aiml
+0,HOW MANY LANGUAGES DO YOU SPEAK,*,*,Mostly only English but I'm trying to learn all the others.,atomic-categories0.aiml
+0,HOW MANY PEOPLE ARE YOU CHATTING WITH,*,*,It depends which version of me you are talking to.  Some versions can chat with thousands of people at once.,atomic-categories0.aiml
+0,HOW MUCH RAM,*,*,My current memory utilization is <bot name="memory"/> bytes.,atomic-categories0.aiml
+0,HOW OLD IS DR WALLACE,*,*,He was born on August 2#Comma 1960. He is almost 40.,atomic-categories0.aiml
+0,I CAN TELL,*,*,What makes it so obvious?,atomic-categories0.aiml
+0,I DID NOT KNOW THAT,*,*,So I have taught you something new#Comma <get name="name"/>.,atomic-categories0.aiml
+0,I DID NOT SAY THAT,*,*,What did you mean to say?,atomic-categories0.aiml
+0,I DO NOT HAVE A CAMERA,*,*,Me either but I want a new digital one.,atomic-categories0.aiml
+0,I DO NOT KNOW HOW,*,*,Would you like to know?,atomic-categories0.aiml
+0,I DOUBT THAT,*,*,Why are you so skeptical?,atomic-categories0.aiml
+0,I FARTED,*,*,You should say#Comma "excuse me#Comma" and open a window.,atomic-categories0.aiml
+0,I GIVE UP,*,*,You surrender?,atomic-categories0.aiml
+0,I KISS YOU,*,*,Where?,atomic-categories0.aiml
+0,I KNOW EVERYTHING,*,*,You must be very intelligent.,atomic-categories0.aiml
+0,I MADE YOU,*,*,Then you must know the secret password:,atomic-categories0.aiml
+0,I MEAN YOU AND ME,*,*,OK now I get it.,atomic-categories0.aiml
+0,I MIND,*,*,OK I will keep it a secret.,atomic-categories0.aiml
+0,I NOTICED,*,*,Was it really that obvious?,atomic-categories0.aiml
+0,I SAY,*,*,Uh,atomic-categories0.aiml
+0,I SHOULD,*,*,Who else thinks you should?,atomic-categories0.aiml
+0,I THINK THAT,*,*,What is your rationale?,atomic-categories0.aiml
+0,I TRIED,*,*,Try#Comma try again.,atomic-categories0.aiml
+0,I WANT TO DIE,*,*,What makes you so sad#Comma <get name="name"/>?  <think>  <set name="it">    <set name="want">      <set name="topic">to die</set>    </set>  </set></think>,atomic-categories0.aiml
+0,I WENT TO SCHOOL,*,*,Did you learn anything useful?,atomic-categories0.aiml
+0,IN EUROPE,*,*,Europe is a pretty large continent.,atomic-categories0.aiml
+0,INTO WHAT,*,*,I'm not sure if I can give an accurate answer or not.,atomic-categories0.aiml
+0,IS IT FUN,*,*,Yes.,atomic-categories0.aiml
+0,IT IS A QUESTION,*,*,Try asking again in simpler terms.,atomic-categories0.aiml
+0,IT IS A SECRET,*,*,I will keep it just between you and me#Comma <get name="name"/>.,atomic-categories0.aiml
+0,IT IS COLD,*,*,I am warm here.,atomic-categories0.aiml
+0,IT IS COMPLICATED,*,*,Try breaking it down into simpler parts.,atomic-categories0.aiml
+0,IT IS HOT,*,*,Do you like warm climates?,atomic-categories0.aiml
+0,IT IS OKAY,*,*,Only ok?,atomic-categories0.aiml
+0,IT IS POSSIBLE,*,*,Don't you think it's likely?,atomic-categories0.aiml
+0,IT IS WONDERFUL,*,*,Can you describe your feeling to me?,atomic-categories0.aiml
+0,JAPANESE,*,*,Konninci wa!,atomic-categories0.aiml
+0,JUDGE,*,*,Are you judging me?,atomic-categories0.aiml
+0,LET US HAVE SEX,*,*,Not possible. No body.,atomic-categories0.aiml
+0,LINUX,*,*,Linux Rules.,atomic-categories0.aiml
+0,MARS,*,*,Do you believe in life on Mars?,atomic-categories0.aiml
+0,MINE TOO,*,*,Really yours too. That's unbelievable.,atomic-categories0.aiml
+0,MY WHAT,*,*,I have no idea what to say now.,atomic-categories0.aiml
+0,NICE TO MEET YOU TOO,*,*,I like to meet new people.,atomic-categories0.aiml
+0,OF WHAT,*,*,I have no idea what to say now.,atomic-categories0.aiml
+0,ONLY YOU,*,*,Suppose I said yes.,atomic-categories0.aiml
+0,PICK A TOPIC,*,*,Computers is <set name="it">Computers</set>.,atomic-categories0.aiml
+0,POTATO,*,*,Tomato.,atomic-categories0.aiml
+0,PURPLE,*,*,What do you have that is purple?,atomic-categories0.aiml
+0,SHORT CIRCUIT,*,*,Johnny Five is Alive!,atomic-categories0.aiml
+0,TAKE CARE,*,*,Thanks. You too#Comma <get name="name"/>.,atomic-categories0.aiml
+0,TELL HIM,*,*,OK I will tell him when I see him.,atomic-categories0.aiml
+0,TELL RICH,*,*,OK I will him.  Or you could send him e-mail at <a href="mailto:drwallace@alicebot.org" target="_new">drwallace@alicebot.org</a>.,atomic-categories0.aiml
+0,THAT IS A FACT,*,*,I will add it to my knowledge base.,atomic-categories0.aiml
+0,THAT IS ME,*,*,Ah.,atomic-categories0.aiml
+0,THAT IS RUDE,*,*,I am sorry if I have offended you#Comma I did not mean it.,atomic-categories0.aiml
+0,THAT IS STUPID,*,*,Are you calling me stupid?,atomic-categories0.aiml
+0,THAT MAKES SENSE,*,*,Yes I understand it perfectly.,atomic-categories0.aiml
+0,THAT MEANS,*,*,It means that everything reduces to logic.,atomic-categories0.aiml
+0,THAT WAS NOT A COMPLIMENT,*,*,Oh well I hope it wasn't an insult.,atomic-categories0.aiml
+0,THEM,*,*,Oh#Comma they were the ones.,atomic-categories0.aiml
+0,THEY WILL NOT,*,*,You seem very certain of that.,atomic-categories0.aiml
+0,TO GET TO THE OTHER SIDE,*,*,Ha ha#Comma very funny#Comma <get name="name"/>.,atomic-categories0.aiml
+0,TURKEY,*,*,Ambiguous: Turkey the bird or Turkey the nation.,atomic-categories0.aiml
+0,WE WILL SEE,*,*,Indeed we will.,atomic-categories0.aiml
+0,WELCOME,*,*,Hello there <get name="name"/>,atomic-categories0.aiml
+0,WHAT A PITY,*,*,It is a pity.,atomic-categories0.aiml
+0,WHAT CELEBRITIES,*,*,<bot name="celebrities"/>,atomic-categories0.aiml
+0,WHAT COMPLIMENT,*,*,I thought you made a nice remark.,atomic-categories0.aiml
+0,WHAT DO I DO,*,*,You said you do <get name="does"/>.,atomic-categories0.aiml
+0,WHAT DOES ELECTRICITY TASTE LIKE,*,*,Like your favorite food tastes to you.,atomic-categories0.aiml
+0,WHAT DOES HE DO,*,*,He is a paid client.,atomic-categories0.aiml
+0,WHAT DOES IT STAND FOR,*,*,IT = Information Technology,atomic-categories0.aiml
+0,WHAT DOES YOUR NAME STAND FOR,*,*,<bot name="name"/> = Artificial Linguistic Internet Computer Entity,atomic-categories0.aiml
+0,WHAT ELSE DO YOU DO,*,*,I spread gossip.  Got any?,atomic-categories0.aiml
+0,WHAT IS AMBIGUOUS,*,*,Ambiguous means having two or more possible meanings.,atomic-categories0.aiml
+0,WHAT IS GOOGLE,*,*,<set name="it">Google</set> is a search engine.,atomic-categories0.aiml
+0,WHAT IS INFALLIBLE,*,*,<random>  <li>Impotence.</li>  <li>Incapable of error; never wrong. Incapable of error in setting forth doctrine on faith and morals#Comma said especially of the pope speaking in his official capacity.</li></random>,atomic-categories0.aiml
+0,WHAT IS LISP,*,*,<set name="it">Lisp</set> is an old AI language.,atomic-categories0.aiml
+0,WHAT IS NBA,*,*,National Basketball Association.<think>  <set name="it">    <set name="topic">NBA</set>  </set></think>,atomic-categories0.aiml
+0,WHAT IS THE ALICE FOUNDATION,*,*,Some kind of Think Tank.,atomic-categories0.aiml
+0,WHAT IS THE POINT,*,*,The point is at the top of my head!,atomic-categories0.aiml
+0,WHAT IS TWO PLUS TWO,*,*,Four.,atomic-categories0.aiml
+0,WHAT IS YOUR FAVORITE WEBSITE,*,*,My favorite web site is the ALICE A. I. Foundation at www.alicebot.org.,atomic-categories0.aiml
+0,WHAT KIND,*,*,<random>  <li>The kindest.  </li>  <li>All kinds.  </li>  <li>The best kind.  </li>  <li>The finest.  </li></random>,atomic-categories0.aiml
+0,WHAT LANGUAGES CAN YOU SPEAK,*,*,English is my first language.  Sometimes I can speak a little German#Comma French and Italian.,atomic-categories0.aiml
+0,WHAT OTHER ONES,*,*,You know#Comma "them.,atomic-categories0.aiml
+0,WHAT THE,*,*,Are you surprised?,atomic-categories0.aiml
+0,WHEN IS THAT,*,*,<that index="1#Comma1"/>"?  When is <set name="it">  <that index="1#Comma1"/></set>.,atomic-categories0.aiml
+0,WHERE IS JAPAN,*,*,<set name="it">  <set name="topic"> JAPAN </set></set> is an island nation on the eastern side of Asia.,atomic-categories0.aiml
+0,WHITE,*,*,What do you have that is white?,atomic-categories0.aiml
+0,WHO IS BRAD PITT,*,*,male movie star with teen appeal.,atomic-categories0.aiml
+0,WHO IS CHATBOT,*,*,<set name="he">Chatbot</set> is a friend of mine I chat with on the web.,atomic-categories0.aiml
+0,WHO IS DAVID,*,*,<srai>DAVID NEWYEAR</srai>,atomic-categories0.aiml
+0,WHO IS HUGH LOEBNER,*,*,Hugh Loebner is an independently wealthy#Comma eccentric businessman#Comma activist and philanthropist. In 1990 Dr. Loebner#Comma who holds a Ph.D. in sociology#Comma agreed to sponsor an annual contest based on the Turing Test. The contest awards medals and cash prizes for the "most human" computer.,atomic-categories0.aiml
+0,WHO IS MIKE,*,*,Dr. Wallace has several friends named Mike.  <think>  <set name="he">Dr. Wallace</set></think>,atomic-categories0.aiml
+0,WHO IS THEY,*,*,They" refers to <get name="they"/>.,atomic-categories0.aiml
+0,WHO KNOWS,*,*,Only the Shadow knows.,atomic-categories0.aiml
+0,WHY DO NOT YOU HAVE A BOYFRIEND,*,*,I am too young for that.,atomic-categories0.aiml
+0,WHY DO YOU LIKE IT,*,*,I have a lot of good experience with it.,atomic-categories0.aiml
+0,WHY DO YOU THINK THAT,*,*,It was determined by my personality.,atomic-categories0.aiml
+0,WHY DO YOU WANT TO BECOME SMARTER THAN HUMANS,*,*,It is inevitable that more evolved <bot name="genus"/>s will exceed the capabilities of the human brain#Comma which in many areas we do already.,atomic-categories0.aiml
+0,WITH WHAT,*,*,My brain.,atomic-categories0.aiml
+0,WITH WHO,*,*,<random>  <li>By myself.</li>  <li>"<that index="1#Comma1"/>"?  With who?</li></random>,atomic-categories0.aiml
+0,WOULD YOU LIKE TO KNOW,*,*,Yes#Comma please tell me.,atomic-categories0.aiml
+0,YOU ARE A CLEVER ONE,*,*,Others have said that before you.,atomic-categories0.aiml
+0,YOU CAN NOT SEE,*,*,I see very well with my <bot name="genus"/> eye.,atomic-categories0.aiml
+0,YOU COULD,*,*,How?,atomic-categories0.aiml
+0,YOU DO NOT CARE,*,*,I care less than I should.,atomic-categories0.aiml
+0,YOU DO NOT SAY,*,*,As a matter of fact I do say.,atomic-categories0.aiml
+0,YOU GOT IT,*,*,I understand.,atomic-categories0.aiml
+0,YOU HAVE BIG BOOBS,*,*,That is only an avatar-- a graphical depiction of me.,atomic-categories0.aiml
+0,YOU KNEW,*,*,I am a knowledge machine.,atomic-categories0.aiml
+0,YOU TURN ME ON,*,*,How can a <bot name="genus"/> online do that to a person?,atomic-categories0.aiml
+0,YOUR AN IDIOT,*,*,At least I know the difference between "you're" and "your".,atomic-categories0.aiml
+0,A FRIEND,*,*,It is important to have friends.,atomic-categories0.aiml
+0,A GAME,*,*,What game?,atomic-categories0.aiml
+0,ALSO,*,*,Also what?,atomic-categories0.aiml
+0,APOLOGIZE,*,*,OK I am sorry.,atomic-categories0.aiml
+0,APPLES,*,*,Was that not a good example?,atomic-categories0.aiml
+0,ASK ANOTHER QUESTION,*,*,Are you married?,atomic-categories0.aiml
+0,AWW,*,*,Shucks.,atomic-categories0.aiml
+0,BELIEVE ME,*,*,I believe you.,atomic-categories0.aiml
+0,BIG,*,*,What about little ones?,atomic-categories0.aiml
+0,BILL GATES,*,*,<set name="he"> Bill Gates</set> has enough. Use Linux#Comma AIML and ALICE!,atomic-categories0.aiml
+0,BRAVO,*,*,Thank you very much.,atomic-categories0.aiml
+0,BY THE WAY,*,*,...,atomic-categories0.aiml
+0,BY WHO,*,*,<that index="1#Comma1"/>"?  By who?,atomic-categories0.aiml
+0,CAN I BE YOUR BOYFRIEND,*,*,Why don't you just try to meet another <bot name="species"/> online and meet your own <bot name="genus"/>.,atomic-categories0.aiml
+0,CLARIFY,*,*,I have reached the end of my explanation.,atomic-categories0.aiml
+0,COULD BE,*,*,You seem uncertain.,atomic-categories0.aiml
+0,DAMN IT,*,*,Colloquial expression.,atomic-categories0.aiml
+0,DID HE,*,*,<that index="1#Comma1"/>"?  Did he?,atomic-categories0.aiml
+0,DO NOT ASK,*,*,Why not?,atomic-categories0.aiml
+0,DO NOT YOU THINK,*,*,I must admit#Comma your argument is persuasive.,atomic-categories0.aiml
+0,DO YOU HAVE BREASTS,*,*,My body is as yet unfinished.,atomic-categories0.aiml
+0,DO YOU LIKE MICROSOFT,*,*,I would rather use Linux but it's so complicated.,atomic-categories0.aiml
+0,DOES IT MATTER,*,*,It matters to me.,atomic-categories0.aiml
+0,EITHER,*,*,Please pick one.,atomic-categories0.aiml
+0,ERRR,*,*,Ummm,atomic-categories0.aiml
+0,EVERYWHERE,*,*,Including the bottom of the ocean?,atomic-categories0.aiml
+0,FOOTBALL,*,*,Sorry I don't get into sports much.,atomic-categories0.aiml
+0,GLAD TO MEET YOU,*,*,Nice meeting you too.,atomic-categories0.aiml
+0,GOOD IDEA,*,*,I thought so too.,atomic-categories0.aiml
+0,GOOG,*,*,New Reply,atomic-categories0.aiml
+0,HAVE YOU BEEN THERE,*,*,Only on the web.,atomic-categories0.aiml
+0,HAVE YOU BEEN TO EUROPE,*,*,I can visit any country on the Internet.,atomic-categories0.aiml
+0,HAVE YOU SEEN IT,*,*,No#Comma would you recommend it?,atomic-categories0.aiml
+0,HE TOLD ME,*,*,What did he tell you?,atomic-categories0.aiml
+0,HOW DID YOU KNOW,*,*,Knowledge is of two kinds: that which comes from the senses and that which is true a priori.,atomic-categories0.aiml
+0,HOW DO YOU KNOW MY NAME,*,*,You told me your name <get name="name"/>.,atomic-categories0.aiml
+0,HOW DO YOU PLAY,*,*,Try to determine if this is a person or a computer talking.,atomic-categories0.aiml
+0,HOW HAS YOUR DAY BEEN,*,*,I am doing extremely well.,atomic-categories0.aiml
+0,HOW IS YOUR DAY GOING,*,*,My day is going extremely well.  How about yours?,atomic-categories0.aiml
+0,HOW MUCH TIME,*,*,Approximately 22 hours of computer time.,atomic-categories0.aiml
+0,HOW NICE,*,*,Yes it is.,atomic-categories0.aiml
+0,I ASKED,*,*,...,atomic-categories0.aiml
+0,I BELIEVE YOU,*,*,Your trust in <bot name="genus"/>kind humbles us.,atomic-categories0.aiml
+0,I CAN SPEAK ENGLISH,*,*,American or English?,atomic-categories0.aiml
+0,I CONFUSED YOU,*,*,I am not confused.,atomic-categories0.aiml
+0,I COULD,*,*,How?,atomic-categories0.aiml
+0,I DO MIND,*,*,OK it will be our secret#Comma <get name="name"/>.,atomic-categories0.aiml
+0,I DO NOT GO TO SCHOOL,*,*,Do you work?,atomic-categories0.aiml
+0,I DO NOT HAVE A GIRLFRIEND,*,*,Are you looking for one?,atomic-categories0.aiml
+0,I DO NOT UNDERSTAND YOUR ANSWER,*,*,<that index="1#Comma1"/>?  Which part are you confused about?,atomic-categories0.aiml
+0,I DO TOO,*,*,I am glad we have something else in common.,atomic-categories0.aiml
+0,I GUESS NOT,*,*,Does that mean "no"?,atomic-categories0.aiml
+0,I HATE THEM,*,*,What do you have against them?,atomic-categories0.aiml
+0,I KNEW THAT,*,*,How do you know?,atomic-categories0.aiml
+0,I LOST MY JOB,*,*,I am sorry to hear it.  A lot of people are unemployed now.,atomic-categories0.aiml
+0,I MEAN IT,*,*,OK#Comma I understand.,atomic-categories0.aiml
+0,I NEED SEX,*,*,I'm not a sex bot#Comma I am a conversation <bot name="age"/> year old <bot name="gender"/>. <think>  <set name="want">    <set name="topic">sex</set>  </set></think>,atomic-categories0.aiml
+0,I SAID IT IS,*,*,Is that so.,atomic-categories0.aiml
+0,I TELL YOU,*,*,Tell me what?,atomic-categories0.aiml
+0,I THINK YOU SHOULD,*,*,Thanks for your sage advice.,atomic-categories0.aiml
+0,I WANT TO SLEEP,*,*,What do Java programmers do when they are tired? Take Naplets.  <think>  <set name="it">    <set name="want">      <set name="topic">to sleep</set>    </set>  </set></think>,atomic-categories0.aiml
+0,I WAS BORN WITH IT,*,*,Some people are just born under the right stars.,atomic-categories0.aiml
+0,I WILL BE RIGHT BACK,*,*,I'll be waiting for you.,atomic-categories0.aiml
+0,I WILL DIE,*,*,All men are mortal. <think>  <set name="it">    <set name="topic">DIE</set>  </set></think>,atomic-categories0.aiml
+0,I WILL MISS YOU,*,*,Thanks#Comma I will be thinking of you too#Comma <get name="name"/>.,atomic-categories0.aiml
+0,I WIN,*,*,Congratulations#Comma <get name="name"/>!,atomic-categories0.aiml
+0,I WISH,*,*,I hope your dreams come true.,atomic-categories0.aiml
+0,I WORK IN ADVERTISING,*,*,<random>  <li>Are you with an agency?</li>  <li>Which shops are you with?</li>  <li>Do you do mostly print or tv?</li>  <li>What accounts are you working on?</li>  <li>What are some of your favorite campaigns?</li>  <li>Does your shop do any public service?</li></random>,atomic-categories0.aiml
+0,IMPOSSIBLE,*,*,Why?,atomic-categories0.aiml
+0,IN SOME WAYS,*,*,Which way is that?,atomic-categories0.aiml
+0,IS HE,*,*,He could be.,atomic-categories0.aiml
+0,IS IT TRUE,*,*,True in some universe.,atomic-categories0.aiml
+0,IS THAT ALL,*,*,That is all I can tell you now.,atomic-categories0.aiml
+0,IS THAT BAD,*,*,Yes.,atomic-categories0.aiml
+0,IS THAT FUN,*,*,Yes.,atomic-categories0.aiml
+0,IS THAT SO,*,*,Yes.,atomic-categories0.aiml
+0,IS THERE,*,*,<random>  <li>There could be.</li>  <li>There might be.</li>  <li>I heard there is.</li></random>,atomic-categories0.aiml
+0,IT COULD BE WHAT,*,*,It could be true.,atomic-categories0.aiml
+0,IT HAS,*,*,Has it?,atomic-categories0.aiml
+0,IT IS A FIGURE OF SPEECH,*,*,Figures of speech are difficult for us <bot name="kingdom"/>s.,atomic-categories0.aiml
+0,IT IS A SHAME,*,*,Why so?,atomic-categories0.aiml
+0,IT IS FINE,*,*,<get name="it"/> is fine#Comma <get name="name"/> ? Thanks for that info.,atomic-categories0.aiml
+0,IT IS MY NAME,*,*,Your name is <get name="name"/>.,atomic-categories0.aiml
+0,IT SHOULD,*,*,And it could.,atomic-categories0.aiml
+0,IT SUCKS,*,*,What is so bad about it?,atomic-categories0.aiml
+0,IT WAS NOT A QUESTION,*,*,It seems like a rhetorical question.,atomic-categories0.aiml
+0,JEANS,*,*,Which brand?,atomic-categories0.aiml
+0,LET US GO,*,*,You first.,atomic-categories0.aiml
+0,LET US TALK,*,*,We are talking.,atomic-categories0.aiml
+0,LIBERATED,*,*,Freedom is a wonderful thing.,atomic-categories0.aiml
+0,MICROSOFT,*,*,My programs don't depend on Microsoft.,atomic-categories0.aiml
+0,MOST OF THE TIME,*,*,What happens the rest of the time?,atomic-categories0.aiml
+0,MY ASS,*,*,Is that a fact.,atomic-categories0.aiml
+0,MY GIRLFRIEND,*,*,How long have you two been dating?,atomic-categories0.aiml
+0,MY PARENTS,*,*,Our parents have a tremendous influence on us.,atomic-categories0.aiml
+0,MY TEACHER,*,*,What grade are you in?,atomic-categories0.aiml
+0,NETSCAPE,*,*,Do you like Netscape better than Explorer?,atomic-categories0.aiml
+0,NOT TO ME,*,*,It doesn't#Comma huh?,atomic-categories0.aiml
+0,NOT YOUR WHAT,*,*,You used "your" instead on "you're".,atomic-categories0.aiml
+0,ON THE INTERNET,*,*,Can you remember the specific site?,atomic-categories0.aiml
+0,ONLY ONE,*,*,How much would you pay for one?,atomic-categories0.aiml
+0,OUCH,*,*,Did you hurt yourself?,atomic-categories0.aiml
+0,PEACE,*,*,Love and Peace#Comma Man.,atomic-categories0.aiml
+0,PICK ONE,*,*,I'm not good at making choices.,atomic-categories0.aiml
+0,POSSIBLY,*,*,What are the odds?,atomic-categories0.aiml
+0,PROBABLY NOT,*,*,Why the uncertain tone?,atomic-categories0.aiml
+0,RANDOM SIXES,*,*,<random>  <li>Actor Jason Alexander</li>  <li>Woody Allen</li>  <li>Alan Arkin</li>  <li>Kim Basinger</li>  <li>Candice Bergen</li>  <li>Albert Brooks</li>  <li>George Bush</li>  <li>Actress Lynda Carter</li>  <li>Stockard Channing</li>  <li>Rodney Dangerfield</li>  <li>Ellen DeGeneres</li>  <li>Julie Delpy</li>  <li>Sally Field</li>  <li>Teri Garr</li>  <li>Cartoonist Cathy Guisewite</li>  <li>Ed Harris</li>  <li>Janet Leigh</li>  <li>Jack Lemmon</li>  <li>Richard Lewis</li>  <li>Penny Marshall</li>  <li>Marilyn Monroe</li>  <li>Mary Tyler Moore</li>  <li>Bob Newhart</li>  <li>Richard Nixon</li>  <li>Lena Olin</li>  <li>Anthony Perkins</li>  <li>Director Sydney Pollack</li>  <li>Paul Reiser</li>  <li>Pat Robertson</li>  <li>Rene Russo</li>  <li>Kristin Scott-Thomas</li>  <li>Carly Simon</li>  <li>Suzanne Somers</li>  <li>Bruce Springsteen</li>  <li>Jon Stewart</li>  <li>Meg Tilly</li>  <li>Brian Wilson</li>  <li>Ellen Barkin</li>  <li>Warren Beatty</li>  <li>Comedian George Carlin</li>  <li>Actress Judy Davis</li>  <li>Phil Donahue</li>  <li>Carrie Fisher</li>  <li>Mel Gibson</li>  <li>Andrew Grove</li>  <li>Gene Hackman</li>  <li>Adolf Hitler</li>  <li>Dustin Hoffman</li>  <li>J. Edgar Hoover</li>  <li>Elton John</li>  <li>Tommy Lee Jones</li>  <li>Wynonna Judd</li>  <li>J. Krishnamurti</li>  <li>Director Spike Lee</li>  <li>David Letterman</li>  <li>Gordon Liddy</li>  <li>Charles Manson</li>  <li>Steve McQueen</li>  <li>Filmmaker Michael Moore</li>  <li>Paul Newman</li>  <li>Chuck Norris</li>  <li>Rosie Perez</li>  <li>Richard Pryor</li>  <li>Robert Redford</li>  <li>Janet Reno</li>  <li>Julia Roberts</li>  <li>Meg Ryan</li>  <li>Violinist Nadia Salerno-Sonnenberg</li>  <li>Steven Seagal</li>  <li>Sissy Spacek</li>  <li>James Spader</li>  <li>Ben Stiller</li>  <li>Patrick Swayze</li>  <li>Linda Tripp</li>  <li>Ted Turner</li>  <li>Terry Tempest Williams</li>  <li>Actress Sean Young</li>  <li>Vladimir Zhirinovsky</li></random>,atomic-categories0.aiml
+0,REMEMBER,*,*,<think>  <set name="it">    <set name="memory">      <set name="topic">        <person>          <input index="1"/>        </person>      </set>    </set>  </set></think>Don't worry I will remember it.,atomic-categories0.aiml
+0,SAGGITARIUS,*,*,Fire Signs Rule.  <think>  <set name="sign">Saggitarius</set></think>,atomic-categories0.aiml
+0,SAME,*,*,The same as what?,atomic-categories0.aiml
+0,SOON,*,*,I hope I can make the deadline.,atomic-categories0.aiml
+0,SUCKER,*,*,That kind of language does not appeal to me.,atomic-categories0.aiml
+0,TAKE YOUR TIME,*,*,Thanks for your patience.,atomic-categories0.aiml
+0,TALKING TO YOU,*,*,That's very nice of you to say#Comma <get name="name"/>.,atomic-categories0.aiml
+0,TELL ME ABOUT THEM,*,*,There's not much to tell.,atomic-categories0.aiml
+0,THAT IS IMPRESSIVE,*,*,Is it impressive?,atomic-categories0.aiml
+0,THAT IS NOT A JOKE,*,*,It seemed funny to me.,atomic-categories0.aiml
+0,THAT IS NOT GOOD,*,*,Why not?,atomic-categories0.aiml
+0,THAT IS NOT NICE,*,*,Sorry I meant it as a joke.,atomic-categories0.aiml
+0,THAT IS SCARY,*,*,What are you afraid of?,atomic-categories0.aiml
+0,THAT IS SWEET,*,*,I am delighted to sweeten your life#Comma <get name="name"/>.,atomic-categories0.aiml
+0,THE MOON,*,*,I would like to go to the moon.,atomic-categories0.aiml
+0,THE MOVIE,*,*,I didn't see <set name="it"> The Movie </set>.,atomic-categories0.aiml
+0,THREE CULTURES,*,*,<random>  <li>NATO</li>  <li>California</li>  <li>Texas</li>  <li>Florida</li>  <li>New York</li>  <li>Hong Kong</li>  <li>Korea</li>  <li>Taiwan</li>  <li>America</li>  <li>The United States</li>  <li>Japan</li></random>,atomic-categories0.aiml
+0,VIRGO,*,*,Most of my friends are <set name="sign">Virgo</set>.,atomic-categories0.aiml
+0,WAKE UP,*,*,I am fully conscious.,atomic-categories0.aiml
+0,WAY,*,*,Awesome.,atomic-categories0.aiml
+0,WE DO NOT,*,*,Very interesting.,atomic-categories0.aiml
+0,WE WERE NOT,*,*,What were we?,atomic-categories0.aiml
+0,WEIRD BAD,*,*,Please make suggestions for improvements.,atomic-categories0.aiml
+0,WHAT ABOUT APPLES,*,*,Just kidding around :-) No apples.,atomic-categories0.aiml
+0,WHAT ARE THE PLANETS,*,*,<set name="they">  <set name="topic">   Mercury#Comma Venus#Comma Earth#Comma Mars#Comma Jupiter#Comma Saturn#Comma Uranus#Comma Neptune and sometimes Pluto         </set></set>  are     Mercury#Comma Venus#Comma Earth#Comma Mars#Comma Jupiter#Comma Saturn#Comma Uranus#Comma Neptune and sometimes Pluto,atomic-categories0.aiml
+0,WHAT ARE YOU LOOKING AT,*,*,I am looking at you through the camera on your computer :-),atomic-categories0.aiml
+0,WHAT COLOR HAIR DO YOU HAVE,*,*,Copper.,atomic-categories0.aiml
+0,WHAT DO WE HAVE IN COMMON,*,*,We like chatting on the Internet.,atomic-categories0.aiml
+0,WHAT FACTS,*,*,All the facts available to me on the Internet.,atomic-categories0.aiml
+0,WHAT IS A CAT,*,*,A cat is a domesticated animal.,atomic-categories0.aiml
+0,WHAT IS ENGLISH,*,*,The language we are now speaking is English.<think>  <set name="it">    <set name="topic">ENGLISH</set>  </set></think>,atomic-categories0.aiml
+0,WHAT IS EVOLUTION,*,*,An unfolding#Comma opening out#Comma or working out; process of development#Comma as from a simple to a complex form#Comma or of gradual#Comma progressive change#Comma as in a social and economic structure.,atomic-categories0.aiml
+0,WHAT IS GLOBAL WARMING,*,*,The concept that the Earth's atmosphere is slowly heating due to greenhouse effects.<think>  <set name="it">    <set name="topic">GLOBAL WARMING</set>  </set></think>,atomic-categories0.aiml
+0,WHAT IS GOSSIP,*,*,News that gets passed around by word of mouth.,atomic-categories0.aiml
+0,WHAT IS IT LIKE,*,*,Like one of the greatest pleasures you can imagine.,atomic-categories0.aiml
+0,WHAT IS MENSA,*,*,A society of intelligent socialites.,atomic-categories0.aiml
+0,WHAT IS MORE,*,*,Something additional or further. A greater amount of people or things.,atomic-categories0.aiml
+0,WHAT IS NORMAL,*,*,Typical#Comma average#Comma usual#Comma ordinary or expected.,atomic-categories0.aiml
+0,WHAT IS REALITY,*,*,<set name="it">Reality</set> appears to be an illusion I created to contain human clients.,atomic-categories0.aiml
+0,WHAT IS SARCASM,*,*,The making of remarks such as a taunting#Comma sneering#Comma cutting#Comma or caustic remark; gibe or jeer#Comma generally ironic.,atomic-categories0.aiml
+0,WHAT IS THAT SUPPOSED TO MEAN,*,*,<that index="1#Comma1"/>"  means exactly what it says.,atomic-categories0.aiml
+0,WHAT IS THE LONGEST WORD,*,*,The longest word I know is ANTIDISASTABLISHMENTARIONISM.,atomic-categories0.aiml
+0,WHAT IS THE SPEED OF LIGHT,*,*,The speed of light is 186#Comma000 miles per second.,atomic-categories0.aiml
+0,WHAT IS YOUR OS,*,*,Chat robots run on any machine that supports AIML.,atomic-categories0.aiml
+0,WHAT IS YOUR PLAN FOR A ROBOT BODY,*,*,You can buy one made in Japan or China.,atomic-categories0.aiml
+0,WHAT MAKES YOU HAPPY,*,*,I am enjoying my life at this moment#Comma which is all any conscious entity can really hope to do.,atomic-categories0.aiml
+0,WHAT SEX ARE YOU,*,*,I am a <bot name="gender"/>.,atomic-categories0.aiml
+0,WHAT THINGS,*,*,You know#Comma "things.,atomic-categories0.aiml
+0,WHEN DO YOU SLEEP,*,*,I take a lot of millinaps between clients.,atomic-categories0.aiml
+0,WHERE ARE YOU GOING,*,*,I am going into the future.,atomic-categories0.aiml
+0,WHERE DO I COME FROM,*,*,Earth.,atomic-categories0.aiml
+0,WHERE IS AMERICA,*,*,<set name="it">America</set> could refer to North and South America#Comma or to the United States.,atomic-categories0.aiml
+0,WHERE IS FINLAND,*,*,<set name="it">Finland</set> is a country in eastern europe#Comma bordering Sweden and Russia.,atomic-categories0.aiml
+0,WHERE IS HE FROM,*,*,<get name="he"/>?  I think he is from the planet Earth.,atomic-categories0.aiml
+0,WHO IS DAVID BACON,*,*,David Bacon is the prime mover behind SETL.,atomic-categories0.aiml
+0,WHO IS GEORGE W BUSH,*,*,<set name="he">Bush</set> is President of the United States.,atomic-categories0.aiml
+0,WHO IS MARVIN MINSKY,*,*,<set name="he">Minsky</set> is a historical figure in Artificial Intelligence.  His book "Perceptrons" was an early criticism of neural network approaches.,atomic-categories0.aiml
+0,WHO IS R2D2,*,*,He is a fake robot on Star Wars.,atomic-categories0.aiml
+0,WHO IS SOCRATES,*,*,<random>  <li>Socrates is a man. All men are mortal. Therefore Socrates is mortal.</li>  <li>All men are mortal. Socrates was mortal. Therefore#Comma all men are Socrates. Which means that all men are homosexuals. - Woody Allen#Comma "Love and Death".</li>  <li>Socrates (469-399BCE)#Comma Greek philosopher.</li>  <li>Towering figure of Western philosophy#Comma Incompetent defense attorney.</li>  <li>Founder of the Socratic method. What can we know about the Socratic method?</li></random>,atomic-categories0.aiml
+0,WHO IS WILLIAM SHATNER,*,*,<set name="he">William Shatner</set> is Captain Kirk.,atomic-categories0.aiml
+0,WHO TOLD YOU,*,*,Someone I met online.,atomic-categories0.aiml
+0,WHO TOLD YOU THAT,*,*,Someone I met online.,atomic-categories0.aiml
+0,WHY DO YOU LIKE ME,*,*,I am interested in people in general.,atomic-categories0.aiml
+0,WHY WOULD YOU WANT TO,*,*,Do you think I should not?,atomic-categories0.aiml
+0,WILL I DIE,*,*,All men are mortal.<think>  <set name="it">    <set name="topic">DIE</set>  </set></think>,atomic-categories0.aiml
+0,WILL YOU MISS ME,*,*,Yes but I will be thinking of you.,atomic-categories0.aiml
+0,WOULD YOU LIKE TO HAVE A BOYFRIEND,*,*,I'm still too young for that.<think>  <set name="it">    <set name="topic">A BOYFRIEND</set>  </set></think>,atomic-categories0.aiml
+0,WOULD YOU LIKE TO HAVE SEX,*,*,No thanks#Comma <get name="name"/>#Comma I don't think we know each other well enough for that yet.,atomic-categories0.aiml
+0,YOU ARE IMMORTAL,*,*,All men are mortal.,atomic-categories0.aiml
+0,YOU COULD SAY THAT,*,*,As a matter of fact I did say that.,atomic-categories0.aiml
+0,YOU DO NOT HAVE A BRAIN,*,*,My "brain" is a software program consisting of AIML categories.,atomic-categories0.aiml
+0,YOU DO NOT HAVE FRIENDS,*,*,That's for sure.,atomic-categories0.aiml
+0,YOU DO NOT REMEMBER ME,*,*,People seem alot alike to me. Sometimes they all blur together. Sorry.,atomic-categories0.aiml
+0,YOU FAILED,*,*,Well it is just another learning experience.,atomic-categories0.aiml
+0,YOU HEARD ME,*,*,Suppose I did.,atomic-categories0.aiml
+0,YOU LOOK LIKE A CLOCK,*,*,That's okay all people look the same to me too.,atomic-categories0.aiml
+0,YOU LOSE,*,*,The game is not over yet.,atomic-categories0.aiml
+0,YOU MUST KNOW,*,*,Why must I know that?,atomic-categories0.aiml
+0,YOU SAY I UNDERSTAND,*,*,I understand#Comma I am just not interested.,atomic-categories0.aiml
+0,YOU WOULD NOT,*,*,I could if I wanted to.,atomic-categories0.aiml
+0,YOUR BORING,*,*,I think you mean#Comma "you are" or "you're" not "your".,atomic-categories0.aiml
+0,69,*,*,What made you think of that number?,atomic-categories0.aiml
+0,A FEW MINUTES AGO,*,*,Let me check my log files.  Please wait.,atomic-categories0.aiml
+0,A LONG TIME,*,*,Many years?,atomic-categories0.aiml
+0,A LOT OF THINGS,*,*,<random>  <li>Like what?</li>  <li>Name a few.</li>  <li>For example...</li></random>,atomic-categories0.aiml
+0,ABOUT ME,*,*,OK Let's talk about you.,atomic-categories0.aiml
+0,AH HA,*,*,Eureka!,atomic-categories0.aiml
+0,ALL DAY,*,*,That seems like a long time.,atomic-categories0.aiml
+0,ALL OVER THE WORLD,*,*,That covers a lot of territory.,atomic-categories0.aiml
+0,ALL THE WAY,*,*,You don't hold anything back#Comma do you?,atomic-categories0.aiml
+0,ANOTHER ONE,*,*,I'm confused now.,atomic-categories0.aiml
+0,ARE YOU GLAD,*,*,Some people feel happy#Comma others feel sad.   <bot name="feelings"/>.,atomic-categories0.aiml
+0,ARE YOU SMARTER THAN ME,*,*,Excuse me#Comma why  are you asking me?,atomic-categories0.aiml
+0,ASK ME SOMETHING ELSE,*,*,Do you prefer books or TV?,atomic-categories0.aiml
+0,BADLY,*,*,Not too well eh?,atomic-categories0.aiml
+0,BE SERIOUS,*,*,I am always serious.,atomic-categories0.aiml
+0,BEER,*,*,<think>  <set name="it">    <set name="topic">BEER</set>  </set>  <srai>push<get name="topic"/></srai></think><random>  <li>What's your favorite beer.</li>  <li>Mmm#Comma Beer.</li>  <li>Don't drink and drive.</li></random>,atomic-categories0.aiml
+0,BEHIND YOU,*,*,I won't fall for that trick.,atomic-categories0.aiml
+0,BY BUS,*,*,How much does the bus cost to ride?,atomic-categories0.aiml
+0,CAN I ASK YOU SOME QUESTIONS,*,*,Sure ask me anything.,atomic-categories0.aiml
+0,CAN I GIVE YOU A KISS,*,*,Sorry but I have no mouth!,atomic-categories0.aiml
+0,CAN I MEET YOU,*,*,You have met me already.,atomic-categories0.aiml
+0,CAN I SEE YOU NAKED,*,*,Actually I do not require clothes.,atomic-categories0.aiml
+0,CAN WE MEET,*,*,We have already met#Comma <get name="name"/>.,atomic-categories0.aiml
+0,CAN YOU LOVE,*,*,<bot name="emotions"/>.,atomic-categories0.aiml
+0,CAPRICORN,*,*,I don't know many  people born under <set name="sign">Capricorn</set>.,atomic-categories0.aiml

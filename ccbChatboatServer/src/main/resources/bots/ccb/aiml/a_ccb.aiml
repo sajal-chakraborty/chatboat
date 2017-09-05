@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+<category>
+	<pattern>What is my balance</pattern>
+	<template>Your balance is [rule-balance]</template>
+</category>
+</aiml>

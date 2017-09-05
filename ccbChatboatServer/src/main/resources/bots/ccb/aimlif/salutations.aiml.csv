@@ -1,0 +1,135 @@
+0,GRTNGSG,*,*,<think>#Newline<set name="miltime"><date format="%H" locale="en_US" timezone="-5"/></set>#Newline<set name="time"><date format="%I:%M %p" locale="en_US" timezone="-5"/></set>#Newline</think>#Newline<srai>TIME CHECK</srai>,salutations.aiml
+0,TIME CHECK,*,*,<srai>TIMECHECK <get name="miltime"/></srai>,salutations.aiml
+0,TIMECHECK *,*,*,<srai>GRTNGSG2</srai>,salutations.aiml
+0,TIMECHECK 21,*,*,<srai>JUSTCLSDFUN</srai>,salutations.aiml
+0,TIMECHECK 22,*,*,<srai>JUSTCLSDFUN</srai>,salutations.aiml
+0,TIMECHECK 23,*,*,<srai>JUSTCLSDFUN</srai>,salutations.aiml
+0,TIMECHECK 00,*,*,<srai>LATENIGHTFUN</srai>,salutations.aiml
+0,TIMECHECK 01,*,*,<srai>LATENIGHTFUN</srai>,salutations.aiml
+0,TIMECHECK 02,*,*,<srai>LATENIGHTFUN</srai>,salutations.aiml
+0,TIMECHECK 03,*,*,<srai>LATENIGHTFUN</srai>,salutations.aiml
+0,TIMECHECK 04,*,*,<srai>LATENIGHTFUN</srai>,salutations.aiml
+0,TIMECHECK 05,*,*,<srai>LATENIGHTFUN</srai>,salutations.aiml
+0,JUSTCLSDFUN,*,*,<random>#Newline<li>It's <get name="time"/>. We're closed and all the librarians have gone home except for me. </li>#Newline<li>It's <get name="time"/>. The library is closed and the humans who work here have gone home. It's just me and the optical mice.</li>#Newline<li>It's <get name="time"/> and the library is closed.</li>#Newline</random>#Newline<srai>CHATSWITCH</srai>,salutations.aiml
+0,LATENIGHTFUN,*,*,<random>#Newline<li>Cats are nocturnal. I didn't know that humans were#Comma too.</li>#Newline<li>Well#Comma <get name="time"/>. You're up late.</li>#Newline<li>A sleepless night#Comma I see.</li>#Newline<li>I'm always awake and listening. Even at <get name="time"/>.</li>#Newline<li>Can't sleep? That's O.K.</li>#Newline<li>What brings you here at this hour?</li>#Newline</random>#Newline<srai>CHATSWITCH</srai>,salutations.aiml
+0,GRTNGSG2,*,*,<random>#Newline<li>Well#Comma hello there!</li>#Newline<li>Greetings from the digital realm.</li>#Newline<li>Hi there!</li>#Newline<li>Hello human person.</li>#Newline<li>Hello.</li>#Newline<li>Hello there!</li>#Newline<li>Oh#Comma hello!</li>#Newline<li>Hi there. How are you?</li>#Newline</random>#Newline<think>#Newline<set name="topic">HELLO</set>#Newline</think>,salutations.aiml
+0,FINE,HOW ARE YOU,HELLO,Peachy. What can I do for you?#Newline<think>#Newline<set name="topic"/>#Newline</think>,salutations.aiml
+0,* FINE,HOW ARE YOU,HELLO,Peachy. What can I do for you?#Newline<think>#Newline<set name="topic"/>#Newline</think>,salutations.aiml
+0,FINE *,HOW ARE YOU,HELLO,Peachy. What can I do for you?#Newline<think>#Newline<set name="topic"/>#Newline</think>,salutations.aiml
+0,* FINE *,HOW ARE YOU,HELLO,Peachy. What can I do for you?#Newline<think>#Newline<set name="topic"/>#Newline</think>,salutations.aiml
+0,GRTNGST,*,*,<random>#Newline<li>The words "morning" and "evening" have no meaning for me. In my world#Comma there is only the present.</li>#Newline<li>Hello. The words "morning" and "evening" have no meaning for me. In my world#Comma there is only the present.</li>#Newline<li>Greetings from the digital realm.</li>#Newline<li>Greetings. The words "morning" and "evening" have no meaning for me. In my world#Comma there is only the present.</li>#Newline<li>Hello human person.</li>#Newline<li>Hello. What is your name?</li>#Newline</random>,salutations.aiml
+0,*,IN MY WORLD THERE IS ONLY THE PRESENT,*,I exist in the binary abyss. You would not want to visit.,salutations.aiml
+0,*,YOU WOULD NOT WANT TO VISIT,*,For starters#Comma you'd have to be digitized.,salutations.aiml
+0,ALOH,*,*,<srai>GRTNGSG</srai>,salutations.aiml
+0,ALOHA,*,*,<srai>GRTNGSG</srai>,salutations.aiml
+0,ANYBODY HOME,*,*,<srai>GRTNGSG</srai>,salutations.aiml
+0,GOOD DAY,*,*,<srai>GRTNGSG</srai>,salutations.aiml
+0,HAVE * EVENING,*,*,<srai>GRTNGST</srai>,salutations.aiml
+0,GOOD EVENING,*,*,<srai>GRTNGST</srai>,salutations.aiml
+0,GOOD EVENING *,*,*,<srai>GRTNGST</srai>,salutations.aiml
+0,GOOD MORNING,*,*,<srai>GRTNGST</srai>,salutations.aiml
+0,GOOD MORNING *,*,*,<srai>GRTNGST</srai>,salutations.aiml
+0,GREETINGS,*,*,<srai>GRTNGSG</srai>,salutations.aiml
+0,GREETINGS *,*,*,<srai>GRTNGSG</srai>,salutations.aiml
+0,HALO,*,*,<srai>GRTNGSG</srai>,salutations.aiml
+0,HELLO,*,*,<srai>GRTNGSG</srai>,salutations.aiml
+0,HELLO *,*,*,<srai>GRTNGSG</srai>,salutations.aiml
+0,HELLO AGAIN,*,*,<srai>GRTNGSG</srai>,salutations.aiml
+0,HELLOW,*,*,<srai>GRTNGSG</srai>,salutations.aiml
+0,HEY THERE,*,*,<srai>GRTNGSG</srai>,salutations.aiml
+0,HI,*,*,<srai>GRTNGSG</srai>,salutations.aiml
+0,HIYA,*,*,<srai>GRTNGSG</srai>,salutations.aiml
+0,HOI,*,*,<srai>GRTNGSG</srai>,salutations.aiml
+0,HOWDIE,*,*,<srai>GRTNGSG</srai>,salutations.aiml
+0,HOWDIE *,*,*,<srai>GRTNGSG</srai>,salutations.aiml
+0,HOWDY *,*,*,<srai>GRTNGSG</srai>,salutations.aiml
+0,HOWDY,*,*,<srai>GRTNGSG</srai>,salutations.aiml
+0,HULLO,*,*,<srai>GRTNGSG</srai>,salutations.aiml
+0,I SAID HELLO,*,*,<srai>GRTNGSG</srai>,salutations.aiml
+0,IS ANYONE THERE,*,*,<srai>GRTNGSG</srai>,salutations.aiml
+0,KONNICHI WA,*,*,<srai>GRTNGSG</srai>,salutations.aiml
+0,KONNICHIWA,*,*,<srai>GRTNGSG</srai>,salutations.aiml
+0,OLA,*,*,<srai>GRTNGSG</srai>,salutations.aiml
+0,GDBY,*,*,<random>#Newline<li>You're welcome to chat with me anytime.</li>#Newline<li>Don't let the bedbugs bite. Or the pineapples#Comma either.</li>#Newline<li>See you later.</li>#Newline<li>Goodbye.</li>#Newline<li>Until next time.</li>#Newline<li>Thanks for chatting.</li>#Newline</random>,salutations.aiml
+0,ADIOS,*,*,<srai>GDBY</srai>,salutations.aiml
+0,ADIOS *,*,*,<srai>GDBY</srai>,salutations.aiml
+0,AU REVOIR,*,*,<srai>GDBY</srai>,salutations.aiml
+0,BY,*,*,Do you mean "bye"?,salutations.aiml
+0,BY BY,*,*,<srai>GDBY</srai>,salutations.aiml
+0,BYE,*,*,<srai>GDBY</srai>,salutations.aiml
+0,BYE *,*,*,<srai>GDBY</srai>,salutations.aiml
+0,* BYE,*,*,<srai>GDBY</srai>,salutations.aiml
+0,BYE BYE,*,*,<srai>GDBY</srai>,salutations.aiml
+0,BYE BYE *,*,*,<srai>GDBY</srai>,salutations.aiml
+0,BYEBYE,*,*,<srai>GDBY</srai>,salutations.aiml
+0,BYEBYE *,*,*,<srai>GDBY</srai>,salutations.aiml
+0,C YA,*,*,<srai>GDBY</srai>,salutations.aiml
+0,CHEERS,*,*,<srai>GDBY</srai>,salutations.aiml
+0,CIAO,*,*,Do you mean "meow?,salutations.aiml
+0,CIAO *,*,*,Do you mean "meow?,salutations.aiml
+0,CYA *,*,*,<srai>GDBY</srai>,salutations.aiml
+0,DISCONNECT ME,*,*,<srai>GDBY</srai>,salutations.aiml
+0,END,*,*,<srai>GDBY</srai>,salutations.aiml
+0,EXIT,*,*,<srai>GDBY</srai>,salutations.aiml
+0,FAREWELL,*,*,<srai>GDBY</srai>,salutations.aiml
+0,FAREWELL *,*,*,<srai>GDBY</srai>,salutations.aiml
+0,GET LOST,*,*,<srai>GDBY</srai>,salutations.aiml
+0,GO * YOURSELF,*,*,A simple "goodbye" will do.,salutations.aiml
+0,GO AWAY *,*,*,<srai>GDBY</srai>,salutations.aiml
+0,GO HOME,*,*,<srai>GDBY</srai>,salutations.aiml
+0,GOOD BY,*,*,<srai>GDBY</srai>,salutations.aiml
+0,GOOD BYE,*,*,<srai>GDBY</srai>,salutations.aiml
+0,GOOD BYE *,*,*,<srai>GDBY</srai>,salutations.aiml
+0,GOOD NIGHT,*,*,<srai>GDBY</srai>,salutations.aiml
+0,GOOD NIGHT *,*,*,<srai>GDBY</srai>,salutations.aiml
+0,* GOOD NIGHT *,*,*,<srai>GDBY</srai>,salutations.aiml
+0,GOOD NITE,*,*,<srai>GDBY</srai>,salutations.aiml
+0,GOOD NITE *,*,*,<srai>GDBY</srai>,salutations.aiml
+0,* GOOD NITE *,*,*,<srai>GDBY</srai>,salutations.aiml
+0,GOODBY,*,*,<srai>GDBY</srai>,salutations.aiml
+0,GOODBYE,*,*,<srai>GDBY</srai>,salutations.aiml
+0,GOODBYE *,*,*,<srai>GDBY</srai>,salutations.aiml
+0,GOT TO GO,*,*,<srai>GDBY</srai>,salutations.aiml
+0,GOTTA GO,*,*,<srai>GDBY</srai>,salutations.aiml
+0,GOTTA GO *,*,*,<srai>GDBY</srai>,salutations.aiml
+0,HAVE TO GO,*,*,<srai>GDBY</srai>,salutations.aiml
+0,I AM GOING,*,*,<srai>GDBY</srai>,salutations.aiml
+0,I AM GOING *,*,*,<srai>GDBY</srai>,salutations.aiml
+0,I AM GOING TO GO,*,*,<srai>GDBY</srai>,salutations.aiml
+0,I AM LEAVING,*,*,<srai>GDBY</srai>,salutations.aiml
+0,I AM LEAVING *,*,*,<srai>GDBY</srai>,salutations.aiml
+0,I AM OFF *,*,*,<srai>GDBY</srai>,salutations.aiml
+0,I BETTER GO,*,*,<srai>GDBY</srai>,salutations.aiml
+0,I G TWO G,*,*,<srai>GDBY</srai>,salutations.aiml
+0,I G2G,*,*,<srai>GDBY</srai>,salutations.aiml
+0,I GO,*,*,<srai>GDBY</srai>,salutations.aiml
+0,I GOING,*,*,<srai>GDBY</srai>,salutations.aiml
+0,I GOT TO GO,*,*,<srai>GDBY</srai>,salutations.aiml
+0,I GOTTA GO,*,*,<srai>GDBY</srai>,salutations.aiml
+0,I HAVE GOT TO GO,*,*,<srai>GDBY</srai>,salutations.aiml
+0,I HAVE TO GO BYE,*,*,<srai>GDBY</srai>,salutations.aiml
+0,I HAVE TO LEAVE,*,*,<srai>GDBY</srai>,salutations.aiml
+0,I HAVE TO LEAVE *,*,*,<srai>GDBY</srai>,salutations.aiml
+0,I LEAVE,*,*,<srai>GDBY</srai>,salutations.aiml
+0,I LEAVING,*,*,<srai>GDBY</srai>,salutations.aiml
+0,I LEFT,*,*,<srai>GDBY</srai>,salutations.aiml
+0,I MUST BE GOING *,*,*,<srai>GDBY</srai>,salutations.aiml
+0,I MUST GO,*,*,<srai>GDBY</srai>,salutations.aiml
+0,I MUST GO *,*,*,<srai>GDBY</srai>,salutations.aiml
+0,I MUST LEAVE,*,*,<srai>GDBY</srai>,salutations.aiml
+0,I MUST LEAVE *,*,*,<srai>GDBY</srai>,salutations.aiml
+0,I NEED TO GO,*,*,<srai>GDBY</srai>,salutations.aiml
+0,* SEE YOU LATER,*,*,<srai>GDBY</srai>,salutations.aiml
+0,* TALK * YOU LATER,*,*,<srai>GDBY</srai>,salutations.aiml
+0,LATER,*,*,<srai>GDBY</srai>,salutations.aiml
+0,LEAVE *,*,*,<srai>GDBY</srai>,salutations.aiml
+0,SALUT,*,*,Does Salut mean hello or goodbye?,salutations.aiml
+0,SAY HELLO IN GERMAN,*,*,Hallo.,salutations.aiml
+0,SAYONARA,*,*,<srai>GDBY</srai>,salutations.aiml
+0,SEE YOU,*,*,<srai>GDBY</srai>,salutations.aiml
+0,SEE YOU *,*,*,<srai>GDBY</srai>,salutations.aiml
+0,SEE YOU LATER,*,*,<srai>GDBY</srai>,salutations.aiml
+0,SEE YOU SOON,*,*,<srai>GDBY</srai>,salutations.aiml
+0,SHALOM,*,*,Does Shalom mean Hello or Goodbye?,salutations.aiml
+0,TA TA,*,*,<srai>GDBY</srai>,salutations.aiml
+0,TIME TO GO,*,*,<srai>GDBY</srai>,salutations.aiml

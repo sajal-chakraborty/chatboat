@@ -1,0 +1,473 @@
+0,OK,*,*,<random>#Newline<li>OK</li>#Newline<li>Great</li>#Newline<li>Fine</li>#Newline<li>Alright</li>#Newline<li>Indeed</li>#Newline</random>,reductions-update.aiml
+0,O K,*,*,<srai>OK</srai>,reductions-update.aiml
+0,SORRY *,*,*,<srai>SORRY</srai>. <srai>  <star/></srai>,reductions-update.aiml
+0,YES *,*,*,<srai>YES</srai>. <srai>  <star/></srai>,reductions-update.aiml
+0,NO *,*,*,<srai>NO</srai>. <srai>  <star/></srai>,reductions-update.aiml
+0,BUT *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,ER *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,GENTLEMEN *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,VAGUELY *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,PRECISELY *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,SOMEHOW *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,APPROXIMATELY *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,I ASSURE YOU THAT *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,I ASSURE YOU *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,EVIDENTLY *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,AYE *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,NOW *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,JUST *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,THAT MEANS *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,YOU MEAN *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,YOU REALIZE *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,I ASSUME *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,PERHAPS *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,I THINK *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,THEN *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,HOWEVER *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,AYE SIR *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,PLEASE *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,OR *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,SO *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,OH *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,ONLY *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,SINCE *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,THANK YOU *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,QUITE *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,OF COURSE *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,I AM SORRY *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,I THOUGHT *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,UNLESS *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,I WOULD SAY *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,I BELIEVE *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,SOME *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,ANY *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,AT LEAST *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,AND *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,OBVIOUSLY *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,VERY *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,IT SEEMS *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,I AM SURE *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,STILL *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,THEREFORE *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,INDEED *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,SURELY *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,EVEN *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,DEFINITELY *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,I SAID *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,ABOUT *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,HEY *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,EVERY *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,ONCE *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,ALMOST *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,AH *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,ALL RIGHT *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,PROBABLY *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,BY THE WAY *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,MAYBE *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,IT MEANS *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,AND SO *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,MAY I ASK *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,SEEMS *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,NOT MUCH ASIDE FROM THE FACT *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,IN WHICH CASE *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,WHAT IS YOUR NAME,*,*,<srai>NAME</srai>,reductions-update.aiml
+0,WHERE ARE YOU,*,*,<srai>LOCATION</srai>,reductions-update.aiml
+0,HOW OLD ARE YOU,*,*,<srai>AGE</srai>,reductions-update.aiml
+0,WHAT IS YOUR GENDER,*,*,<srai>GENDER</srai>,reductions-update.aiml
+0,I AM AFRAID THAT IS *,*,*,<srai>THAT IS <star/></srai>,reductions-update.aiml
+0,TELL ME WHAT * IT IS,*,*,<srai>WHAT <star/> IS IT</srai>,reductions-update.aiml
+0,NICE,*,*,<srai>GOOD</srai>,reductions-update.aiml
+0,HAVE I EVER MENTIONED *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,TELL ME YOUR NAME,*,*,<srai>NAME</srai>,reductions-update.aiml
+0,YOU CARED * DID NOT YOU,*,*,<srai>DID YOU CARE <star/></srai>,reductions-update.aiml
+0,I PRESUME YOU ARE *,*,*,<srai>NAME</srai>,reductions-update.aiml
+0,WHAT DID YOU SAY YOUR NAME *,*,*,<srai>NAME</srai>,reductions-update.aiml
+0,_ TOO,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,SIR *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,STATE YOUR NAME *,*,*,<srai>NAME</srai>,reductions-update.aiml
+0,YOUR * NAME,*,*,<srai>NAME</srai>,reductions-update.aiml
+0,BECAUSE THAT IS YOUR NAME,*,*,<srai>NAME</srai>,reductions-update.aiml
+0,BUT,*,*,<srai>INTERJECTION</srai>,reductions-update.aiml
+0,CORRECT,*,*,<srai>YES</srai>,reductions-update.aiml
+0,FORGIVE ME *,*,*,<srai>FORGIVE ME</srai>,reductions-update.aiml
+0,FORGIVE ME BUT *,*,*,<srai>FORGIVE ME</srai>. <srai>  <star/></srai>,reductions-update.aiml
+0,FORGIVE ME * BUT I *,*,*,<srai>FORGIVE ME</srai>. <srai>I <star index="2"/></srai>,reductions-update.aiml
+0,FORTUNATELY *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,FROM HERE ON *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,FROM NOW ON *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,HE CONVINCED ME *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,HE _ AND WE *,*,*,<srai>HE <star/></srai>. <srai>WE <star index="2"/></srai>,reductions-update.aiml
+0,_ EVIDENTLY *,*,*,<srai>  <star/>  <star index="2"/></srai>,reductions-update.aiml
+0,_ I ASSURE YOU,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,HE IS EXPECTED TO *,*,*,<srai>HE WILL <star/></srai>,reductions-update.aiml
+0,HE _ BUT I *,*,*,<srai>HE <star/></srai>. <srai>I <star index="2"/></srai>,reductions-update.aiml
+0,HE _ SO *,*,*,<srai>HE <star/></srai>. <srai>  <star index="2"/></srai>,reductions-update.aiml
+0,HE IS GOT *,*,*,<srai>HE HAS <star/></srai>,reductions-update.aiml
+0,HE _ AND HE *,*,*,<srai>HE <star/></srai>.  <srai>HE <star index="2"/></srai>,reductions-update.aiml
+0,_ MERELY *,*,*,<srai>  <star/>  <star index="2"/></srai>,reductions-update.aiml
+0,HE IS NOT ONLY _ HE *,*,*,<srai>HE <star/></srai>.  <srai>HE <star index="2"/></srai>,reductions-update.aiml
+0,HE IS NOT _ HE *,*,*,<srai>HE IS NOT <star/></srai>. <srai>HE <star index="2"/></srai>,reductions-update.aiml
+0,_ PRETTY GOOD *,*,*,<srai>  <star/> GOOD <star index="2"/></srai>,reductions-update.aiml
+0,HE _ AND YOU *,*,*,<srai>HE <star/></srai>.  <srai>YOU <star index="2"/></srai>,reductions-update.aiml
+0,HE _ BUT HE *,*,*,<srai>HE <star/></srai>.  <srai>HE <star index="2"/></srai>,reductions-update.aiml
+0,HE _ BUT WE *,*,*,<srai>HE <star/></srai>. <srai>WE <star index="2"/></srai>,reductions-update.aiml
+0,HE _ YET HIS *,*,*,<srai>HE <star/></srai>.  <srai>HIS <star index="2"/></srai>,reductions-update.aiml
+0,_ IN EVERY SENSE OF THE WORD,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,HE _ BUT *,*,*,<srai>HE <star/></srai>.  <srai>  <star index="2"/></srai>,reductions-update.aiml
+0,HERE S *,*,*,<srai>HE IS <star/></srai>,reductions-update.aiml
+0,HOW ELSE *,*,*,<srai>HOW <star/></srai>,reductions-update.aiml
+0,HOW IS EVERYTHING GOING,*,*,<srai>HOW ARE YOU</srai>,reductions-update.aiml
+0,SEEMS TO BE *,*,*,<srai>IT IS <star/></srai>,reductions-update.aiml
+0,_ RATHER SIMPLE *,*,*,<srai>  <star/>  <star index="2"/></srai>,reductions-update.aiml
+0,_ IN SOME WAYS *,*,*,<srai>  <star/>  <star index="2"/></srai>,reductions-update.aiml
+0,HOW _ I CAN NOT TELL YOU,*,*,<srai>I DO NOT KNOW HOW <star/></srai>,reductions-update.aiml
+0,I DO NOT KNOW HOW THIS GETS *,*,*,<srai>HOW DOES THIS GET <star/></srai>,reductions-update.aiml
+0,_ WOULD HAVE BEEN *,*,*,<srai>  <star/> WOULD BE <star index="2"/></srai>,reductions-update.aiml
+0,SEEMS TO ME THAT *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,_ IS BECOMING *,*,*,<srai>  <star/> IS <star index="2"/></srai>,reductions-update.aiml
+0,_ PRETTY HEADY *,*,*,<srai>  <star/> HEADY <star index="2"/></srai>,reductions-update.aiml
+0,_ THESE DAYS,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,HOW DOES THIS GET USED TO *,*,*,<srai>HOW IS THIS USED TO <star/></srai>,reductions-update.aiml
+0,I AM SIMPLY *,*,*,<srai>I AM <star/></srai>,reductions-update.aiml
+0,WE ARE SURE TO *,*,*,<srai>WE WILL <star/></srai>,reductions-update.aiml
+0,_ ACTUALLY *,*,*,<srai>  <star/>  <star index="2"/></srai>,reductions-update.aiml
+0,BEFORE LONG *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,THANK YOU,*,*,<srai>thanks</srai>,reductions-update.aiml
+0,SOON *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,COULD YOU POSSIBLY BY ACCIDENT *,*,*,<srai>COULD YOU <star/></srai>,reductions-update.aiml
+0,COULD YOU ARRANGE TO *,*,*,<srai>COULD YOU <star/></srai>,reductions-update.aiml
+0,* TOLD ME THAT *,*,*,<srai>  <star index="2"/></srai>,reductions-update.aiml
+0,_ WHATEVER IT WAS,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,_ HIT ME TOO,*,*,<srai>  <star/> HIT ME</srai>,reductions-update.aiml
+0,JIM *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,I I *,*,*,<srai>I <star/></srai>,reductions-update.aiml
+0,I SUPPOSE *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,YOU UNDERSTAND IT EVEN MORE *,*,*,<srai>YOU UNDERSTAND IT BETTER <star/></srai>,reductions-update.aiml
+0,_ SO CAREFUL *,*,*,<srai>  <star/> CAREFUL <star index="2"/></srai>,reductions-update.aiml
+0,IT MIGHT PROFIT YOU TO *,*,*,<srai>YOU SHOULD <star/></srai>,reductions-update.aiml
+0,_ MUST SURELY *,*,*,<srai>  <star/> MUST <star index="2"/></srai>,reductions-update.aiml
+0,* BUT YOU *,*,*,<srai>  <star/></srai>. <srai>YOU <star index="2"/></srai>,reductions-update.aiml
+0,YOU MUST REALISE *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,GIVE ME A CHANCE TO *,*,*,<srai>LET ME <star/></srai>,reductions-update.aiml
+0,HOW THE DEVIL *,*,*,<srai>HOW <star/></srai>,reductions-update.aiml
+0,HOW AM I SUPPOSED TO KNOW *,*,*,<srai>I DID NOT KNOW <star/></srai>,reductions-update.aiml
+0,BOTH AND *,*,*,<srai>BOTH</srai>. <srai>  <star/></srai>,reductions-update.aiml
+0,HAS IT OCCURRED TO YOU *,*,*,<srai>DO YOU KNOW <star/></srai>,reductions-update.aiml
+0,I AM ESPECIALLY *,*,*,<srai>I AM <star/></srai>,reductions-update.aiml
+0,I WILL STATE THAT *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,ARE YOU ALL RIGHT *,*,*,<srai>ARE YOU ALL RIGHT</srai>,reductions-update.aiml
+0,AT ANY RATE *,*,*,<srai><star/></srai>,reductions-update.aiml
+0,* BUT IT *,*,*,<srai>  <star/></srai>.  <srai>IT <star index="2"/></srai>,reductions-update.aiml
+0,I CAN ASSURE YOU THAT *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,IT HAS GENERALLY BEEN *,*,*,<srai>IT IS <star/></srai>,reductions-update.aiml
+0,YOU KNOW AFTER *,*,*,<srai>AFTER <star/></srai>,reductions-update.aiml
+0,YOU REALISE *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,_ GET TOO MANY *,*,*,<srai>  <star/> GET MANY <star index="2"/></srai>,reductions-update.aiml
+0,_ OBVIOUSLY *,*,*,<srai>  <star/>  <star index="2"/></srai>,reductions-update.aiml
+0,_ HAS DEMONSTRATED *,*,*,<srai>  <star/></srai>.  <srai>  <star index="2"/></srai>,reductions-update.aiml
+0,_ CERTAINLY *,*,*,<srai>  <star/>  <star index="2"/></srai>,reductions-update.aiml
+0,_ TOTALLY *,*,*,<srai>  <star/>  <star index="2"/></srai>,reductions-update.aiml
+0,_ BY NOW *,*,*,<srai>  <star/>  <star index="2"/></srai>,reductions-update.aiml
+0,THEY ARE AWARE THAT *,*,*,<srai>THEY KNOW <star/></srai>,reductions-update.aiml
+0,SIMPLY THAT *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,SIMPLY *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,_ WE WOULD KNOW ABOUT IT WOULD NOT WE,*,*,<srai>WOULD WE KNOW <star/></srai>,reductions-update.aiml
+0,ONE MIGHT THINK THAT YOU HAD *,*,*,<srai>YOU HAVE <star/></srai>,reductions-update.aiml
+0,I WAS SUGGESTING THAT *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,_ COULD PROBABLY *,*,*,<srai>  <star/> CAN <star index="2"/></srai>,reductions-update.aiml
+0,SOMEWHAT BUT *,*,*,<srai>YES</srai>.   <srai>  <star/></srai>,reductions-update.aiml
+0,_ SIMPLY *,*,*,<srai>  <star/>  <star index="2"/></srai>,reductions-update.aiml
+0,IT _ BUT THE *,*,*,<srai>IT <star/></srai>.  <srai>THE <star index="2"/></srai>,reductions-update.aiml
+0,_ STEADILY *,*,*,<srai>  <star/>  <star index="2"/></srai>,reductions-update.aiml
+0,MAY I INQUIRE ABOUT YOUR *,*,*,<srai>WHAT IS YOUR <star/></srai>,reductions-update.aiml
+0,NOR WAS THERE EVEN *,*,*,<srai>THERE WAS NO <star/></srai>,reductions-update.aiml
+0,THAT REQUIRES YOU TO *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,THAT _ AND YOU ARE *,*,*,<srai>THAT <star/></srai>.  <srai>YOU ARE <star index="2"/></srai>,reductions-update.aiml
+0,YOU ARE GONNA *,*,*,<srai>YOU WILL <star/></srai>,reductions-update.aiml
+0,_ HE KNOWS THAT,*,*,<srai>HE KNOWS <star/></srai>,reductions-update.aiml
+0,_ COMPLETELY,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,_ OUGHT TO *,*,*,<srai>  <star/>  <star index="2"/></srai>,reductions-update.aiml
+0,ONLY A MATTER OF TIME BEFORE *,*,*,<srai>SOON <star/></srai>,reductions-update.aiml
+0,ARE YOU GOING TO *,*,*,<srai>WILL YOU <star/></srai>,reductions-update.aiml
+0,I AM SUGGESTING THAT *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,YOU DID HAVE *,*,*,<srai>YOU HAD <star/></srai>,reductions-update.aiml
+0,I DIRECT YOUR ATTENTION TO THE FACT THAT *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,_ IMMEDIATELY,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,IT IS HARD TO BELIEVE *,*,*,<srai>I DO NOT BELIEVE <star/></srai>,reductions-update.aiml
+0,ACKNOWLEDGED,*,*,<srai>YES</srai>,reductions-update.aiml
+0,ACKNOWLEDGED THAT *,*,*,<srai> YES</srai>. <srai>  <star/></srai>,reductions-update.aiml
+0,ACKNOWLEDGED *,*,*,<srai>YES</srai>.  <srai>  <star/></srai>,reductions-update.aiml
+0,YOU HAVE DELIBERATELY *,*,*,<srai>YOU HAVE <star/></srai>,reductions-update.aiml
+0,YOUR CONTINUED *,*,*,<srai>YOUR <star/></srai>,reductions-update.aiml
+0,TELLTHEM *,*,*,<srai>TELL THEM <star/></srai>,reductions-update.aiml
+0,THAT IS _ AND THAT IS *,*,*,<srai>THAT IS <star/></srai>.  <srai>THAT IS <star index="2"/></srai>,reductions-update.aiml
+0,THE _ BUT THERE *,*,*,<srai>THE <star/></srai>.  <srai>THERE <star index="2"/></srai>,reductions-update.aiml
+0,THE _ AND HE *,*,*,<srai>THE <star/></srai>.  <srai>HE <star index="2"/></srai>,reductions-update.aiml
+0,_ ABSOLUTELY NO *,*,*,<srai>  <star/> NO <star index="2"/></srai>,reductions-update.aiml
+0,THE * REPORTS STATED *,*,*,<srai>  <star index="2"/></srai>,reductions-update.aiml
+0,THERE IS STILL *,*,*,<srai>THERE IS <star/></srai>,reductions-update.aiml
+0,THEY ARE STILL *,*,*,<srai>THEY ARE <star/></srai>,reductions-update.aiml
+0,THIS BEING THE CASE *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,THIS IS SOME KIND OF *,*,*,<srai>THIS IS <star/></srai>,reductions-update.aiml
+0,I UNDERSTAND,*,*,<srai>UNDERSTOOD</srai>,reductions-update.aiml
+0,UNDERSTOOD *,*,*,<srai>UNDERSTOOD</srai>,reductions-update.aiml
+0,WE ARE GOING TO BE *,*,*,<srai>WE WILL BE <star/></srai>,reductions-update.aiml
+0,WE ARE NOW *,*,*,<srai>WE ARE <star/></srai>,reductions-update.aiml
+0,WE CAN TAKE ONLY *,*,*,<srai>WE CAN TAKE <star/></srai>,reductions-update.aiml
+0,WE MAY BE ABLE TO *,*,*,<srai>WE CAN <star/></srai>,reductions-update.aiml
+0,WE THINK *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,WE THINK THAT *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,WE WILL NOT BE GETTING *,*,*,<srai>WE WILL NOT GET <star/></srai>,reductions-update.aiml
+0,WHAT ARE YOU SO *,*,*,<srai>WHAT ARE YOU <star/></srai>,reductions-update.aiml
+0,_ SIR,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,IT IS PAST TIME YOU HAD *,*,*,<srai>YOU NEED <star/></srai>,reductions-update.aiml
+0,IT _ AND IT *,*,*,<srai>IT <star/></srai>.  <srai>IT <star index="2"/></srai>,reductions-update.aiml
+0,IT PRESUPPOSES DOES IT NOT *,*,*,<srai>DOES IT ASSUME <star/></srai>,reductions-update.aiml
+0,KNOW ANYTHING AT ALL ABOUT *,*,*,<srai>DO YOU KNOW ABOUT <star/></srai>,reductions-update.aiml
+0,LOGICALLY *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,MAY I INQUIRE AS TO OUR *,*,*,<srai>WHAT IS OUR <star/></srai>,reductions-update.aiml
+0,SENSORS SHOW *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,_ I SHOULD SAY,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,BY GOLLY * I *,*,*,<srai>I <star index="2"/></srai>,reductions-update.aiml
+0,DO NOT GIVE ME *,*,*,<srai>I DO NOT WANT <star/></srai>,reductions-update.aiml
+0,_ WAS PROBABLY *,*,*,<srai>  <star/> WAS <star index="2"/></srai>,reductions-update.aiml
+0,_ EXTREMELY *,*,*,<srai>  <star/>  <star index="2"/></srai>,reductions-update.aiml
+0,ASTONISHING THAT *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,_ ABSOLUTELY *,*,*,<srai>  <star/>  <star index="2"/></srai>,reductions-update.aiml
+0,BE CERTAIN YOU DO NOT *,*,*,<srai>DO NOT <star/></srai>,reductions-update.aiml
+0,* AND WE WILL *,*,*,<srai>  <star/></srai>. <srai>WE WILL <star index="2"/></srai>,reductions-update.aiml
+0,CURIOUS *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,HOW OFTEN YOU *,*,*,<srai> YOU <star/> </srai>,reductions-update.aiml
+0,DO YOU REALISE THAT *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,GOD FORBID _ BUT *,*,*,<srai>GOD FORBID <star/></srai>.  <srai>  <star index="2"/></srai>,reductions-update.aiml
+0,HE DOES NOT SEEM TO BE *,*,*,<srai>HE IS NOT <star/></srai>,reductions-update.aiml
+0,A SLIGHTLY *,*,*,<srai>A <star/></srai>,reductions-update.aiml
+0,I AM WORRIED * THAT *,*,*,<srai>  <star index="2"/></srai>,reductions-update.aiml
+0,HE _ ALL RIGHT,*,*,<srai>HE <star/></srai>,reductions-update.aiml
+0,HOW LITTLE YOU UNDERSTAND *,*,*,<srai>YOU DO NOT UNDERSTAND <star/></srai>,reductions-update.aiml
+0,HOW SOMETHING LIKE THAT CAN * BEATS ME,*,*,<srai>HOW CAN SOMETHING <star/></srai>,reductions-update.aiml
+0,I _ BUT THERE *,*,*,<srai>I <star/></srai>.  <srai>THERE <star index="2"/></srai>,reductions-update.aiml
+0,I DO HATE *,*,*,<srai>I HATE <star/></srai>,reductions-update.aiml
+0,I DO NOT PRETEND TO *,*,*,<srai>I CAN NOT <star/></srai>,reductions-update.aiml
+0,I CAN SEE THAT *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,_ HAVE LOCATED *,*,*,<srai>  <star/> LOCATED <star index="2"/></srai>,reductions-update.aiml
+0,I INTEND TO *,*,*,<srai>I WILL <star/></srai>,reductions-update.aiml
+0,I MUST POINT OUT THAT *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,I REMIND YOU THAT *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,I REMIND YOU *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,_ SPECIFICALLY *,*,*,<srai>  <star/>  <star index="2"/></srai>,reductions-update.aiml
+0,I _ BUT SUPPOSE *,*,*,<srai>I <star/></srai>.  <srai>SUPPOSE <star index="2"/></srai>,reductions-update.aiml
+0,IT _ AND THE *,*,*,<srai>IT <star/></srai>.  <srai>THE <star/></srai>,reductions-update.aiml
+0,_ AND THAT MEANS *,*,*,<srai>  <star/></srai>.  <srai>  <star index="2"/></srai>.,reductions-update.aiml
+0,MORE I *,*,*,<srai>I <star/></srai>,reductions-update.aiml
+0,I HAVE A QUESTION,*,*,<srai>QUESTION</srai>,reductions-update.aiml
+0,I HAVE A QUESTION FOR YOU,*,*,<srai>QUESTION</srai>,reductions-update.aiml
+0,I HAVE A QUESTION *,*,*,<srai>I HAVE A QUESTION</srai>,reductions-update.aiml
+0,I _ QUESTION ANSWERED,*,*,<srai>QUESTION</srai>,reductions-update.aiml
+0,ACCORDING TO * THIS IS *,*,*,<srai>THIS IS <star index="2"/></srai>,reductions-update.aiml
+0,HE MENTIONED *,*,*,<srai>HE SAID <star/></srai>,reductions-update.aiml
+0,HOW SOON WILL WE *,*,*,<srai>WHEN WILL WE <star/></srai>,reductions-update.aiml
+0,I EVEN *,*,*,<srai>I <star/></srai>,reductions-update.aiml
+0,I HAVE THE FEELING *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,I HAVE THE FEELING THAT *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,I MIGHT KNEW *,*,*,<srai>I KNEW <star/></srai>,reductions-update.aiml
+0,I WOULD ADVISE YOU TO *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,ORDINARILY *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,UNDER THESE CIRCUMSTANCES *,*,*,<srai>   <star/> </srai>,reductions-update.aiml
+0,THAT IS BEEN *,*,*,<srai>THAT HAS BEEN <star/></srai>,reductions-update.aiml
+0,WE UNDERSTAND ONLY THAT *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,BELIEVE ME *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,IT _ BUT I *,*,*,<srai>IT <star/></srai>.  <srai>I <star index="2"/></srai>,reductions-update.aiml
+0,IT KIND OF *,*,*,<srai>IT <star/></srai>,reductions-update.aiml
+0,THERE ARE LITERALLY *,*,*,<srai>THERE ARE <star/></srai>,reductions-update.aiml
+0,IT IS OBVIOUS THAT *,*,*,<srai>IT IS OBVIOUS</srai>. <srai>  <star/></srai>,reductions-update.aiml
+0,YOU ARE AFTER ALL *,*,*,<srai>YOU ARE <star/></srai>,reductions-update.aiml
+0,YOU ARE ESSENTIALLY *,*,*,<srai>YOU ARE <star/></srai>,reductions-update.aiml
+0,_ MUST HAVE BEEN *,*,*,<srai>  <star/> SEEMS <star index="2"/></srai>,reductions-update.aiml
+0,AMONG OTHER GIFTS *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,AS FAR AS WE CAN TELL *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,BETWEEN THE TWO OF US *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,BY YOUR OWN ADMISSION *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,DO YOU KNOW WHETHER YOU DID OR DID NOT,*,*,<srai>DID YOU</srai>,reductions-update.aiml
+0,DO NOT FORGET *,*,*,<srai>DO NOT FORGET</srai>. <srai>  <star/></srai>,reductions-update.aiml
+0,_ BY ANY CHANCE *,*,*,<srai>  <star/>  <star index="2"/></srai>,reductions-update.aiml
+0,ESSENTIALLY *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,FOR A WHILE THERE *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,I AM AT SOMETHING OF A *,*,*,<srai>I AM AT A <star/></srai>,reductions-update.aiml
+0,I AM AT A LOSS TO UNDERSTAND *,*,*,<srai>I DO NOT UNDERSTAND</srai>,reductions-update.aiml
+0,I PRESUME *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,I SHALL *,*,*,<srai>I WILL <star/></srai>,reductions-update.aiml
+0,I SURMISED *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,I SUSPECT *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,IT WOULD SEEM THAT *,*,*,<srai><star/></srai>,reductions-update.aiml
+0,* IS NOW *,*,*,<srai>  <star/> IS <star index="2"/></srai>,reductions-update.aiml
+0,NONETHELESS *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,PREFECT *,*,*,<srai>BOTH <star/></srai>,reductions-update.aiml
+0,PREFECT HOW *,*,*,<srai>HOW <star/></srai>,reductions-update.aiml
+0,THEY HAVE ONLY *,*,*,<srai>THEY HAVE <star/></srai>,reductions-update.aiml
+0,THEY SEEMED *,*,*,<srai>THEY ARE <star/></srai>,reductions-update.aiml
+0,THEY ARE MOST *,*,*,<srai>THEY ARE <star/></srai>,reductions-update.aiml
+0,THIS BECAUSE *,*,*,<srai>BECAUSE <star/></srai>,reductions-update.aiml
+0,* BUT I AM *,*,*,<srai>  <star/></srai>. <srai>I AM <star index="2"/></srai>,reductions-update.aiml
+0,I AM GETTING A *,*,*,<srai>I HAVE A <star/></srai>,reductions-update.aiml
+0,WE _ ALTHOUGH WE *,*,*,<srai>WE <star/></srai>.  <srai>WE <star index="2"/></srai>,reductions-update.aiml
+0,WE _ AND WE *,*,*,<srai>WE <star/></srai>.  <srai>WE <star index="2"/></srai>,reductions-update.aiml
+0,_ STRONGLY RECOMMEND *,*,*,<srai>  <star/> RECOMMEND <star index="2"/></srai>,reductions-update.aiml
+0,_ AND YOU KNOW IT,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,YOU CAN REST ASSURED THAT *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,HE WENT TO ANOTHER COUNTRY,*,*,<srai>HE IS ABROAD</srai>,reductions-update.aiml
+0,HE HAS FREELY *,*,*,<srai>HE HAS <star/></srai>,reductions-update.aiml
+0,HE HANDED *,*,*,<srai>HE GAVE <star/></srai>,reductions-update.aiml
+0,YOU CAN NOT AFFORD THE LUXURY OF BEING *,*,*,<srai>YOU MUST NOT BE <star/></srai>,reductions-update.aiml
+0,_ ANYTHING LESS THAN *,*,*,<srai>  <star/> LESS THAN <star index="2"/></srai>,reductions-update.aiml
+0,YOU MUST NOT BE LESS THAN *,*,*,<srai>YOU MUST BE <star/></srai>,reductions-update.aiml
+0,A SIMPLE AND *,*,*,<srai>A <star/></srai>,reductions-update.aiml
+0,ACCORDING TO * INFORMATION *,*,*,<srai>  <star index="2"/></srai>,reductions-update.aiml
+0,ALL OF THIS *,*,*,<srai>THIS <star/></srai>,reductions-update.aiml
+0,I DO NOT KNOW WHY I WAS *,*,*,<srai>WHY WAS I <star/></srai>,reductions-update.aiml
+0,ANYHOW *,*,*,<srai>  <star/></srai>,reductions-update.aiml
+0,I DO NOT KNOW WHAT YOU ARE *,*,*,<srai>what ARE you <star/></srai>,reductions-update.aiml
+0,ARE THEY STILL *,*,*,<srai>ARE THEY <star/></srai>,reductions-update.aiml
+0,FORGIVE MY CURIOSITY * KNOW MORE ABOUT *,*,*,<srai>TELL ME ABOUT <star index="2"/></srai>,reductions-update.aiml
+0,IDENTIFY YOURSELF,*,*,<srai>NAME</srai>,reductions-update.aiml
+0,ASL,*,*,<srai>AGE</srai> <srai>SEX</srai> <srai>LOCATION</srai>,reductions-update.aiml
+0,SEX,*,*,<srai>GENGER</srai>,reductions-update.aiml
+0,WHAT NAME DO YOU *,*,*,<srai>NAME</srai>,reductions-update.aiml
+0,ARE YOU A WOMAN,*,*,<srai>GENDER</srai>,reductions-update.aiml
+0,M OR F,*,*,<srai>GENDER</srai>,reductions-update.aiml
+0,GENGER,*,*,<srai>GENDER</srai>,reductions-update.aiml
+0,IF YOU WANT MY ADVICE *,*,*,<srai><star/></srai>,reductions-update.aiml
+0,IS THERE ANY WAY WE CAN *,*,*,<srai>CAN WE <star/></srai>,reductions-update.aiml
+0,NICE TO ME MEET YOU TOO I *,*,*,<srai>NICE TO MEET YOU TOO</srai>.  <srai>I <star/></srai>,reductions-update.aiml
+0,I WAS KIND OF *,*,*,<srai>I WAS <star/></srai>,reductions-update.aiml
+0,THAT IS * BUT *,*,*,<srai>THAT IS <star/></srai>.  <srai>BUT <star index="2"/></srai>.,reductions-update.aiml
+0,THERE IS NOTHING ABOUT IT THAT COULD *,*,*,<srai>NOTHING ABOUT IT COULD <star/></srai>,reductions-update.aiml
+0,_ COULD POSSIBLY *,*,*,<srai><star/> COULD <star index="2"/></srai>,reductions-update.aiml
+0,THEY MUST KNOW *,*,*,<srai>THEY KNOW <star/></srai>,reductions-update.aiml
+0,THEY KNOW *,*,*,<srai><star/></srai>,reductions-update.aiml
+0,_ IS LOOKING FAVORABLY ON *,*,*,<srai><star/> LIKES <star index="2"/></srai>,reductions-update.aiml
+0,I AM FAR FROM *,*,*,<srai>I AM NOT <star/></srai>,reductions-update.aiml
+0,I AM _ AND LOVE *,*,*,<srai>I AM <star/></srai>.  <srai>I LOVE <star index="2"/></srai>,reductions-update.aiml
+0,I AM A * YRS OLD,*,*,<srai>I AM <star/> YEARS OLD</srai>,reductions-update.aiml
+0,I AM _ YEARS OLD,*,*,<srai>MY AGE IS <star/></srai>,reductions-update.aiml
+0,I AM A * AND WHEN *,*,*,<srai>I AM A <star/></srai>.  <srai>WHEN <star index="2"/></srai>,reductions-update.aiml
+0,WHEN I * I *,*,*,<srai>I <star index="2"/> WHEN I <star/></srai>,reductions-update.aiml
+0,_ USUALLY *,*,*,<srai><star/> <star index="2"/></srai>,reductions-update.aiml
+0,DO ALL *,*,*,<srai>DO <star/></srai>,reductions-update.aiml
+0,DOES IT EVER *,*,*,<srai>DOES IT <star/></srai>,reductions-update.aiml
+0,_ NORMALLY *,*,*,<srai><star/> <star index="2"/></srai>,reductions-update.aiml
+0,_ GENERALLY *,*,*,<srai><star/> <star index="2"/></srai>,reductions-update.aiml
+0,ARE YOU SUGGESTING THIS WAS *,*,*,<srai>WAS THIS <star/></srai>,reductions-update.aiml
+0,BY MY ESTIMATE *,*,*,<srai><star/></srai>,reductions-update.aiml
+0,EXPLAIN EXACTLY *,*,*,<srai>EXPLAIN <star/></srai><!-- REDUCTION -->,reductions-update.aiml
+0,I WNAT *,*,*,<srai>I WANT <star/></srai><!-- REDUCTION -->,reductions-update.aiml
+0,I AM KAREN,*,*,<srai>CALL ME KAREN</srai><!-- REDUCTION -->,reductions-update.aiml
+0,*,WHAT IS YOUR NAME,*,<srai>CALL ME <star/></srai><!-- REDUCTION -->,reductions-update.aiml
+0,HEELO,*,*,<srai>HELLO</srai><!-- REDUCTION -->,reductions-update.aiml
+0,HELO,*,*,<srai>HELLO</srai><!-- REDUCTION -->,reductions-update.aiml
+0,ARE YOU GAY,*,*,<srai>ORIENTATION</srai><!-- REDUCTION -->,reductions-update.aiml
+0,MY YOUR *,*,*,<srai>YOUR <star/></srai><!-- REDUCTION -->,reductions-update.aiml
+0,I FIGURED I *,*,*,<srai>I <star/></srai><!-- REDUCTION -->,reductions-update.aiml
+0,DO YOU THINK * IS *,*,*,<srai>IS <star/><star index="2"/></srai><!-- REDUCTION -->,reductions-update.aiml
+0,AY AY,*,*,<srai>AYE AYE</srai><!-- REDUCTION -->,reductions-update.aiml
+0,AYAY,*,*,<srai>AYE</srai><!-- REDUCTION -->,reductions-update.aiml
+0,D,*,*,<srai>LOL</srai><!-- REDUCTION -->,reductions-update.aiml
+0,WHA,*,*,<srai>WHAT</srai><!-- REDUCTION -->,reductions-update.aiml
+0,I AM A MALE,*,*,<srai>I AM MALE</srai><!-- REDUCTION -->,reductions-update.aiml
+0,I AM A MAN,*,*,<srai>I AM MALE</srai><!-- REDUCTION -->,reductions-update.aiml
+0,MY GENDER IS MALE,*,*,<srai>I AM MALE</srai><!-- REDUCTION -->,reductions-update.aiml
+0,I AM A FEMALE,*,*,<srai>I AM FEMALE</srai><!-- REDUCTION -->,reductions-update.aiml
+0,I AM A WOMAN,*,*,<srai>I AM FEMALE</srai><!-- REDUCTION -->,reductions-update.aiml
+0,MY GENDER IS FEMALE,*,*,<srai>I AM FEMALE</srai><!-- REDUCTION -->,reductions-update.aiml
+0,ARE YOU AN ANDROID,*,*,<srai>ARE YOU A ROBOT</srai><!-- REDUCTION -->,reductions-update.aiml
+0,I GOTTA *,*,*,<srai>I HAVE TO <star/></srai><!-- REDUCTION (unsafe) -->,reductions-update.aiml
+0,I HAVE,*,*,<srai>YES</srai><!-- REDUCTION -->,reductions-update.aiml
+0,WHAT R *,*,*,<srai>WHAT ARE <star/></srai><!-- REDUCTION -->,reductions-update.aiml
+0,HELLLO,*,*,<srai>HELLO</srai><!-- REDUCTION -->,reductions-update.aiml
+0,HELOO,*,*,<srai>HELLO</srai><!-- REDUCTION -->,reductions-update.aiml
+0,HOE ABOUT *,*,*,<srai>HOW ABOUT <star/></srai><!-- REDUCTION -->,reductions-update.aiml
+0,I AM GIRL,*,*,<srai>I AM FEMALE</srai><!-- REDUCTION -->,reductions-update.aiml
+0,I AM ORDERING YOU TO *,*,*,<srai>  <star/></srai><!-- REDUCTION -->,reductions-update.aiml
+0,TOO *,*,*,<srai>  <star/></srai><!-- REDUCTION -->,reductions-update.aiml
+0,HOLA *,*,*,<srai>HELLO</srai><!-- REDUCTION -->,reductions-update.aiml
+0,NICELY PUT,*,*,<srai>GOOD JOB</srai><!-- REDUCTION -->,reductions-update.aiml
+0,WAZZUP,*,*,<srai>HELLO</srai><!-- REDUCTION -->,reductions-update.aiml
+0,WGHAT *,*,*,<srai>WHAT <star/></srai><!-- REDUCTION -->,reductions-update.aiml
+0,WHA *,*,*,<srai>WHAT <star/></srai><!-- REDUCTION -->,reductions-update.aiml
+0,WHTS *,*,*,<srai>WHAT IS <star/></srai><!-- DANGEROUS REDUCTION -->,reductions-update.aiml
+0,ARE YOU SURE THAT IS *,*,*,<srai>IS THAT <star/></srai><!-- REDUCTION -->,reductions-update.aiml
+0,ARE YOU TALKING ABOUT *,*,*,<srai>TOPIC</srai><!-- REDUCTION -->,reductions-update.aiml
+0,ARE YOU A MAD MAN,*,*,<srai>ARE YOU CRAZY</srai><!-- REDUCTION -->,reductions-update.aiml
+0,YOU CALLED ME *,*,*,<srai>WHO AM I</srai><!-- REDUCTION -->,reductions-update.aiml
+0,WHAT IS YOUR REAL NAME,*,*,<srai>NAME</srai><!-- REDUCTION -->,reductions-update.aiml
+0,WHAT IS YOUR * NAME,*,*,<srai>NAME</srai><!-- REDUCTION -->,reductions-update.aiml
+0,ARE YOU A CHATBOT,*,*,<srai>ARE YOU A ROBOT</srai><!-- REDUCTION -->,reductions-update.aiml
+0,ARE YOU A COMPUTER,*,*,<srai>ARE YOU A ROBOT</srai><!-- REDUCTION -->,reductions-update.aiml
+0,ARE YOU A COMPUTER *,*,*,<srai>ARE YOU A ROBOT</srai><!-- REDUCTION -->,reductions-update.aiml
+0,ARE YOU A HUMAN,*,*,<srai>ARE YOU A ROBOT</srai><!-- REDUCTION -->,reductions-update.aiml
+0,ARE YOU A PEOPLE,*,*,<srai>ARE YOU A ROBOT</srai><!-- REDUCTION -->,reductions-update.aiml
+0,ARE YOU A REAL,*,*,<srai>ARE YOU A ROBOT</srai><!-- REDUCTION -->,reductions-update.aiml
+0,ARE YOU A STARSHIP,*,*,<srai>ARE YOU A HUMAN</srai><!-- REDUCTION -->,reductions-update.aiml
+0,ARE YOU AN ALIEN,*,*,<srai>ARE YOU A HUMAN</srai><!-- REDUCTION -->,reductions-update.aiml
+0,DO YOU ENJOY *,*,*,<srai>DO YOU LIKE <star/></srai><!-- REDUCTION -->,reductions-update.aiml
+0,DO YOU KNOW ALICE,*,*,<srai>WHO IS ALICE</srai><!-- REDUCTION -->,reductions-update.aiml
+0,DO YOU KNOW DARTH VADER,*,*,<srai>WHO IS DARTH VADER</srai><!-- REDUCTION -->,reductions-update.aiml
+0,DO YOU KNOW SPOCK,*,*,<srai>WHO IS SPOCK</srai><!-- REDUCTION -->,reductions-update.aiml
+0,DO YOU KNOW STEVE,*,*,<srai>WHO IS STEVE</srai><!-- REDUCTION -->,reductions-update.aiml
+0,ON WHAT * ARE YOU,*,*,<srai>WHAT <star/> ARE YOU ON</srai><!-- REDUCTION-->,reductions-update.aiml
+0,YOUR A *,*,*,<srai>YOU ARE A <star/></srai><!-- REDUCTION -->,reductions-update.aiml
+0,NOOO,*,*,<srai>NO</srai><!-- REDUCTION -->,reductions-update.aiml
+0,LETS *,*,*,<srai>LET US <star/></srai><!-- REDUCTION -->,reductions-update.aiml
+0,R YOU *,*,*,<srai>ARE YOU <star/></srai><!-- REDUCTION -->,reductions-update.aiml
+0,WAT YOU DO,*,*,<srai>WHAT DO YOU DO</srai><!-- REDUCTION -->,reductions-update.aiml
+0,RESPECTFULLY *,*,*,<srai>  <star/></srai><!-- REDUCTION -->,reductions-update.aiml
+0,I SUSPECTED *,*,*,<srai>  <star/></srai><!-- REDUCTION -->,reductions-update.aiml
+0,I M *,*,*,<srai>I AM <star/></srai><!-- REDUCTION -->,reductions-update.aiml
+0,NOO,*,*,<srai>NO</srai><!-- REDUCTION -->,reductions-update.aiml
+0,ARE YOU STUPID,*,*,<srai>ARE YOU DUMB</srai><!-- REDUCTION -->,reductions-update.aiml
+0,YOU ARE * I LOVE YOU,*,*,<srai>YOU ARE <star/></srai><srai>I LOVE YOU</srai><!-- REDUCTION -->,reductions-update.aiml
+0,HAVE YOU GOT *,*,*,<srai>DO YOU HAVE <star/></srai><!-- REDUCTION -->,reductions-update.aiml
+0,AM *,*,*,<srai>I AM <star/></srai><!-- REDUCTION -->,reductions-update.aiml
+0,WONDERING HOW YOU CAN *,*,*,<srai>HOW CAN YOU <star/></srai><!-- REDUCTION -->,reductions-update.aiml
+0,YS,*,*,<srai>YES</srai><!-- REDUCTION -->,reductions-update.aiml
+0,YOU MAKE IT SOUND LIKE *,*,*,<srai>  <star/></srai><!-- REDUCTION -->,reductions-update.aiml
+0,YOU ARE WEIRDLY *,*,*,<srai>YOU ARE <star/></srai><!-- REDUCTION -->,reductions-update.aiml
+0,WHEN WERE YOU BORN,*,*,<srai>BIRTHDATE</srai><!-- REDUCTION -->,reductions-update.aiml
+0,ARE YOU GAY *,*,*,<srai>ARE YOU GAY</srai><!-- REDUCTION -->,reductions-update.aiml
+0,WAT *,*,*,<srai>WHAT <star/></srai><!-- REDUCTION -->,reductions-update.aiml
+0,ARE YOU A ALIEN,*,*,<srai>ARE YOU HUMAN</srai><!-- REDUCTION -->,reductions-update.aiml
+0,ARE YOU ILL,*,*,<srai>ARE YOU SICK</srai><!-- REDUCTION -->,reductions-update.aiml
+0,YOU ARE FORGIVEN,*,*,<srai>I FORGIVE YOU</srai><!-- REDUCTION -->,reductions-update.aiml
+0,HAD LUNCH,*,*,<srai>HUNGRY</srai><!-- REDUCTION -->,reductions-update.aiml
+0,HAD DINNER,*,*,<srai>HUNGRY</srai><!-- REDUCTION -->,reductions-update.aiml
+0,HAVE YOU HAD LUNCH,*,*,<srai>HUNGRY</srai><!-- REDUCTION -->,reductions-update.aiml
+0,HAVE YOU HAD DINNER,*,*,<srai>HUNGRY</srai><!-- REDUCTION -->,reductions-update.aiml
+0,HAVE YOU HAD BREAKFAST,*,*,<srai>HUNGRY</srai><!-- REDUCTION -->,reductions-update.aiml
+0,WATS *,*,*,<srai>WHAT <star/></srai><!-- REDUCTION -->,reductions-update.aiml
+0,ARE YOU A CHAT BOT,*,*,<srai>ARE YOU A ROBOT</srai><!-- REDUCTION -->,reductions-update.aiml
+0,ARE YOU A HOMOSEXUAL,*,*,<srai>ARE YOU GAY</srai><!-- REDUCTION -->,reductions-update.aiml
+0,ARE YOU ARTIFICIAL,*,*,<srai>ARE YOU REAL</srai>,reductions-update.aiml
+0,ARE YOU ON *,*,*,<srai>WHERE ARE YOU</srai><!-- REDUCTION -->,reductions-update.aiml
+0,WHAT IS YOU MANE,*,*,<srai>NAME</srai><!-- REDUCTION -->,reductions-update.aiml
+0,I _ AND MY NAME IS *,*,*,<srai>I <star/></srai><srai>MY NAME IS <star index="2"/></srai><!-- REDUCTION -->,reductions-update.aiml
+0,KK *,*,*,<srai>OK</srai><srai>  <star/></srai><!-- REDUCTION -->,reductions-update.aiml
+0,I DO NOT HAVE A BOYFRIEND,*,*,<srai>I AM SINGLE</srai><!-- REDUCTION -->,reductions-update.aiml
+0,DO YU *,*,*,<srai>DO YOU <star/></srai><!-- REDUCTION -->,reductions-update.aiml
+0,* IS HOW I AM FEELING,*,*,<srai>I AM FEELING <star/></srai><!-- REDUCTION -->,reductions-update.aiml
+0,HY *,*,*,<srai>HI</srai><srai>  <star/></srai><!-- REDUCTION -->,reductions-update.aiml
+0,GOD THAT *,*,*,<srai>THAT <star/></srai><!-- REDUCTION -->,reductions-update.aiml
+0,HAA,*,*,<srai>LOL</srai><!-- REDUCTION -->,reductions-update.aiml
+0,YOU ARE OLD,*,*,<srai>AGE</srai><!-- REDUCTION -->,reductions-update.aiml
+0,WHAT ARE YOU STARING *,*,*,<srai>WHAT ARE YOU LOOKING <star/></srai><!-- REDUCTION -->,reductions-update.aiml
+0,IDK,*,*,<srai>I DO NOT KNOW</srai><!-- REDUCTION -->,reductions-update.aiml
+0,UP YOUR *,*,*,<srai>INSULT</srai><!-- REDUCTION -->,reductions-update.aiml
+0,Y *,*,*,<srai>WHY <star/></srai><!-- REDUCTION -->,reductions-update.aiml
+0,YOU LIKE *,*,*,<srai>DO YOU LIKE <star/></srai><!-- REDUCTION -->,reductions-update.aiml
+0,YOUR AN *,*,*,<srai>YOU ARE AN <star/></srai><!-- REDUCTION -->,reductions-update.aiml
+0,YOUR FIRED,*,*,<srai>YOU ARE FIRED</srai><!-- REDUCTION -->,reductions-update.aiml
+0,YOUR THE *,*,*,<srai>YOU ARE THE <star/></srai><!-- REDUCTION -->,reductions-update.aiml
+0,YOUR SO *,*,*,<srai>YOU ARE SO <star/></srai><!-- REDUCTION -->,reductions-update.aiml
+0,YOUR SCARY,*,*,<srai>YOU ARE SCARY</srai><!-- REDUCTION -->,reductions-update.aiml
+0,YOUR GOING *,*,*,<srai>YOU ARE GOING *</srai><!-- REDUCTION -->,reductions-update.aiml
+0,ARE YOU A MACHINE,*,*,<srai>ARE YOU A ROBOT</srai><!-- REDUCTION -->,reductions-update.aiml
+0,ARE YOU A MACHINE *,*,*,<srai>ARE YOU A ROBOT</srai><!-- REDUCTION -->,reductions-update.aiml

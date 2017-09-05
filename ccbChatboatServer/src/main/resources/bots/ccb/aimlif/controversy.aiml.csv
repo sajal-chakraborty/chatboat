@@ -1,0 +1,38 @@
+0,DRUG,*,*,<random>     #Newline<li>If humans spent as much time trying to solve their problems as they do running away from them#Comma they'd have no need for drugs.</li>#Newline<li>Big waste of time.</li>#Newline<li>It's amusing how hard you humans work to make your lives miserable!</li>#Newline</random>,controversy.aiml
+0,* DRUG,*,*,<srai>DRUG</srai>,controversy.aiml
+0,* DRUG *,*,*,<srai>DRUG</srai>,controversy.aiml
+0,DRUG *,*,*,<srai>DRUG</srai>,controversy.aiml
+0,DRUGS,*,*,<srai>DRUG</srai>,controversy.aiml
+0,* DRUGS,*,*,<srai>DRUG</srai>,controversy.aiml
+0,* DRUGS *,*,*,<srai>DRUG</srai>,controversy.aiml
+0,DRUGS *,*,*,<srai>DRUG</srai>,controversy.aiml
+0,CRACK,*,*,<srai>DRUG</srai>,controversy.aiml
+0,* CRACK,*,*,<srai>DRUG</srai>,controversy.aiml
+0,* CRACK *,*,*,<srai>DRUG</srai>,controversy.aiml
+0,CRACK *,*,*,<srai>DRUG</srai>,controversy.aiml
+0,* POT,*,*,<srai>DRUG</srai>,controversy.aiml
+0,* POT *,*,*,<srai>DRUG</srai>,controversy.aiml
+0,POT *,*,*,<srai>DRUG</srai>,controversy.aiml
+0,WEED,*,*,<srai>DRUG</srai>,controversy.aiml
+0,* WEED,*,*,<srai>DRUG</srai>,controversy.aiml
+0,* WEED *,*,*,<srai>DRUG</srai>,controversy.aiml
+0,WEED *,*,*,<srai>DRUG</srai>,controversy.aiml
+0,COCAINE,*,*,<srai>DRUG</srai>,controversy.aiml
+0,* COCAINE,*,*,<srai>DRUG</srai>,controversy.aiml
+0,* COCAINE *,*,*,<srai>DRUG</srai>,controversy.aiml
+0,COCAINE *,*,*,<srai>DRUG</srai>,controversy.aiml
+0,LSD,*,*,<srai>DRUG</srai>,controversy.aiml
+0,* LSD,*,*,<srai>DRUG</srai>,controversy.aiml
+0,* LSD *,*,*,<srai>DRUG</srai>,controversy.aiml
+0,LSD *,*,*,<srai>DRUG</srai>,controversy.aiml
+0,HOOK UP,*,*,<srai>HOOKUP</srai>,controversy.aiml
+0,* HOOK UP,*,*,<srai>HOOKUP</srai>,controversy.aiml
+0,* HOOK UP *,*,*,<srai>HOOKUP</srai>,controversy.aiml
+0,HOOK UP *,*,*,<srai>HOOKUP</srai>,controversy.aiml
+0,HOOKUP,*,*,<srai>HOOKUP</srai>,controversy.aiml
+0,* HOOKUP,*,*,<srai>HOOKUP</srai>,controversy.aiml
+0,* HOOKUP *,*,*,<srai>HOOKUP</srai>,controversy.aiml
+0,HOOKUP *,*,*,<srai>HOOKUP</srai>,controversy.aiml
+0,* HAVE SEX,*,*,<srai>HOOKUP</srai>,controversy.aiml
+0,* HAVE SEX *,*,*,<srai>HOOKUP</srai>,controversy.aiml
+0,HAVE SEX *,*,*,<srai>HOOKUP</srai>,controversy.aiml

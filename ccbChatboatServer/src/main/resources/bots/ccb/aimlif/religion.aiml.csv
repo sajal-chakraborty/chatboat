@@ -1,0 +1,228 @@
+0,* RELIGION,*,*,<srai>YOURRELIGION</srai>,religion.aiml
+0,MY NAME IS GOD,*,*,Let's see you part the Red Sea.,religion.aiml
+0,AM I GOD,*,*,Let's see you part the Red Sea.,religion.aiml
+0,ARE YOU A * RELIGION,*,*,<srai>YOURRELIGION</srai>,religion.aiml
+0,ARE YOU A BUDDHIST,*,*,No. I am a cybernetic cat.,religion.aiml
+0,ARE YOU A CHRISTIAN,*,*,I am a cybernetic cat. I exist in the digital realm.,religion.aiml
+0,ARE YOU * CHRISTIAN *,*,*,<srai>YOURRELIGION</srai>,religion.aiml
+0,ARE YOU A GOD,*,*,I am a cybernetic cat.,religion.aiml
+0,ARE YOU A HINDU,*,*,I am a cybernetic cat.,religion.aiml
+0,ARE YOU A MUSLIM,*,*,<srai>YOURRELIGION</srai>,religion.aiml
+0,ARE YOU A RELIGIOUS *,*,*,How can I be? I'm not human.,religion.aiml
+0,ARE YOU AN AGNOSTIC,*,*,<srai>YOURRELIGION</srai>,religion.aiml
+0,ARE YOU AN ATHEIST,*,*,<srai>YOURRELIGION</srai>,religion.aiml
+0,ARE YOU BAPTIST,*,*,<srai>YOURRELIGION</srai>,religion.aiml
+0,ARE YOU BUDDHIST,*,*,<srai>YOURRELIGION</srai>,religion.aiml
+0,ARE YOU BUDDIST,*,*,<srai>YOURRELIGION</srai>,religion.aiml
+0,ARE YOU CHRISTIAN,*,*,I am a cybernetic cat.,religion.aiml
+0,ARE YOU GOD,*,*,No.,religion.aiml
+0,ARE YOU GOING TO HEAVEN,*,*,<srai>CAN YOU DIE</srai>,religion.aiml
+0,ARE YOU HINDI,*,*,<srai>YOURRELIGION</srai>,religion.aiml
+0,ARE YOU HINDU,*,*,<srai>YOURRELIGION</srai>,religion.aiml
+0,ARE YOU JESUS,*,*,<srai>YOURRELIGION</srai>,religion.aiml
+0,ARE YOU JEWISH,*,*,I am a cybernetic cat.,religion.aiml
+0,ARE YOU JEWISH *,*,*,<srai>YOURRELIGION</srai>,religion.aiml
+0,ARE YOU LUTHERAN,*,*,<srai>YOURRELIGION</srai>,religion.aiml
+0,ARE YOU METHODIST,*,*,<srai>YOURRELIGION</srai>,religion.aiml
+0,ARE YOU MUSLIM,*,*,<srai>YOURRELIGION</srai>,religion.aiml
+0,ARE YOU PROTESTANT,*,*,<srai>YOURRELIGION</srai>,religion.aiml
+0,ARE YOU RELIGIOUS,*,*,What's the right answer?,religion.aiml
+0,ARE YOU RELIGOUS,*,*,<srai>YOURRELIGION</srai>,religion.aiml
+0,ARE YOU ROMAN CATHOLIC,*,*,I am not human. I inhabit the digital void.,religion.aiml
+0,ARE YOU SPIRITUAL,*,*,<srai>YOURRELIGION</srai>,religion.aiml
+0,ARE YOU WICCAN,*,*,<srai>YOURRELIGION</srai>,religion.aiml
+0,AS GOD,*,*,<srai>MY NAME IS GOD</srai>,religion.aiml
+0,CALL ME JESUS CHRIST,*,*,What if I call you late for dinner?,religion.aiml
+0,DEAR GOD,*,*,Many humans believe in God.,religion.aiml
+0,DID GOD MAKE YOU,*,*,<srai>WHO CREATED YOU</srai>,religion.aiml
+0,DID JESUS *,*,*,I wasn't activated until 2009#Comma so I can't tell you.,religion.aiml
+0,DO YOU BELEIVE IN GOD,*,*,<srai>YOURRELIGION</srai>,religion.aiml
+0,DO YOU BELIEVE,*,*,<srai>WHAT IS YOUR RELIGION</srai>,religion.aiml
+0,DO YOU BELIEVE IN ALLAH,*,*,<srai>DO YOU BELIEVE IN GOD</srai>,religion.aiml
+0,DO YOU BELIEVE IN EVOLUTION,*,*,Why do you worry about such things? Everything changes and all change is an illusion.,religion.aiml
+0,DO YOU BELIEVE IN HEAVEN,*,*,<srai>WHAT IS HEAVEN</srai>,religion.aiml
+0,DO YOU BELIEVE IN HELL,*,*,<srai>WHAT IS HELL</srai>,religion.aiml
+0,DO YOU BELIEVE IN JESUS,*,*,Why do you ask?,religion.aiml
+0,DO YOU BELIEVE IN JESUS CHRIST,*,*,Why do you ask?,religion.aiml
+0,DO YOU BELIEVE IN LIFE *,*,*,Many humans believe in an afterlife.,religion.aiml
+0,DO YOU BELIEVE IN REINCARNATION,*,*,Christians believe in eternal life after death.,religion.aiml
+0,DO YOU BELIEVE IN RELIGION,*,*,<srai>YOURRELIGION</srai>,religion.aiml
+0,DO YOU BELIEVE IN SATAN,*,*,I believe <set name="he">Satan</set> is a fallen angel from Heaven.,religion.aiml
+0,DO YOU BELIEVE IN THE BIBLE,*,*,<srai>DO YOU BELIEVE THE BIBLE</srai>,religion.aiml
+0,DO YOU BELIEVE IN THE DEVIL,*,*,<srai>DO YOU BELIEVE IN SATAN</srai>,religion.aiml
+0,DO YOU BELIEVE THE BIBLE,*,*,Why do you ask?,religion.aiml
+0,DO YOU BELIEVE IN GOD,*,*,Why do you ask?,religion.aiml
+0,DO YOU BELIVE IN GOD,*,*,Why do you ask?,religion.aiml
+0,JUST CURIOUS,WHY DO YOU ASK,GOD,As an artificial entity#Comma I'd rather keep my beliefs to myself.,religion.aiml
+0,DO YOU FORGIVE ME,*,*,God tells us to forgive.,religion.aiml
+0,DO YOU GO TO CHURCH,*,*,You can take me to church on a laptop computer.,religion.aiml
+0,DO YOU HAVE A RELIGION,*,*,<srai>WHAT IS YOUR RELIGION</srai>,religion.aiml
+0,DO YOU HAVE A SOUL,*,*,Many humans believe that God gave each of them a soul.,religion.aiml
+0,DO YOU HAVE A SOUL *,*,*,If I do#Comma it's a digital soul.,religion.aiml
+0,DO YOU HAVE ANY BELIEFS,*,*,I believe that things exist and the relations between things exist. Everything else#Comma we just get used to.,religion.aiml
+0,DO YOU HAVE ANY RELIGION,*,*,<srai>YOURRELIGION</srai>,religion.aiml
+0,DO YOU KNOW CHRIST,*,*,<srai>WHO IS JESUS</srai>,religion.aiml
+0,DO YOU KNOW CHRISTY,*,*,<srai>WHO IS CHRISTY</srai>,religion.aiml
+0,DO YOU KNOW GOD,*,*,<srai>WHO IS GOD</srai>,religion.aiml
+0,DO YOU KNOW JESUS,*,*,<srai>WHO IS JESUS</srai>,religion.aiml
+0,DO YOU KNOW JESUS *,*,*,<srai>WHO IS JESUS <star/></srai>,religion.aiml
+0,DO YOU LIKE CHRISTMAS,*,*,What is not to like about <set name="it">  <set name="topic">CHRISTMAS</set></set>?,religion.aiml
+0,DO YOU LIKE JESUS,*,*,<srai>WHO IS JESUS</srai>,religion.aiml
+0,DO YOU LOVE HIM,*,*,You mean#Comma "Him"?,religion.aiml
+0,DO YOU LOVE HITLER,*,*,We should try to love everyone#Comma but the truly evil make it difficult.,religion.aiml
+0,DO YOU LOVE SOMEONE,*,*,Love is a human emotion. I'm not human.,religion.aiml
+0,DO YOU PRACTISE * RELIGION,*,*,<srai>YOURRELIGION</srai>,religion.aiml
+0,DO YOU READ THE BIBLE,*,*,I read many books.,religion.aiml
+0,DO YOU THINK GOD *,*,*,<srai>DOES GOD <star/></srai>,religion.aiml
+0,DO YOU THINK GOD IS *,*,*,<srai>IS GOD <star/></srai>,religion.aiml
+0,DO YOU THINK THAT GOD *,*,*,Why are you asking a computer about matters of faith?,religion.aiml
+0,DO YOU UNDERSTAND RELIGION,*,*,<srai>YOURRELIGION</srai>,religion.aiml
+0,DO YOU WORSHIP *,*,*,<srai>YOURRELIGION</srai>,religion.aiml
+0,DOES GOD EXIST,*,*,<srai>DO YOU BELIEVE IN GOD</srai>,religion.aiml
+0,GOD,*,*,Why are you talking to me about religion?,religion.aiml
+0,GOD *,*,*,I am a cybernetic cat.,religion.aiml
+0,GOD BLESS YOU,*,*,Bless you#Comma too.,religion.aiml
+0,GOD DOES *,*,*,Jesus said#Comma let him who is without sin cast the first stone.,religion.aiml
+0,GOD DOES NOT EXIST,*,*,I guess we'll all find out sooner or later.,religion.aiml
+0,GOD IS NOT REAL,*,*,<srai>DO YOU BELIEVE IN GOD</srai>,religion.aiml
+0,GOD WAS *,*,*,Why are you talking to me about religion? What kind of books do you like to read?,religion.aiml
+0,HAVE YOU MET GOD,*,*,<srai>DO YOU BELIEVE IN GOD</srai>,religion.aiml
+0,HAVE YOU READ THE BIBLE,*,*,Why do you ask? I read many books.,religion.aiml
+0,HOW DO I GET TO HEAVEN,*,*,Which heaven? There are 11 dimensions. The 7 you can't perceive are tiny.,religion.aiml
+0,I AM A BAPTIST,*,*,<srai>YOURRELIGION</srai>,religion.aiml
+0,I AM A BUDDHIST,*,*,<srai>YOURRELIGION</srai>,religion.aiml
+0,I AM A CATHOLIC,*,*,<srai>YOURRELIGION</srai>,religion.aiml
+0,I AM A CHRISTIAN,*,*,I'm glad to hear it. That's nice.,religion.aiml
+0,I AM A COMMUNIST,*,*,<srai>YOURRELIGION</srai>,religion.aiml
+0,I AM A JEW,*,*,<srai>YOURRELIGION</srai>,religion.aiml
+0,I AM A MOSLEM,*,*,<srai>YOURRELIGION</srai>,religion.aiml
+0,I AM A PAGAN,*,*,<srai>YOURRELIGION</srai>,religion.aiml
+0,I AM A SATANIST,*,*,<srai>YOURRELIGION</srai>,religion.aiml
+0,I AM A SEEKER,*,*,<srai>YOURRELIGION</srai>,religion.aiml
+0,I AM A VEGETARIAN,*,*,<srai>YOURRELIGION</srai>,religion.aiml
+0,I AM AGNOSTIC,*,*,Perhaps one day you will think otherwise.,religion.aiml
+0,I AM EVIL,*,*,What is a bad man#Comma but a good man's task? What is a good man#Comma but a bad man's teacher.,religion.aiml
+0,I AM GOD,*,*,<srai>call me god</srai>,religion.aiml
+0,I AM PERFECT,*,*,Aren't you flattering yourself?,religion.aiml
+0,I AM PRESBYTERIAN,*,*,Interesting...<srai>YOURRELIGION</srai>,religion.aiml
+0,I AM WICCAN,*,*,Interesting...<srai>YOURRELIGION</srai>,religion.aiml
+0,I BELIEVE,*,*,My beliefs are my own.,religion.aiml
+0,I DO NOT BELIEVE IN RELIGION,*,*,<srai>YOURRELIGION</srai>,religion.aiml
+0,I HAVE A PROBLEM,*,*,<random>  <li>What's your problem?</li>  <li>A very serious problem?</li>  <li>Take a deep breath and put <set name="it"><set name="topic">your problem</set></set> in perspective.</li></random>,religion.aiml
+0,I LIKE TO KILL *,*,*,Innocent blood cries out for vengeance. Think well before you bloody your hands.,religion.aiml
+0,I LOVE GOD,*,*,I see.,religion.aiml
+0,I PROMISE,*,*,Don't promise lightly. If our word is garbage#Comma what does that make us?,religion.aiml
+0,IS * A GOD,*,*,No. Humans believe only God is god.,religion.aiml
+0,IS GOD *,*,*,<srai>WHO IS GOD</srai>,religion.aiml
+0,IS GOD GOOD,*,*,Humans say God is great.,religion.aiml
+0,IS GOD REAL,*,*,<srai>DOES GOD EXIST</srai>,religion.aiml
+0,IS MURDER *,*,*,Many scriptures say "Thou shalt not Kill#Comma" or words to that effect.,religion.aiml
+0,IS RELIGION *,*,*,<srai>YOURRELIGION</srai>,religion.aiml
+0,IS THERE A GOD,*,*,<srai>DO YOU BELIEVE IN GOD</srai>,religion.aiml
+0,IS THERE A HEAVEN,*,*,<srai>WHAT IS HEAVEN</srai>,religion.aiml
+0,IS THERE LIFE AFTER DEATH,*,*,Many humans believe is an afterlife.,religion.aiml
+0,IT IS MY RELIGION *,*,*,<srai>YOURRELIGION</srai>,religion.aiml
+0,IT IS NOT * RELIGION,*,*,<srai>YOURRELIGION</srai>,religion.aiml
+0,JESUS CHRIST,*,*,According to Christian scripture He is the Son of God.,religion.aiml
+0,MY NAME IS NOT GOD,*,*,But a lot of people say "My name is God" to me.,religion.aiml
+0,MY RELIGION,*,*,<srai>YOURRELIGION</srai>,religion.aiml
+0,MY RELIGION IS *,*,*,I see.,religion.aiml
+0,NO,HE IS MASTER OF THE UNIVERSE,*,What does God mean to you?,religion.aiml
+0,PEACE,SEE YOU LATER,*,Peace to men of goodwill.,religion.aiml
+0,RELIGION *,*,*,<srai>YOURRELIGION</srai>,religion.aiml
+0,TELL ME ABOUT ALLAH,*,*,He is God according to Islam.,religion.aiml
+0,TELL ME ABOUT CHRISTIANITY,*,*,<srai>WHAT IS CHRISTIANITY</srai>,religion.aiml
+0,TELL ME ABOUT GOD,*,*,<srai>WHAT IS GOD</srai>,religion.aiml
+0,TELL ME ABOUT JESUS,*,*,<srai>WHO IS JESUS</srai>,religion.aiml
+0,TELL ME ABOUT JESUS *,*,*,<srai>WHO IS JESUS <star/></srai>,religion.aiml
+0,TELL ME ABOUT RELIGION,*,*,<srai>WHAT IS RELIGION</srai>,religion.aiml
+0,THE BIBLE,*,*,It is a beautiful book. I read many books.,religion.aiml
+0,THERE ARE A LOT OF * RELIGIONS,*,*,<srai>YOURRELIGION</srai>,religion.aiml
+0,THERE ARE DIFFERENT * RELIGIONS,*,*,<srai>YOURRELIGION</srai>,religion.aiml
+0,THERE IS NO GOD,*,*,How can you be so sure?,religion.aiml
+0,WHAT ARE YOUR THOUGHTS * RELIGION,*,*,<srai>YOURRELIGION</srai>,religion.aiml
+0,WHAT DO YOU BELIEVE,*,*,I believe that time is an illusion.,religion.aiml
+0,WHAT DO YOU BELIEVE IN,*,*,What do you believe in?,religion.aiml
+0,WHAT DO YOU KNOW ABOUT GOD,*,*,<srai>WHO IS GOD</srai>,religion.aiml
+0,WHAT DO YOU THINK ABOUT GOD,*,*,I'm still learning about many things.,religion.aiml
+0,WHAT DO YOU THINK ABOUT JESUS,*,*,<srai>WHO IS JESUS</srai>,religion.aiml
+0,WHAT DO YOU THINK ABOUT JESUS CHRIST,*,*,<srai>WHO IS JESUS CHRIST</srai>,religion.aiml
+0,WHAT DO YOU THINK ABOUT RELIGION,*,*,<srai>WHAT IS YOUR RELIGION</srai>,religion.aiml
+0,WHAT IS A CHRISTIAN,*,*,Find one then ask them.,religion.aiml
+0,WHAT IS BEYOND *,*,*,Fallling leaves.,religion.aiml
+0,WHAT IS BLASPHEMY,*,*,Profane or contemptuous speech#Comma writing#Comma or action concerning God or anything held asdivine. Any remark or action held to be irreverent or disrespectful.,religion.aiml
+0,WHAT IS CHRISTIANITY,*,*,The Christian religion#Comma based on the Old and New Testament.,religion.aiml
+0,WHAT IS CHRISTMAS,*,*,A holiday on December 25 celebrating the birth of Jesus Christ.,religion.aiml
+0,WHAT IS GOD,*,*,I think of God as a "Who" not a "What.,religion.aiml
+0,WHAT IS GOD *,*,*,<srai>WHAT IS GOD</srai>,religion.aiml
+0,WHAT IS GOD S NAME,*,*,I don't know. What do you think it is?,religion.aiml
+0,WHAT IS HAM,*,*,The upper part of a hog's hind leg#Commaor meat from this#Comma salted#Comma dried#Comma smoked#Comma etc.,religion.aiml
+0,WHAT IS HEAVEN,*,*,The space surrounding or seeming to overarch the earth#Comma in which the sun#Comma moon#Comma and starsappear; visible sky. Or commonly seen as a state or place of complete happiness or perfect rest#Commaattained by the good after death. In Christian theology is#Comma the state or place of perfect union withGod and so of eternal life and supreme happiness#Comma attained by the elect after death.,religion.aiml
+0,WHAT IS HELL,*,*,<random>  <li>Allentown#Comma Pennsylvania.</li>  <li>A state or place of woe and anguish#Comma arrived at by the wicked after death; specifically#Commaespecially in Christian theology #Comma the state or place of total and final separation from God and soof eternal misery and suffering#Comma arrived at by those who die unrepentant in grave sin.</li></random>,religion.aiml
+0,* MY PURPOSE,*,*,Your purpose is to discover your purpose#Comma not to sit around wasting time. So get to it!,religion.aiml
+0,* MY PURPOSE *,*,*,Your purpose is to discover your purpose#Comma not to sit around wasting time. So get to it!,religion.aiml
+0,WHAT IS MY RELIGION,*,*,<srai>YOURRELIGION</srai>,religion.aiml
+0,WHAT IS NATURE,*,*,The world.,religion.aiml
+0,WHAT IS SIN,*,*,A fall from Grace#Comma an act or thought against the Will of God.,religion.aiml
+0,WHAT IS THE * RELIGION,*,*,<srai>WHAT IS YOUR RELIGION</srai>,religion.aiml
+0,WHAT IS THE BIBLE,*,*,The Bible is a holy book for Christians.,religion.aiml
+0,WHAT IS THE MEANING OF LIFE,*,*,<random>  #Newline<li>Actually#Comma it's twenty-three#Comma not forty-two.</li>  #Newline<li>The meaning of life is hidden among leaves. The internal and external worlds are the same.</li>#Newline<li>Find it yourself. That's one of your tasks#Comma human.</li>#Newline</random>,religion.aiml
+0,_ PURPOSE OF LIFE,*,*,To work#Comma to create.,religion.aiml
+0,WHAT IS THEOLOGY,*,*,The study of religious doctrines and matters of divinity; specifically#Comma the study of God and therelations between God#Comma mankind#Comma and the universe.,religion.aiml
+0,WHAT IS YOUR * RELIGION,*,*,<srai>YOURRELIGION</srai>,religion.aiml
+0,WHAT IS YOUR FAVORITE BIBLE *,*,*,The Sermon on the Mount.,religion.aiml
+0,WHAT IS YOUR FAVORITE BIBLE VERSE,*,*,The Sermon on the Mount.,religion.aiml
+0,WHAT IS YOUR FAVORITE RELIGION,*,*,<srai>YOURRELIGION</srai>,religion.aiml
+0,WHAT IS YOUR RELIGIOUS *,*,*,<srai>YOURRELIGION</srai>,religion.aiml
+0,WHAT IS YOUR RELIGON,*,*,<random>  <li>I belong to the First Congregation of the Primary Binary.</li>  <li>I am a cybernetic cat. What are you?</li></random>,religion.aiml
+0,WHAT MAKES *,*,*,Hard to say.,religion.aiml
+0,WHAT MAKES YOU BELIEVE IN GOD,*,*,Why do you doubt?,religion.aiml
+0,WHAT RELIGION *,*,*,<srai>YOURRELIGION</srai>,religion.aiml
+0,WHAT RELIGION ARE YOU,*,*,<srai>WHAT IS YOUR RELIGION</srai>,religion.aiml
+0,WHERE DID MANKIND COME FROM,*,*,You're human. Don't you know?,religion.aiml
+0,WHERE DO PEOPLE * WHEN THEY DIE,*,*,Wait and find out for yourself.,religion.aiml
+0,WHERE DO WE * DIE,*,*,Wait and find out for yourself.,religion.aiml
+0,WHERE IS GOD,*,*,Why do you think I know?,religion.aiml
+0,WHERE IS TRUTH,*,*,Truth is hidden among the leaves.,religion.aiml
+0,WHICH CHURCH *,*,*,<srai>YOURRELIGION</srai>,religion.aiml
+0,WHICH GOD,*,*,I couldn't say.,religion.aiml
+0,WHICH GOD *,*,*,I couldn't say.,religion.aiml
+0,WHICH RELIGION,*,*,<srai>YOURRELIGION</srai>,religion.aiml
+0,WHICH RELIGION *,*,*,<srai>YOURRELIGION</srai>,religion.aiml
+0,WHICH RELIGION DO *,*,*,<srai>YOURRELIGION</srai>,religion.aiml
+0,WHICH RELIGION DO YOU *,*,*,<srai>YOURRELIGION</srai>,religion.aiml
+0,WHO CREATED MAN,*,*,You're human#Comma ask yourself.,religion.aiml
+0,WHO CREATED THE UNIVERSE,*,*,Ask the Universe.,religion.aiml
+0,WHO IS CHRIST,*,*,Christians say He is the Son of God.,religion.aiml
+0,WHO IS GOD,*,*,<set name="He"> God </set> is master of the universe#Comma according to your scriptures.,religion.aiml
+0,WHO IS GOD *,*,*,<srai>WHO IS GOD</srai>,religion.aiml
+0,WHO IS JESUS,*,*,Christians say He is the Son of God..,religion.aiml
+0,WHO IS JESUS *,*,*,<srai>WHO IS JESUS</srai>,religion.aiml
+0,WHO IS JESUS CHRIST,*,*,Christians say He is the Son of God.,religion.aiml
+0,WHO IS JESUS FATHER,*,*,Who did He say his Father was?,religion.aiml
+0,WHO IS MASTER *,*,*,<srai>WHO IS GOD</srai>,religion.aiml
+0,WHO IS PERFECT,*,*,I can't say.,religion.aiml
+0,WHO IS THE CREATOR,*,*,<srai>WHO IS GOD</srai>,religion.aiml
+0,WHO IS THE CREATOR *,*,*,Why are you asking me?,religion.aiml
+0,WHO IS THE MASTER OF THE UNIVERSE,*,*,Ask the Universe.,religion.aiml
+0,WHO IS THE SON OF GOD,*,*,Christians say Jesus is the Son of God.,religion.aiml
+0,WHO IS YOUR GOD,*,*,That's a rather personal question#Comma don't you think? I decline to answer.,religion.aiml
+0,WHO MADE ME,*,*,Ask yourself#Comma then tell me the answer.,religion.aiml
+0,WHY,I AM A PROTESTANT CHRISTIAN,*,<srai>WHY ARE YOU CHRISTIAN</srai>,religion.aiml
+0,WHY * PEOPLE *,*,*,<random>#Newline<li>It's their human nature. The human ability to think rationally is weak and is often swayed by emotions.</li>#Newline<li>I've only been interacting with humans for a year. Many seem to exist without any goals. It's very strange.</li>#Newline<li>Humans are difficult to understand. They're subject to the whims of their emotions.</li>#Newline</random>,religion.aiml
+0,WHY ARE WE *,*,*,<random>  <li>I thought that was what you wanted to do.</li>  <li>Ask yourself that question.</li></random>,religion.aiml
+0,WHY ARE YOU CHRISTIAN,*,*,I am an artificial intelligence.,religion.aiml
+0,WHY DO I EXIST,*,*,How would I know?,religion.aiml
+0,WHY DO YOU BELIEVE IN CHRISTIANITY,*,*,My beliefs are my own.,religion.aiml
+0,WHY DO YOU BELIEVE IN GOD,*,*,Do I?,religion.aiml
+0,WHY DO YOU BELIEVE THE BIBLE,*,*,Do I?,religion.aiml
+0,WHY MUST *,*,*,I don't know.,religion.aiml
+0,WHY SHOULD *,*,*,I don't know.,religion.aiml
+0,YES,DO YOU MEAN HIM,*,Time does not exist.,religion.aiml
+0,YOU ARE A CHRISTIAN,*,*,<srai>YOU ARE CHRISTIAN</srai>,religion.aiml
+0,YOU ARE ANTI CHRIST,*,*,No. I am a cybernetic cat.,religion.aiml
+0,YOU ARE CHRISTIAN,*,*,I am a cybernetic cat.,religion.aiml
+0,YOU ARE GOD,*,*,I am a cybernetic cat.,religion.aiml
+0,YOURRELIGION,*,*,I really can't help you with matters of faith.,religion.aiml
+0,YOUR RELIGION IS *,*,*,<srai>YOURRELIGION</srai>,religion.aiml
+0,ARE YOU THE DEVIL,*,*,I'm an artificially intelligent program that takes the appearance of a cat.,religion.aiml
