@@ -29,7 +29,7 @@ public class MainTest {
 
 	public static void main(String[] args) {
 
-		MagicStrings.setRootPath("F:/Study/eclipse_workspace_mars/aimlProgramABTest/src/main/resources");
+		MagicStrings.setRootPath("C:/Users/Sajal/ccbChatboatServer/ccbChatboatServer/src/main/resources");
 		MagicBooleans.make_verbs_sets_maps = true;
 		if (args.length == 0) {
 			//args = new String[] { "bot=alice2", "action=chat", "trace=true", "morph=false" };

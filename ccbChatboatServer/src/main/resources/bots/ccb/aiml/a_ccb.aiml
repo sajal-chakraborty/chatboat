@@ -4,4 +4,12 @@
 	<pattern>What is my balance</pattern>
 	<template>Your balance is [rule-balance]</template>
 </category>
+<category>
+	<pattern>What is my account type</pattern>
+	<template>Your balance is [rule-account-type]</template>
+</category>
+<category>
+	<pattern>How much balance I have as Fixed Deposit</pattern>
+	<template>Your balance is [rule-fixed-deposit]</template>
+</category>
 </aiml>

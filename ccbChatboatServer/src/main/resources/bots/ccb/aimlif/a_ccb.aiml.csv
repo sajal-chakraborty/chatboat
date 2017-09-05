@@ -1,1 +1,3 @@
 0,WHAT IS MY BALANCE,*,*,Your balance is [rule-balance],a_ccb.aiml
+0,WHAT IS MY ACCOUNT TYPE,*,*,Your balance is [rule-account-type],a_ccb.aiml
+0,HOW MUCH BALANCE I HAVE AS FIXED DEPOSIT,*,*,Your balance is [rule-fixed-deposit],a_ccb.aiml
