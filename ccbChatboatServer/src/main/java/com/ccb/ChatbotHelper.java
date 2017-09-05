@@ -18,14 +18,37 @@ public class ChatbotHelper {
 	static String botName = "ccb";
 	private static String action = "chat";
 	private static boolean doWrites = true;
-	
+	private static Bot bot;
+
 	static {
 		setConfigurations();
 	}
 
+	public static String getBotResponse(String request) {
+		String response = null;
+
+		try {
+			Chat chatSession = new Chat(bot, doWrites);
+			bot.brain.nodeStats();
+
+			if (MagicBooleans.trace_mode)
+				System.out.println("STATE=" + request + ":THAT=" + ((History) chatSession.thatHistory.get(0)).get(0) + ":TOPIC=" + chatSession.predicates.get("topic"));
+			response = chatSession.multisentenceRespond(request);
+			while (response.contains("&lt;"))
+				response = response.replace("&lt;", "<");
+			while (response.contains("&gt;"))
+				response = response.replace("&gt;", ">");
+
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+
+		return response;
+
+	}
+
 	public static void main(String[] args) {
 		try {
-			Bot bot = new Bot(botName, MagicStrings.root_path, action);
 			Chat chatSession = new Chat(bot, doWrites);
 			bot.brain.nodeStats();
 			String textLine = "";
@@ -58,6 +81,7 @@ public class ChatbotHelper {
 	private static void setConfigurations() {
 		MagicStrings.setRootPath(getBasePath());
 		MagicBooleans.trace_mode = TRACE_MODE;
+		bot = new Bot(botName, MagicStrings.root_path, action);
 	}
 
 	private static String getBasePath() {
