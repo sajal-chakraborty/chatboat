@@ -12,6 +12,8 @@ jQuery(document).ready(function($) {
 
 		});
 		
+		
+		//chat4.html textbox enter
 		$('input').on('keypress', function(e) {
 		    var code = e.keyCode || e.which;
 		    if(code==13){
@@ -19,12 +21,30 @@ jQuery(document).ready(function($) {
 		    	var search = {};
 				var chatMsg = $("#submit_message").val();
 				search["userinput"] = chatMsg;
+				
+				//Do AJAX call 
+				
 		    	insertChat("me", chatMsg , 0);
 				insertChat("agent", chatMsg , 0);
+				
+				$("#submit_message").val('');
 		    }
 		});
 		
-		
+		$('#live-chat header').on('click', function() {
+
+			$('.chat').slideToggle(300, 'swing');
+			$('.chat-message-counter').fadeToggle(300, 'swing');
+
+		});
+
+		$('.chat-close').on('click', function(e) {
+
+			e.preventDefault();
+			$('#live-chat').fadeOut(300);
+
+		});
+
 		
 		
 		$("#btn-chat").click(function(event){
@@ -166,10 +186,12 @@ jQuery(document).ready(function($) {
 			       '</span>'+
 			            '<div class="chat-body clearfix">'+
 			                '<div class="header">'+
+			                    //' <small class="pull-right text-muted">'+
 			                    ' <small class="pull-right text-muted">'+
-			                        '<span class="glyphicon glyphicon-time"></span>'+date+'</small>'+
+			                       // '<span class="glyphicon glyphicon-time"></span>'+date+'</small>'+
+			                      '<span class="glyphicon glyphicon-time"></span>'+date+'</small>'+
 			                '</div>'+
-			                '<p>'+
+			                '<p style="width: 100%; overflow: hidden; text-overflow: ellipsis;">'+
 			                	text
 			                '</p>'+
 			            '</div>'+
@@ -180,10 +202,11 @@ jQuery(document).ready(function($) {
 		       '</span>'+
 		            '<div class="chat-body clearfix">'+
 		                '<div class="header">'+
+		                    //'<small class=" text-muted"><span class="glyphicon glyphicon-time"></span>'+date+'</small>'+
 		                    '<small class=" text-muted"><span class="glyphicon glyphicon-time"></span>'+date+'</small>'+
 		                    
 		                '</div>'+
-		                '<p>'+
+		                '<p style="width: 100%; overflow: hidden; text-overflow: ellipsis;">'+
 		                	text
 		                '</p>'+
 		            '</div>'+
