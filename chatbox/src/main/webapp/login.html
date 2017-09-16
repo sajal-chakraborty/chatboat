@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Spring MVC 4 + Ajax Hello World</title>
+
+
+<link href="css/bootstrap.min.css" rel="stylesheet" />
+<link href="css/hello.css" rel="stylesheet" />
+<!--Pulling Awesome Font -->
+<link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+<script src="js/jquery.1.10.2.min.js"></script>
+
+<style type="text/css">
+
+</style>
+</head>
+
+<nav class="navbar navbar-inverse">
+	<div class="container">
+		<div class="navbar-header">
+			<a class="navbar-brand" href="#">Banki</a>
+		</div>
+	</div>
+</nav>
+
+<div class="container" style="min-height: 500px">
+
+
+	
+    <div class="row" >
+        <div class="col-md-offset-5 col-md-3">
+            <div class="form-login">
+            <h4>Welcome back.</h4>
+            <input type="text" id="userName" class="form-control input-sm chat-input" placeholder="username" />
+            </br>
+            <input type="text" id="userPassword" class="form-control input-sm chat-input" placeholder="password" />
+            </br>
+            <div class="wrapper">
+            <span class="group-btn">     
+                <a href="#" class="btn btn-primary btn-md">login <i class="fa fa-sign-in"></i></a>
+            </span>
+            </div>
+            </div>
+        
+        </div>
+    </div>
+
+
+</div>
+
+
+<div class="container">
+	<footer>
+		
+	</footer>
+</div>
+
+<script>
+	jQuery(document).ready(function($) {
+
+		$("#search-form").submit(function(event) {
+
+			// Disble the search button
+			enableSearchButton(false);
+
+			// Prevent the form from submitting via the browser.
+			event.preventDefault();
+
+			searchViaAjax();
+
+		});
+
+	});
+
+	function searchViaAjax() {
+
+		var search = {}
+		search["username"] = $("#username").val();
+		search["email"] = $("#email").val();
+
+		$.ajax({
+			type : "POST",
+			contentType : "application/json",
+			url : "${home}search/api/getSearchResult",
+			data : JSON.stringify(search),
+			dataType : 'json',
+			timeout : 100000,
+			success : function(data) {
+				console.log("SUCCESS: ", data);
+				display(data);
+			},
+			error : function(e) {
+				console.log("ERROR: ", e);
+				display(e);
+			},
+			done : function(e) {
+				console.log("DONE");
+				enableSearchButton(true);
+			}
+		});
+
+	}
+
+	function enableSearchButton(flag) {
+		$("#btn-search").prop("disabled", flag);
+	}
+
+	function display(data) {
+		var json = "<h4>Ajax Response</h4><pre>"
+				+ JSON.stringify(data, null, 4) + "</pre>";
+		$('#feedback').html(json);
+	}
+</script>
+
+</body>
+</html>
